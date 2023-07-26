@@ -35,10 +35,11 @@ The directory structure of the project is as follows:
   - `patent_processing.py`: Contains helper functions for extracting text from XML elements and performing text corrections and replacements.
   - `patent_summarization.py`: Contains helper functions for summarizing the processed patent data from the previous step and save it as a single string.
 - `data/`: This directory contains the input and output data for the patent processing pipeline. It includes the following subdirectories:
-  - `patents_raw/`: This directory should contain the input XML file with patent data downloaded from [USPTO](https://bulkdata.uspto.gov/)
+  - `patents_raw/`: This directory should contain the input XML files with patent data.
   - `patents_processed/`: This directory will store the JSON files with extracted patent sections (Title, Abstract, Description, Claims, and DocNumber).
   - `patents_summary/`: This directory will store the text files with summarized patent data.
-- `docs/`: This directory contains the one-page sketch that must be submitted in this challenge, named LLM_patent_challenge_strategy.pdf. It describes an approach for building a Proof of Concept solution to extract information on measurements and the values from patents.
+  - `raw_download/`: This directory should contain the input XML file with patent data downloaded from [USPTO](https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/2021/ipg210105.zip).
+- `docs/`: This directory contains the one-page sketch that must be submitted in this challenge, named LLM_patent_challenge_PoC_strategy.pdf. It describes an approach for building a Proof of Concept solution to extract information on measurements and the values from patents.
 
 - `requirements.txt`: This file lists the Python packages required to run the application. It will be used during the Docker image build to install the necessary dependencies.
 
@@ -57,7 +58,8 @@ The directory structure of the project is as follows:
        ├── data/
        │   ├── patents_raw/
        │   ├── patents_processed/
-       │   └── patents_summary/
+       │   ├── patents_summary/
+       │   └── raw_download/
        ├── docs/
        │   ├── llm_challenge.pdf
        │   └── LLM_patent_challenge_strategy.pdf
@@ -86,6 +88,9 @@ To run this application, you will need:
 
    ```bash
    cd llm_patent_project
+   
+3. Download the `.zip` file to be used as part of this challenge from [USPTO](https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/2021/ipg210105.zip) and put it in the folder `data/raw_download`
+
 
 ## Docker build
 
@@ -103,11 +108,11 @@ To run the Docker container and execute the patent processing pipeline, use the 
    docker run -v $(pwd)/data:/llm-app/data llm-patent-app
    ```
 
-The -v option mounts the local data directory to the /llm-app/data directory inside the container.
+The -v option mounts the local data directory to the `/llm-app/data` directory inside the container.
 
 ## Output
 
-The processed patent data will be saved in the data/patents_processed/ directory, and the patent summaries will be saved in the data/patents_summary/ directory.
+The processed patent data will be saved in the `data/patents_processed/` directory, and the patent summaries will be saved in the `data/patents_summary/` directory.
 
 
 
