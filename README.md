@@ -38,6 +38,7 @@ The directory structure of the project is as follows:
   - `patents_raw/`: This directory should contain the input XML file with patent data downloaded from [USPTO](https://bulkdata.uspto.gov/)
   - `patents_processed/`: This directory will store the JSON files with extracted patent sections (Title, Abstract, Description, Claims, and DocNumber).
   - `patents_summary/`: This directory will store the text files with summarized patent data.
+- `docs/`: This directory contains the one-page sketch that must be submitted in this challenge, named LLM_patent_challenge_strategy.pdf. It describes an approach for building a Proof of Concept solution to extract information on measurements and the values from patents.
 
 - `requirements.txt`: This file lists the Python packages required to run the application. It will be used during the Docker image build to install the necessary dependencies.
 
@@ -57,6 +58,9 @@ The directory structure of the project is as follows:
        │   ├── patents_raw/
        │   ├── patents_processed/
        │   └── patents_summary/
+       ├── docs/
+       │   ├── llm_challenge.pdf
+       │   └── LLM_patent_challenge_strategy.pdf
        ├── generate_patents.py
        ├── process_patents.py
        ├── generate_patent_summary.py
