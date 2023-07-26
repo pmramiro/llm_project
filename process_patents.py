@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
     # Parse command-line arguments
     parser = argparse.ArgumentParser(description="Process patents and extract relevant sections.")
-    parser.add_argument("num_patents", type=int, default=100, help="Number of patents to process. If not provided, the default value is 100.")
+    parser.add_argument("--num_patents", type=int, default=100, help="Number of patents to process. If not provided, the default value is 100.")
 
     args = parser.parse_args()
 
