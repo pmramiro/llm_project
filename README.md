@@ -34,7 +34,7 @@ The directory structure of the project is as follows:
   - `patent_extraction.py`: Contains helper functions for extracting patents between occurrences of a specified search string in an input XML file and saves the patent as separate file.
   - `patent_processing.py`: Contains helper functions for extracting text from XML elements and performing text corrections and replacements.
   - `patent_summarization.py`: Contains helper functions for summarizing the processed patent data from the previous step and save it as a single string.
-- `data/`: This directory contains the input and output data for the patent processing pipeline. It includes the following subdirectories:
+- `data/`: This directory contains the input and output data for the patent processing pipeline (patent is 710 left as an example in all folders). It includes the following subdirectories:
   - `patents_raw/`: This directory should contain the input XML files with patent data.
   - `patents_processed/`: This directory will store the JSON files with extracted patent sections (Title, Abstract, Description, Claims, and DocNumber).
   - `patents_summary/`: This directory will store the text files with summarized patent data.
