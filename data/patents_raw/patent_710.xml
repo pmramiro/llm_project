@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USPP032726-20210105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20201221" date-publ="20210105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>PP032726</doc-number>
+<kind>P2</kind>
+<date>20210105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="plant">
+<document-id>
+<country>US</country>
+<doc-number>16873129</doc-number>
+<date>20200206</date>
+</document-id>
+</application-reference>
+<us-application-series-code>16</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20180101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>6</main-group>
+<subgroup>38</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20180101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>5</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>PLT307</main-classification>
+</classification-national>
+<invention-title id="d2e43">Poinsettia plant named &#x2018;NPCW19282&#x2019;</invention-title>
+<us-botanic>
+<latin-name>Euphorbia pulcherrima</latin-name>
+<variety>NPCW19282</variety>
+</us-botanic>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>PLT307</main-classification>
+</classification-national>
+<classification-cpc-text>A01H 6/38</classification-cpc-text>
+<classification-cpc-text>A01H 5/02</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>1</number-of-drawing-sheets>
+<number-of-figures>1</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<orgname>Klemm+Sohn GmbH &#x26; Co. KG</orgname>
+<address>
+<city>Stuttgart</city>
+<country>DE</country>
+</address>
+</addressbook>
+<residence>
+<country>DE</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>von Tubeuf</last-name>
+<first-name>Guido</first-name>
+<address>
+<city>Stuttgart</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Weatherly IP Solutions, LLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Campbell</last-name>
+<first-name>Barbara</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Klemm+Sohn GmbH &#x26; Co. KG</orgname>
+<role>03</role>
+<address>
+<city>Stuttgart</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Para</last-name>
+<first-name>Annette H</first-name>
+<department>1661</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A new poinsettia plant particularly distinguished by having red bracts having an upright habit, and having a triangular plant form, is disclosed.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="142.32mm" wi="165.44mm" file="USPP032726-20210105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0002" num="0001">Genus and species: <i>Euphorbia pulcherrima. </i></p>
+<p id="p-0003" num="0002">Variety denomination: &#x2018;NPCW19282&#x2019;.</p>
+<heading id="h-0001" level="1">BACKGROUND OF THE NEW PLANT</heading>
+<p id="p-0004" num="0003">The present invention comprises a new and distinct variety of poinsettia, botanically known as <i>Euphorbia pulcherrima </i>and hereinafter referred to by the variety name &#x2018;NPCW19282&#x2019;. &#x2018;NPCW19282&#x2019; was derived from a cross conducted indoors in a greenhouse in Juja, Kenya in December 2013 between the female poinsettia &#x2018;Prima Red&#x2019;, also known as &#x2018;Dueprima&#x2019; (U.S. Plant Pat. No. 25,480) and the male poinsettia &#x2018;CHRISTMAS BEAUTY Red&#x2019;, also known as &#x2018;NPCW10158&#x2019; (U.S. Plant Pat. No. 22,580).</p>
+<p id="p-0005" num="0004">Seedlings from the cross were subsequently planted and in August 2014, a single plant was selected in Stuttgart, Germany. In February 2015, &#x2018;NPCW19282&#x2019; was first asexually propagated by vegetative apical cuttings in Stuttgart, Germany. &#x2018;NPCW19282&#x2019; was found to reproduce true to type in successive generations of asexual propagation via vegetative apical cuttings in Stuttgart, Germany.</p>
+<heading id="h-0002" level="1">SUMMARY</heading>
+<p id="p-0006" num="0005">The following are the most outstanding and distinguishing characteristics of this new variety when grown under normal horticultural practices in Stuttgart, Germany.
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0006">1. Red bracts having an upright habit; and</li>
+        <li id="ul0002-0002" num="0007">2. Having a triangular plant form.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">DESCRIPTION OF THE PHOTOGRAPH</heading>
+<p id="p-0007" num="0008">This new poinsettia plant is illustrated by the accompanying photograph which shows an overall view of the whole plant. The photograph is of a plant approximately 12 weeks old grown indoors in Stuttgart, Germany in December 2017. The colors shown are as true as can be reasonably obtained by conventional photographic procedures.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DESCRIPTION OF THE NEW VARIETY</heading>
+<p id="p-0008" num="0009">The following detailed descriptions set forth the distinctive characteristics of &#x2018;NPCW19282&#x2019;. The data which define these characteristics were collected from asexual reproductions carried out in Stuttgart, Germany. Data was collected on plants that were 4-months-old and grown in a glass greenhouse under normal horticultural practices in Stuttgart, Germany in November 2019. Color references are to The R.H.S. Colour Chart of The Royal Horticultural Society of London (R.H.S.), 5<sup>th </sup>edition (2007) unless where otherwise stated.
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0010">Classification:
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0000">
+        <ul id="ul0005" list-style="none">
+            <li id="ul0005-0001" num="0011"><i>Family</i>.&#x2014;Euphorbiaceae.</li>
+            <li id="ul0005-0002" num="0012"><i>Species.&#x2014;Euphorbia pulcherrima. </i></li>
+            <li id="ul0005-0003" num="0013"><i>Common name</i>.&#x2014;Poinsettia.</li>
+            <li id="ul0005-0004" num="0014"><i>Variety</i>.&#x2014;&#x2018;NPCW19282&#x2019;.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li id="ul0003-0002" num="0015">Parentage:
+    <ul id="ul0006" list-style="none">
+        <li id="ul0006-0001" num="0000">
+        <ul id="ul0007" list-style="none">
+            <li id="ul0007-0001" num="0016"><i>Female</i>.&#x2014;&#x2018;Prima Red&#x2019;, also known as &#x2018;Dueprima&#x2019; (U.S. Plant Pat. No. 25,480).</li>
+            <li id="ul0007-0002" num="0017"><i>Male</i>.&#x2014;CHRISTMAS BEAUTY &#x2018;Red&#x2019;, also known as &#x2018;NPCW10158&#x2019; (U.S. Plant Pat. No. 22,580).</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li id="ul0003-0003" num="0018">Plant:
+    <ul id="ul0008" list-style="none">
+        <li id="ul0008-0001" num="0000">
+        <ul id="ul0009" list-style="none">
+            <li id="ul0009-0001" num="0019"><i>Form</i>.&#x2014;Triangular.</li>
+            <li id="ul0009-0002" num="0020"><i>Growth habit</i>.&#x2014;Upright.</li>
+            <li id="ul0009-0003" num="0021"><i>Height.&#x2014;</i>19 cm to 21 cm.</li>
+            <li id="ul0009-0004" num="0022"><i>Width.&#x2014;</i>29 cm to 31 cm.</li>
+            <li id="ul0009-0005" num="0023"><i>Average number of inflorescences per plant.&#x2014;</i>5 to 6.</li>
+            <li id="ul0009-0006" num="0024"><i>Keeping quality</i>.&#x2014;Very good.</li>
+            <li id="ul0009-0007" num="0025"><i>Time to produce a cutting.&#x2014;</i>5 to 6 weeks.</li>
+            <li id="ul0009-0008" num="0026"><i>Flowering response time</i>.&#x2014;Approximately 55 days.</li>
+            <li id="ul0009-0009" num="0027"><i>Propagation type</i>.&#x2014;Apical cuttings.</li>
+            <li id="ul0009-0010" num="0028"><i>Rooting habit and root color</i>.&#x2014;Freely branching and white.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li id="ul0003-0004" num="0029">Lateral branches:
+    <ul id="ul0010" list-style="none">
+        <li id="ul0010-0001" num="0000">
+        <ul id="ul0011" list-style="none">
+            <li id="ul0011-0001" num="0030"><i>Color</i>.&#x2014;RHS 143A (Green).</li>
+            <li id="ul0011-0002" num="0031"><i>Length.&#x2014;</i>16 cm to 20 cm.</li>
+            <li id="ul0011-0003" num="0032"><i>Internode length.&#x2014;</i>0.5 cm to 3.0 cm.</li>
+            <li id="ul0011-0004" num="0033"><i>Diameter.&#x2014;</i>0.4 cm to 0.6 cm.</li>
+            <li id="ul0011-0005" num="0034"><i>Branching habit</i>.&#x2014;Freely branching.</li>
+            <li id="ul0011-0006" num="0035"><i>Number of lateral branches per plant.&#x2014;</i>6 to 7.</li>
+            <li id="ul0011-0007" num="0036"><i>Texture</i>.&#x2014;Smooth.</li>
+            <li id="ul0011-0008" num="0037"><i>Strength</i>.&#x2014;Sturdy.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li id="ul0003-0005" num="0038">Leaves:
+    <ul id="ul0012" list-style="none">
+        <li id="ul0012-0001" num="0000">
+        <ul id="ul0013" list-style="none">
+            <li id="ul0013-0001" num="0039"><i>Quantity.&#x2014;</i>6 to 8 per lateral branch.</li>
+            <li id="ul0013-0002" num="0040"><i>Arrangement</i>.&#x2014;Alternate.</li>
+            <li id="ul0013-0003" num="0041"><i>Number of lobes on the leaf blade.&#x2014;</i>1 to 2.</li>
+            <li id="ul0013-0004" num="0042"><i>Lobation depth</i>.&#x2014;Almost absent, most leaves have almost entire margins.</li>
+            <li id="ul0013-0005" num="0043"><i>Depth of the deepest sinus of the leaf blade.&#x2014;</i>0.2 cm.</li>
+            <li id="ul0013-0006" num="0044"><i>Shape</i>.&#x2014;Obtuse.</li>
+            <li id="ul0013-0007" num="0045"><i>Apex</i>.&#x2014;Acuminate.</li>
+            <li id="ul0013-0008" num="0046"><i>Base</i>.&#x2014;Rounded.</li>
+            <li id="ul0013-0009" num="0047"><i>Margin</i>.&#x2014;Some margins are serrate but most are entire.</li>
+            <li id="ul0013-0010" num="0048"><i>Length.&#x2014;</i>6 cm to 8 cm.</li>
+            <li id="ul0013-0011" num="0049"><i>Width.&#x2014;</i>6 cm to 8 cm.</li>
+            <li id="ul0013-0012" num="0050"><i>Texture </i>(<i>both upper and lower surfaces</i>).&#x2014;Smooth.</li>
+            <li id="ul0013-0013" num="0051"><i>Vein color</i>.&#x2014;Upper surface: No color; transparent. Lower surface: RHS 139D and main vein is slightly reddish, close to RHS 184 C.</li>
+            <li id="ul0013-0014" num="0052"><i>Variegation</i>.&#x2014;Absent.</li>
+            <li id="ul0013-0015" num="0053"><i>Venation pattern</i>.&#x2014;Reticulate.</li>
+            <li id="ul0013-0016" num="0054"><i>Color</i>.&#x2014;Mature foliage: Upper surface: RHS 139A (Green). Lower surface: RHS 139D (Green). Immature foliage: Upper surface: RHS 141A (Green). Lower surface: RHS 139B (Green).</li>
+            <li id="ul0013-0017" num="0055"><i>Leaf petiole</i>.&#x2014;Length: 3 cm to 4 cm. Diameter: 0.2 cm to 0.3 cm. Color: Upper (part) surface: RHS 59A (Red-Purple). Lower (part) surface: RHS 181B (Greyed-Red). Texture: Smooth. Strength: Medium.</li>
+            <li id="ul0013-0018" num="0056"><i>Transitional leaves</i>.&#x2014;Few; shape is ovate, length is 4.0 cm to 8.0 cm, width is 3.0 cm to 6.0 cm and color of the upper surface is RHS 46A and regions close to RHS N186B and lower surface is RHS 138B and regions close to RHS 46B.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li id="ul0003-0006" num="0057">Inflorescence:
+    <ul id="ul0014" list-style="none">
+        <li id="ul0014-0001" num="0000">
+        <ul id="ul0015" list-style="none">
+            <li id="ul0015-0001" num="0058"><i>Type and habit</i>.&#x2014;Cluster of cyathia.</li>
+            <li id="ul0015-0002" num="0059"><i>Quantity per lateral branch.&#x2014;</i>1</li>
+            <li id="ul0015-0003" num="0060"><i>Position relative to foliar plane</i>.&#x2014;Above.</li>
+            <li id="ul0015-0004" num="0061"><i>Lastingness of inflorescence on the plant.&#x2014;</i>4 to 5 weeks.</li>
+            <li id="ul0015-0005" num="0062"><i>Natural flowering season</i>.&#x2014;End of November.</li>
+            <li id="ul0015-0006" num="0063"><i>Diameter.&#x2014;</i>16 cm to 18 cm.</li>
+            <li id="ul0015-0007" num="0064"><i>Height.&#x2014;</i>2 cm to 3 cm.</li>
+            <li id="ul0015-0008" num="0065"><i>Fragrance</i>.&#x2014;Absent.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li id="ul0003-0007" num="0066">Bracts:
+    <ul id="ul0016" list-style="none">
+        <li id="ul0016-0001" num="0000">
+        <ul id="ul0017" list-style="none">
+            <li id="ul0017-0001" num="0067"><i>Number of bracts per inflorescence.&#x2014;</i>8 to 10.</li>
+            <li id="ul0017-0002" num="0068"><i>Shape</i>.&#x2014;Ovate.</li>
+            <li id="ul0017-0003" num="0069"><i>Apex</i>.&#x2014;Obtuse.</li>
+            <li id="ul0017-0004" num="0070"><i>Base</i>.&#x2014;Rounded.</li>
+            <li id="ul0017-0005" num="0071"><i>Margin</i>.&#x2014;Entire.</li>
+            <li id="ul0017-0006" num="0072"><i>Size</i>.&#x2014;Length: 5 cm to 11 cm. Width: 4 cm to 7 cm.</li>
+            <li id="ul0017-0007" num="0073"><i>Texture </i>(<i>both upper and lower surfaces</i>).&#x2014;Smooth.</li>
+            <li id="ul0017-0008" num="0074"><i>Folding along the main vein</i>.&#x2014;Absent.</li>
+            <li id="ul0017-0009" num="0075"><i>Twisting</i>.&#x2014;Absent.</li>
+            <li id="ul0017-0010" num="0076"><i>Rugosity between the veins</i>.&#x2014;Medium.</li>
+            <li id="ul0017-0011" num="0077"><i>Venation pattern</i>.&#x2014;Reticulate.</li>
+            <li id="ul0017-0012" num="0078"><i>Vein color</i>.&#x2014;Upper surface: RHS 59A (Red-Purple). Lower surface: RHS 181B (Greyed-Red).</li>
+            <li id="ul0017-0013" num="0079"><i>Bract color</i>.&#x2014;Upper surface: Close to RHS 46B (Red). Lower surface: Close to RHS 45B (Red).</li>
+            <li id="ul0017-0014" num="0080"><i>Bract petiole</i>.&#x2014;Length: 0.5 cm to 1.5 cm. Diameter: 0.2 cm. Color: Upper (part) surface: RHS 59A (Red-Purple). Lower (part) surface: RHS 181A (Greyed-Purple). Texture: Smooth. Strength: Medium.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li id="ul0003-0008" num="0081">Cyme:
+    <ul id="ul0018" list-style="none">
+        <li id="ul0018-0001" num="0000">
+        <ul id="ul0019" list-style="none">
+            <li id="ul0019-0001" num="0082"><i>Diameter.&#x2014;</i>1.5 cm to 2.5 cm.</li>
+            <li id="ul0019-0002" num="0083"><i>Cyathia number.&#x2014;</i>5 to 7 per inflorescence.</li>
+            <li id="ul0019-0003" num="0084"><i>Deformation of glands of the cyathium</i>.&#x2014;Absent.</li>
+            <li id="ul0019-0004" num="0085"><i>Timing of opening of cyathia</i>.&#x2014;Opens end of November; first pollen appears in parallel to opening of the nectar cups, stigmas arrive 2 weeks later.</li>
+            <li id="ul0019-0005" num="0086"><i>Cyathium</i>.&#x2014;Shape: Ovate. Texture (inner and outer surfaces): Smooth. Diameter: 0.2 cm to 0.5 cm. Length: 0.3 cm to 0.7 cm. Color: RHS 143C (Green).</li>
+            <li id="ul0019-0006" num="0087"><i>Peduncle</i>.&#x2014;Color: RHS 142B (Green). Length: 0.2 cm. Diameter: 0.1 cm. Texture: Smooth. Strength: Medium.</li>
+            <li id="ul0019-0007" num="0088"><i>Nectar cups</i>.&#x2014;Number: 1 per cyathium. Diameter: 0.1 cm. Length: 0.3 cm to 0.4 cm. Color: RHS 13A (Yellow). Shape: Lip-shaped. Texture (inner and outer surfaces): Smooth.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li id="ul0003-0009" num="0089">Reproductive organs:
+    <ul id="ul0020" list-style="none">
+        <li id="ul0020-0001" num="0000">
+        <ul id="ul0021" list-style="none">
+            <li id="ul0021-0001" num="0090"><i>Stamen quantity.&#x2014;</i>5 to 10 per cyathium.</li>
+            <li id="ul0021-0002" num="0091"><i>Stamen shape</i>.&#x2014;Ovate.</li>
+            <li id="ul0021-0003" num="0092"><i>Filament length.&#x2014;</i>0.25 cm.</li>
+            <li id="ul0021-0004" num="0093"><i>Filament color</i>.&#x2014;RHS 46A (Red).</li>
+            <li id="ul0021-0005" num="0094"><i>Pollen quantity</i>.&#x2014;Moderate to abundant.</li>
+            <li id="ul0021-0006" num="0095"><i>Pollen color</i>.&#x2014;RHS 12A (Yellow).</li>
+            <li id="ul0021-0007" num="0096"><i>Gynoecium</i>.&#x2014;Present. Pistil quantity per cyathium: 1. Pistil length: 0.2 cm. Stigma form: Divided in 2 parts. Stigma color: RHS 183A (Greyed-Purple). Style length 0.2 cm. Style color: RHS 183A (Greyed-Purple). Ovary length: 0.2 cm. Ovary color: RHS 143C (Green).</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li id="ul0003-0010" num="0097">Fruit and seed set: None observed.</li>
+    <li id="ul0003-0011" num="0098">Disease and pest resistance: None observed.</li>
+</ul>
+</p>
+<heading id="h-0005" level="1">COMPARISON WITH PARENTAL AND COMMERCIAL LINES</heading>
+<p id="p-0009" num="0099">When &#x2018;NPCW19282&#x2019; is compared to its parental lines, the following differences are noted in Table 1.</p>
+<p id="p-0010" num="0100">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="56pt" align="left"/>
+<colspec colname="3" colwidth="63pt" align="left"/>
+<colspec colname="4" colwidth="49pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="4" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>CHRISTMAS</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>BEAUTY</entry>
+</row>
+<row>
+<entry>Characteristic</entry>
+<entry>&#x2018;NPCW19282&#x2019;</entry>
+<entry>&#x2018;Prima Red&#x2019;</entry>
+<entry>&#x2018;Red&#x2019;</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Vigor</entry>
+<entry>Medium</entry>
+<entry>Medium to strong</entry>
+<entry>Medium</entry>
+</row>
+<row>
+<entry>Habit</entry>
+<entry>Medium angle</entry>
+<entry>Small angle</entry>
+<entry>Medium angle </entry>
+</row>
+<row>
+<entry/>
+<entry>(upright)</entry>
+<entry>(narrow and very</entry>
+<entry>(upright)</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>upright)</entry>
+<entry/>
+</row>
+<row>
+<entry>Bract shape</entry>
+<entry>More upright than</entry>
+<entry>Horizontal</entry>
+<entry>Less upright</entry>
+</row>
+<row>
+<entry/>
+<entry>CHRISTMAS</entry>
+<entry/>
+<entry>than</entry>
+</row>
+<row>
+<entry/>
+<entry>BEAUTY</entry>
+<entry/>
+<entry>&#x2018;NPCW19282&#x2019;</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0011" num="0101">When &#x2018;NPCW19282&#x2019; is compared to the commercial line &#x2018;NPCW15235&#x2019; (U.S. Plant Pat. No. 28,703, the following differences are noted in Table 2.</p>
+<p id="p-0012" num="0102">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="98pt" align="left"/>
+<colspec colname="3" colwidth="63pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" rowsep="1">TABLE 2</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Characteristic</entry>
+<entry>&#x2018;NPCW19282&#x2019;</entry>
+<entry>&#x2018;NPCW15235&#x2019;</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Height</entry>
+<entry>19 cm to 21 cm</entry>
+<entry>22 cm to 27 cm</entry>
+</row>
+<row>
+<entry>Lobation depth</entry>
+<entry>Almost absent, most leaves have</entry>
+<entry>Moderately deep</entry>
+</row>
+<row>
+<entry/>
+<entry>almost entire margins</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A new and distinct variety of poinsettia plant designated &#x2018;NPCW19282&#x2019; as illustrated and described herein.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
