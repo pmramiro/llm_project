@@ -47,7 +47,7 @@ The directory structure of the project is as follows:
 
 - `config/`: This directory contains a configuration file in JSON format with all the details on the API key, endpoint and cloud environment.
 
-- `docs/`: This directory contains the one-page sketch that must be submitted in this challenge, named LLM_patent_challenge_PoC_strategy.pdf. It describes an approach for building a Proof of Concept solution to extract information on measurements and the values from patents.
+- `docs/`: This directory contains the one-page sketch that must be submitted in this challenge, named LLM_patent_challenge_PoC_strategy.pdf. It describes an approach for building a Proof of Concept solution to extract information on measurements and the values from patents. It also includes the slides that will be presented in the technical discussion.
 
 - `requirements.txt`: This file lists the Python packages required to run the application. It will be used during the Docker image build to install the necessary dependencies.
 
@@ -74,7 +74,8 @@ The directory structure of the project is as follows:
        │   └── config.json
        ├── docs/
        │   ├── llm_challenge.pdf
-       │   └── LLM_patent_challenge_strategy.pdf
+       │   ├── LLM_patent_challenge_strategy.pdf
+       │   └── Patent_analysis_challenge_slides.pdf
        ├── generate_patents.py
        ├── process_patents.py
        ├── generate_patent_summary.py
