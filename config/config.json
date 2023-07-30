@@ -1,0 +1,6 @@
+{
+  "api_key": "d06c6b0f881a496186066c83b3afda0c",
+  "api_endpoint": "https://hiring-openai-service.openai.azure.com/",
+  "api_type": "azure",
+  "api_version": "2023-05-15"
+}

@@ -1,0 +1,62 @@
+{
+    "Measurement ID 1": {
+        "Object": "Apple tree",
+        "Variable": "Fruit size",
+        "Value": "Large to very large",
+        "Units": "NA"
+    },
+    "Measurement ID 2": {
+        "Object": "Apple tree",
+        "Variable": "Fruit weight",
+        "Value": "298g",
+        "Units": "g"
+    },
+    "Measurement ID 3": {
+        "Object": "Apple tree",
+        "Variable": "Eye basin depth",
+        "Value": "18.4mm",
+        "Units": "mm"
+    },
+    "Measurement ID 4": {
+        "Object": "Apple tree",
+        "Variable": "Eye width",
+        "Value": "36.9mm",
+        "Units": "mm"
+    },
+    "Measurement ID 5": {
+        "Object": "Apple tree",
+        "Variable": "Average fruit firmness",
+        "Value": "8.8 kgf",
+        "Units": "kgf"
+    },
+    "Measurement ID 11": {
+        "Object": "Apple tree",
+        "Variable": "Flavor",
+        "Value": "Sweet wine",
+        "Units": "NA"
+    },
+    "Measurement ID 12": {
+        "Object": "Apple tree",
+        "Variable": "Aroma",
+        "Value": "Sweet apple",
+        "Units": "NA"
+    },
+    "Measurement ID 13": {
+        "Object": "Apple tree. Variable(s): Number of locules, seed size. Value(s): See text. Units: NA. Measurement ID 14. Object: Apple tree",
+        "Variable": "Keeping quality",
+        "Value": "Excellent, up to 8 months at 0.5\u00b0 C",
+        "Units": "NA"
+    },
+    "Measurement ID 15": {
+        "Object": "Apple tree",
+        "Variable": "Harvest time",
+        "Value": "Late September-early October",
+        "Units": "NA"
+    },
+    "Measurement ID 16": {
+        "Object": "Apple tree",
+        "Variable": "Use",
+        "Value": "Dessert",
+        "Units": "NA"
+    }
+}
