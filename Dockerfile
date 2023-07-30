@@ -13,6 +13,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the directories to the container
 COPY src /llm-app/src
 COPY data /llm-app/src
+COPY prompts /llm-app/prompts
+COPY config /llm-app/config
 
 # Copy the source files to the container
 COPY generate_patents.py /llm-app

@@ -34,11 +34,19 @@ The directory structure of the project is as follows:
   - `patent_extraction.py`: Contains helper functions for extracting patents between occurrences of a specified search string in an input XML file and saves the patent as separate file.
   - `patent_processing.py`: Contains helper functions for extracting text from XML elements and performing text corrections and replacements.
   - `patent_summarization.py`: Contains helper functions for summarizing the processed patent data from the previous step and save it as a single string.
+  - `text_segmentation.py`: Contains helper functions for segmenting long input texts into smaller, overlapping segments.
+  - `postprocessing.py`: Contains helper functions for postprocessing the response of the LLM model and return measurements and their values in a JSON file with a structured format.
 - `data/`: This directory contains the input and output data for the patent processing pipeline (patent is 710 left as an example in all folders). It includes the following subdirectories:
+  - `raw_download/`: This directory should contain the input XML file with patent data downloaded from [USPTO](https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/2021/ipg210105.zip).
   - `patents_raw/`: This directory should contain the input XML files with patent data.
   - `patents_processed/`: This directory will store the JSON files with extracted patent sections (Title, Abstract, Description, Claims, and DocNumber).
   - `patents_summary/`: This directory will store the text files with summarized patent data.
-  - `raw_download/`: This directory should contain the input XML file with patent data downloaded from [USPTO](https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/2021/ipg210105.zip).
+  - `patents_measurements/`: This directory will store the JSON files with the extracted measurements from each patent.
+
+- `prompts/`: This directory may contain various prompt files, where the prompts for the LLM are stored.
+
+- `config/`: This directory contains a configuration file in JSON format with all the details on the API key, endpoint and cloud environment.
+
 - `docs/`: This directory contains the one-page sketch that must be submitted in this challenge, named LLM_patent_challenge_PoC_strategy.pdf. It describes an approach for building a Proof of Concept solution to extract information on measurements and the values from patents.
 
 - `requirements.txt`: This file lists the Python packages required to run the application. It will be used during the Docker image build to install the necessary dependencies.
@@ -60,6 +68,10 @@ The directory structure of the project is as follows:
        │   ├── patents_processed/
        │   ├── patents_summary/
        │   └── raw_download/
+       ├── prompts/
+       │   └── prompt_1.txt
+       ├── config/
+       │   └── config.json
        ├── docs/
        │   ├── llm_challenge.pdf
        │   └── LLM_patent_challenge_strategy.pdf

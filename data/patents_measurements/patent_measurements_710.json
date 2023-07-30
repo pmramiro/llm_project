@@ -1,98 +1,56 @@
 {
     "Measurement ID 1": {
-        "Object": "Poinsettia plant named \u2018NPCW19282\u2019",
-        "Variable": "Plant height",
+        "Object": "Poinsettia Plant",
+        "Variable": "Height",
         "Value": "19 cm to 21 cm",
         "Units": "cm"
     },
     "Measurement ID 2": {
-        "Object": "Leaves",
-        "Variable": "Length",
-        "Value": "6 cm to 8 cm",
-        "Units": "cm"
+        "Object": "Bract",
+        "Variable": "Shape",
+        "Value": "Ovate",
+        "Units": "NA"
     },
     "Measurement ID 3": {
-        "Object": "Leaves",
-        "Variable": "Width",
-        "Value": "6 cm to 8 cm",
-        "Units": "cm"
+        "Object": "Bract",
+        "Variable": "Size",
+        "Value": "Height: 5 cm to 11 cm, Width: 4 cm to 7 cm",
+        "Units": "NA"
     },
     "Measurement ID 4": {
-        "Object": "Bracts",
-        "Variable": "Number of bracts per inflorescence",
-        "Value": "8 to 10",
-        "Units": "None"
+        "Object": "Inflorescence",
+        "Variable": "Diameter",
+        "Value": "16 cm to 18 cm",
+        "Units": "cm"
     },
     "Measurement ID 5": {
-        "Object": "Bracts",
-        "Variable": "Length",
-        "Value": "5 cm to 11 cm",
+        "Object": "Inflorescence",
+        "Variable": "Height",
+        "Value": "2 cm to 3 cm",
         "Units": "cm"
     },
     "Measurement ID 6": {
-        "Object": "Bracts",
-        "Variable": "Width",
-        "Value": "4 cm to 7 cm",
+        "Object": "Leaves",
+        "Variable": "Length",
+        "Value": "6 cm to 8 cm",
         "Units": "cm"
     },
     "Measurement ID 7": {
-        "Object": "Plant",
-        "Variable": "Plant width",
-        "Value": "29 cm to 31 cm",
+        "Object": "Leaves",
+        "Variable": "Width",
+        "Value": "6 cm to 8 cm",
         "Units": "cm"
     },
     "Measurement ID 8": {
-        "Object": "Lateral branches",
-        "Variable": "Diameter",
-        "Value": "0.4 cm to 0.6 cm",
-        "Units": "cm"
+        "Object": "Cyathium",
+        "Variable": "Shape",
+        "Value": "Ovate",
+        "Units": "NA"
     },
     "Measurement ID 9": {
-        "Object": "Number of inflorescences per plant",
-        "Variable": "Quantity",
-        "Value": "5 to 6",
-        "Units": "None"
-    },
-    "Measurement ID 10": {
-        "Object": "Keeping quality",
-        "Variable": "Quality",
-        "Value": "Very good",
-        "Units": "None"
-    },
-    "Measurement ID 11": {
-        "Object": "Time to produce a cutting",
-        "Variable": "Time",
-        "Value": "5 to 6 weeks",
-        "Units": "None"
-    },
-    "Measurement ID 12": {
-        "Object": "Days to flowering",
-        "Variable": "Time",
-        "Value": "Approximately 55 days",
-        "Units": "Days"
-    },
-    "Measurement ID 13": {
-        "Object": "Rooting habit",
-        "Variable": "Habit",
-        "Value": "Freely branching",
-        "Units": "None"
-    },
-    "Measurement ID 14": {
-        "Object": "Nectar cups",
-        "Variable": "Quantity per cyathium",
-        "Value": "1",
-        "Units": "None"
-    },
-    "Measurement ID 15": {
-        "Object": "Cyathia number",
-        "Variable": "Quantity per inflorescence",
-        "Value": "5 to 7",
-        "Units": "None"
-    },
-    "Measurement ID 16": {
-        "Object": "Stamen quantity",
-        "Variable": "Quantity per cyathium",
-        "Value": "5 to 10",
-        "Units": "None"
+        "Object": "Cyathium",
+        "Variable": "Diameter",
+        "Value": "0.2 cm to 0.5 cm",
+        "Units": "cm"
     }
 }

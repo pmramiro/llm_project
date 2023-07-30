@@ -1,62 +1,92 @@
 {
     "Measurement ID 1": {
-        "Object": "Apple tree",
-        "Variable": "Fruit size",
-        "Value": "Large to very large",
-        "Units": "NA"
+        "Object": "Apple tree named \u2018HOT84A1\u2019",
+        "Variable": "Diameter",
+        "Value": "the images provide no measurement of the diameter",
+        "Units": "none"
     },
     "Measurement ID 2": {
-        "Object": "Apple tree",
-        "Variable": "Fruit weight",
-        "Value": "298g",
-        "Units": "g"
+        "Object": "Apple tree named \u2018HOT84A1\u2019",
+        "Variable": "Length",
+        "Value": "2.7 m in height",
+        "Units": "m"
     },
     "Measurement ID 3": {
-        "Object": "Apple tree",
-        "Variable": "Eye basin depth",
-        "Value": "18.4mm",
-        "Units": "mm"
+        "Object": "Apple tree named \u2018HOT84A1\u2019",
+        "Variable": "Width",
+        "Value": "1.4 m in width",
+        "Units": "m"
     },
     "Measurement ID 4": {
-        "Object": "Apple tree",
-        "Variable": "Eye width",
-        "Value": "36.9mm",
+        "Object": "Fruit",
+        "Variable": "Width",
+        "Value": "75 mm in width",
         "Units": "mm"
     },
-    "Measurement ID 5": {
-        "Object": "Apple tree",
-        "Variable": "Average fruit firmness",
-        "Value": "8.8 kgf",
-        "Units": "kgf"
+    "Measurement ID 6": {
+        "Object": "Fruit",
+        "Variable": "Height",
+        "Value": "87.5 mm in height",
+        "Units": "mm"
+    },
+    "Measurement ID 7": {
+        "Object": "Fruit",
+        "Variable": "Weight",
+        "Value": "298 g",
+        "Units": "g"
+    },
+    "Measurement ID 8": {
+        "Object": "Stalk",
+        "Variable": "Length",
+        "Value": "21.9 mm in length",
+        "Units": "mm"
+    },
+    "Measurement ID 9": {
+        "Object": "Stalk",
+        "Variable": "Width",
+        "Value": "3 mm in width",
+        "Units": "mm"
+    },
+    "Measurement ID 10": {
+        "Object": "Stalk cavity",
+        "Variable": "Depth",
+        "Value": "17.7 mm in depth",
+        "Units": "mm"
     },
     "Measurement ID 11": {
-        "Object": "Apple tree",
-        "Variable": "Flavor",
-        "Value": "Sweet wine",
-        "Units": "NA"
+        "Object": "Stalk cavity",
+        "Variable": "Width",
+        "Value": "35.1 mm in width",
+        "Units": "mm"
     },
     "Measurement ID 12": {
-        "Object": "Apple tree",
-        "Variable": "Aroma",
-        "Value": "Sweet apple",
-        "Units": "NA"
+        "Object": "Pedicel",
+        "Variable": "Length",
+        "Value": "26.5 mm in length",
+        "Units": "mm"
     },
     "Measurement ID 13": {
-        "Object": "Apple tree. Variable(s): Number of locules, seed size. Value(s): See text. Units: NA. Measurement ID 14. Object: Apple tree",
-        "Variable": "Keeping quality",
-        "Value": "Excellent, up to 8 months at 0.5\u00b0 C",
-        "Units": "NA"
+        "Object": "Pedicel",
+        "Variable": "Diameter",
+        "Value": "1.4 mm in diameter",
+        "Units": "mm"
+    },
+    "Measurement ID 14": {
+        "Object": "Eye basin",
+        "Variable": "Depth",
+        "Value": "18.4 mm in depth",
+        "Units": "mm"
     },
     "Measurement ID 15": {
-        "Object": "Apple tree",
-        "Variable": "Harvest time",
-        "Value": "Late September-early October",
-        "Units": "NA"
+        "Object": "Eye basin",
+        "Variable": "Width",
+        "Value": "36.9 mm in width",
+        "Units": "mm"
     },
     "Measurement ID 16": {
-        "Object": "Apple tree",
-        "Variable": "Use",
-        "Value": "Dessert",
-        "Units": "NA"
+        "Object": "Fruit skin",
+        "Variable": "Thickness",
+        "Value": "undefined",
+        "Units": "undefined"
     }
 }
