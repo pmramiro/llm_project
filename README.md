@@ -22,7 +22,7 @@ The application uses Python scripts to perform the following tasks:
 
 3. **generate_patent_summary.py**: Summarizes the processed patent data from the previous step and saves the summaries as text files in another output directory. The number of files to process can be specified using the `NUM_PATENTS` environment variable. The number of patents to process can be specified using the `NUM_PATENTS` variable, which can be customized using the environment variable define in `entrypoint.sh` or passing it as an argument to the script.
 
-4. **llm_api_call.py**: Reads the content contained in each of the summarized patent files and sends it to the LLM API with a custom prompt defined in this script. The default prompt defined for this challenge is: "Find any measurements and their values in this text. I want to know what is being measured, the value of the measurement and the units of the measurement. Return the information in a json file:"
+4. **llm_api_call.py**: Reads the content contained in each of the summarized patent files and sends it to the LLM API with a custom prompt defined in this script.
 
 The `entrypoint.sh` script runs the previous scripts sequencially when the Docker container is run.
 
