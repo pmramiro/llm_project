@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="US10881098-20210105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20201221" date-publ="20210105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>10881098</doc-number>
+<kind>B2</kind>
+<date>20210105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>16022452</doc-number>
+<date>20180628</date>
+</document-id>
+</application-reference>
+<us-application-series-code>16</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>266</us-term-extension>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>1</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>1</main-group>
+<subgroup>0226</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>1</main-group>
+<subgroup>021</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>1</main-group>
+<subgroup>0242</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>1</main-group>
+<subgroup>0263</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>1</main-group>
+<subgroup>0284</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e55">Tissue preservation system</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4695536</doc-number>
+<kind>A</kind>
+<name>Lindstrom et al.</name>
+<date>19870900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2008/0113426</doc-number>
+<kind>A1</kind>
+<name>Smith et al.</name>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2009/0017439</doc-number>
+<kind>A1</kind>
+<name>Shimko et al.</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2009/0076624</doc-number>
+<kind>A1</kind>
+<name>Rahaman et al.</name>
+<date>20090300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2010/0319805</doc-number>
+<kind>A1</kind>
+<name>Klein</name>
+<date>20101200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2020/0054002</doc-number>
+<kind>A1</kind>
+<name>Cook et al.</name>
+<date>20200200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2008/131973</doc-number>
+<date>20081100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2010/036726</doc-number>
+<date>20100400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2010/049181</doc-number>
+<date>20100500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00010">
+<othercit>Bian et al, &#x201c;Mechanical and biochemical characterization of cartilage explants in serum-free culture,&#x201d; <i>J Biomechanics</i>, 41:1153-1159, 2008.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00011">
+<othercit>Bian et al., &#x201c;Effects of dexamethasone on the functional properties of cartilage explants during long-term culture,&#x201d; <i>Am J Sports Med</i>, 38(1):78-85, 2010.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00012">
+<othercit>Bian et al., &#x201c;Effects of dexamethasone on the functional properties of cartilage explants during long-term culture,&#x201d; paper No. 329, presented to the Orthopaedic Research Society 2009 Annual Meeting, 2009.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00013">
+<othercit>Bian et al., &#x201c;Efficacy of serum-free medium and dynamic loading in maintenance of longterm cultures of cartilage explants,&#x201d; <i>Trans Orthop Res Soc</i>, 32:569, Poster #0569, presented to the Orthopaedic Research Society Annual Meeting, San Diego, CA, 2007.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00014">
+<othercit>Bian et al., &#x201c;Long-term preservation of chondral and osteochondral explants using tissue culture,&#x201d; poster presentation, poster No. 1058, presented to the Orthopaedic Research Society 2008 Annual Meeting, 2008.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00015">
+<othercit>Bugbee, MD., &#x201c;Fresh osteochondral allografts,&#x201d; <i>J Knee Surg</i>, 15(3):191-195, 2002.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00016">
+<othercit>Byers, et al., &#x201c;Transient TGF-&#x3b2;3 exposure and constant dexamethasone treatment synergistically enhance maturation and functional properties of chondrocyte-laden hydrogels,&#x201d; poster presentation, poster No. 0794, presented to the Orthopaedic Research Society 2006 Annual Meeting, 2006.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00017">
+<othercit>Diresta et al., &#x201c;Bisphosphonate delivery to tubular bone allografts,&#x201d; <i>Clinical Orthopaedics and Related Research</i>, 466(8):1871-1879, 2008.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00018">
+<othercit>Feng et al., &#x201c;Donor Intervention and Organ Preservation: Where is the Science and What are the Obstacles?&#x201d;, <i>American Journal of Transplantation </i>10:1155-1162, 2010.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00019">
+<othercit>Garrity et al., &#x201c;Improved Osteochondral allograft preservation using serum-free media at body temperature,&#x201d; <i>Am J Sports Med</i>, 40:2542-2548, 2012.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00020">
+<othercit>Hung et al., &#x201c;Tissue age-dependent dexamethasone modulation of cartilage properties in culture,&#x201d; e-Poster presentation, International Cartilage Repair Society, 16 pages, 2009.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00021">
+<othercit>International Search Report for PCT/US2012/021134, dated Oct. 11, 2012.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00022">
+<othercit>ISA; Invitation to Pay Additional Fees and, where applicable, protest fee; regarding International Application No. PCT/US2012/021134, dated May 23, 2012.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00023">
+<othercit>Jafari et al., &#x201c;Dexamethasone attenuation of cytokine-mediated articular cartilage degradation in experimental lapine Haemophilus arthritis,&#x201d; <i>J Infect Dis</i>, 168(5):1186-93, 1993.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00024">
+<othercit>Jeong et al., &#x201c;Repair of osteochondral defects with a construct of mesenchymal stem cells and a polydioxanone/poly(vinyl alcohol) scaffold,&#x201d; <i>Biotechnol Appl Biochem</i>, 49(Pt 2):155-164, 2008.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00025">
+<othercit>King et al., &#x201c;The Prolonged Storage of Donor Corneas by Glycerine Dehydration,&#x201d; <i>Tr. Am. Ophth. Soc</i>. LXXXII:106-110, 1984.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00026">
+<othercit>Lima et al., &#x201c;Differences in interleukin-1 response between engineered and native cartilage,&#x201d; <i>Tissue Eng Part A</i>, 14(10):1721-1731, 2008.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00027">
+<othercit>Martinovic et al., &#x201c;Requirement of a bone morphogenetic protein for the maintenance and stimulation of osteoblast differentiation,&#x201d; <i>Arch Histol Cytol</i>, 69(1):23-36, 2006.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00028">
+<othercit>Morin et al., &#x201c;Induction of stromelysin gene expression by tumor necrosis factor alpha is inhibited by dexamethasone, salicylatem and N-acetylcysteine in synovial fibroblasts,&#x201d; J <i>Pharmacol Exp Ther </i>289(3):1634-40, 1999.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00029">
+<othercit>Moroni et al., &#x201c;Regenerating articular tissue by converging technologies,&#x201d; <i>PLoS One</i>, 3(8):1-10, 2008.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00030">
+<othercit>Perrot et al., &#x201c;A new nondestructive cytometric assay based on resazurin metabolism and an organ culture model for the assessment of corneal viability,&#x201d; <i>Cytometry</i>, 55A(1); 7-14, Aug. 18, 2003.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00031">
+<othercit>Stoker et al., &#x201c;Improved preservation of fresh osteochondral allografts for clinical use.&#x201d; J Knee Surg, 25(2):117-25, 2012.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00032">
+<othercit>Stoker et al., &#x201c;Analysis and comparison of osteochondral allograft metabolism using various preservation protocols,&#x201d; University of Missouri, Columbia, MO., Poster No. 1450, presented to the Orthopaedic Research Society 2011 Annual Meeting, Long Beach, CA, 2011.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00033">
+<othercit>Stoker et al., &#x201c;Analysis of Osteochondral Allograft Metabolism Using Various Preservation Protocols at 25&#xb0; C.,&#x201d; Poster #1744, presented to the Orthopaedic Research Society 2012 Annual Meeting, Long Beach, CA, Feb. 4-7, 2012.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00034">
+<othercit>Stoker et al., &#x201c;Assessment of Potential Biomarkers for the Evaluation of Osteochondral Allograft Viability During Preservation,&#x201d; University of Missouri, Columbia, MO., presented to the Orthopaedic Research Society 2011 Annual Meeting, Long Beach, CA, 2011.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00035">
+<othercit>Stoker et al., &#x201c;Optimization of osteochondral allograft preservation to extend the usable life span of harvested tissue,&#x201d; University of Missouri, Columbia, MO., presented to the Orthopaedic Research Society 2011 Annual Meeting, Long Beach, CA, 2011.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00036">
+<othercit>Tamaki et al., &#x201c;K-Sol corneal preservation at room temperature,&#x201d; <i>British Journal of Ophthalmology </i>72:370-376, 1988.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00037">
+<othercit>Voss et al., &#x201c;Effects of thermal energy on chondrocyte viability,&#x201d; <i>Am. J. Vet. Res</i>. 67:1708-1712, 2006.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00038">
+<othercit>Yang et al., &#x201c;Keeping Donor Hearts in Completely Beating Status With Normothermic Blood Perfusion for Transplants,&#x201d; <i>Ann. Thorac. Surg</i>. Article in Press, pp. 1-7, 2013.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>22</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-cpc-text>A01N 1/0242</classification-cpc-text>
+<classification-cpc-text>A01N 1/0226</classification-cpc-text>
+<classification-cpc-text>A01N 1/0263</classification-cpc-text>
+<classification-cpc-text>A01N 1/0284</classification-cpc-text>
+<classification-cpc-text>A01N 1/021</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>10</number-of-drawing-sheets>
+<number-of-figures>14</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>14946634</doc-number>
+<date>20151119</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>10039277</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>16022452</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>13349534</doc-number>
+<date>20120112</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>9220258</doc-number>
+<date>20151229</date>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>14946634</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61461049</doc-number>
+<date>20110112</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20180310548</doc-number>
+<kind>A1</kind>
+<date>20181101</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>The Curators of the University of Missouri</orgname>
+<address>
+<city>Columbia</city>
+<state>MO</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="002" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>The Trustees of Columbia University in the City of New York</orgname>
+<address>
+<city>New York</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Cook</last-name>
+<first-name>James L.</first-name>
+<address>
+<city>Columbia</city>
+<state>MO</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Hung</last-name>
+<first-name>Clark T.</first-name>
+<address>
+<city>Ardsley</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Lima</last-name>
+<first-name>Eric</first-name>
+<address>
+<city>New York</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="004" designation="us-only">
+<addressbook>
+<last-name>Stoker</last-name>
+<first-name>Aaron</first-name>
+<address>
+<city>Columbia</city>
+<state>MO</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Dentons US LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>The Curators of the University of Missouri</orgname>
+<role>02</role>
+<address>
+<city>Columbia</city>
+<state>MO</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>The Trustees of Columbia University in the City of New York</orgname>
+<role>02</role>
+<address>
+<city>New York</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Singh</last-name>
+<first-name>Satyendra K</first-name>
+<department>1657</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention provides a method and apparatus for tissue, such as an allograft, storage and preservation for extended periods of time at room temperature in a sterile tissue culture chamber. The invention further provides a process for maintaining the sterility of tissue using the apparatus as described.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="155.87mm" wi="135.72mm" file="US10881098-20210105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="227.16mm" wi="102.62mm" file="US10881098-20210105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="226.57mm" wi="98.47mm" file="US10881098-20210105-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="190.67mm" wi="143.34mm" file="US10881098-20210105-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="215.14mm" wi="136.74mm" file="US10881098-20210105-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="209.63mm" wi="139.87mm" file="US10881098-20210105-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="105.92mm" wi="144.27mm" file="US10881098-20210105-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="209.38mm" wi="150.79mm" file="US10881098-20210105-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="74.51mm" wi="165.52mm" file="US10881098-20210105-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="229.53mm" wi="154.26mm" file="US10881098-20210105-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation of U.S. application Ser. No. 14/946,634, filed Nov. 19, 2015 which application is a divisional of U.S. application Ser. No. 13/349,534, filed Jan. 12, 2012, which claims the priority of U.S. Provisional Application No. 61/461,049, filed on Jan. 12, 2011, the entire disclosures of which are incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The invention relates to the field of tissue, such as an allograft, storage and more specifically to the field of long-term tissue storage and preservation.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Allograft or other tissue samples are used to treat many diseases and/or defects. These grafts are procured from organ donors and must be stored to allow for viral and bacterial testing for safety prior to shipping to surgical centers for implantation into patients. Based on studies looking at viability of the cells in the grafts, recommendations have been given for implanting tissues as soon after harvest as possible in order to maximize success. Safety testing takes a minimum of 7 days and more often 10-14 days for final clearance. Storage of tissue, such as allograft tissue, for transplantation or other scientific or medical purposes allows time for medical testing, recipient patient preparation, or to preserve tissues for other purposes. Storage conditions for allograft or other tissue samples may influence tissue viability, integrity, and/or sterility.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0005" num="0004">Briefly described, embodiments of this disclosure provide a process and apparatus for tissue preservation. In one aspect, the invention provides a process for tissue preservation by storing the tissue at room temperature in a container with culture media for from about 7 to about 70 days before implantation into a patient. In one embodiment, the tissue is tested for viability at least once prior to implantation in a patient. In another embodiment, viability testing is performed by assaying media that is withdrawn from the container. In another embodiment, cell viability is determined by adding a resazurin solution to the media and determining the fluorescence level, wherein increased fluorescence indicates higher cell viability.</p>
+<p id="p-0006" num="0005">In another embodiment, the tissue is stored in the container for from 29 to about 70 days. In other embodiments, the media is changed at least once or about once every two weeks during storage. In another embodiment, at least about 70% of tissue preserved by this method remains viable after 45 days of storage. One aspect of the invention provides media used for storage of tissue that is serum-free and can contain Dulbecco's Modified Eagle Medium (DMEM), high or low concentrations of glucose, antibiotic compounds (i.e., penicillin and/or streptomycin), antimycotic compounds (i.e., Fungizone), dexamethasone, ascorbate 2-phosphate, L-proline, sodium pyruvate, TGF-&#x3b2;3, and insulin, transferrin, and selenous acid, among other chemicals or compounds.</p>
+<p id="p-0007" num="0006">In another aspect of the invention, the media is serum-free. In an embodiment, the media contains an effective amount of dexamethasone. In another embodiment, the tissue is a section of spine, scapula, humerus, radius, ulna, pelvis, femur, tibia, patella, talus, phalanges or temporomandibular joint tissue. Other embodiments of this invention provide lavage of the tissue in an isotonic solution prior to storing, and implanting the tissue into a patient after storage.</p>
+<p id="p-0008" num="0007">Another aspect of the present invention provides a process for storage of tissue in a tissue preservation chamber containing a base, lid, media inlet, and media outlet, wherein the media inlet is coupled to at least a first filter for maintaining a sterile environment inside the chamber, the base is configured to contain tissue and media, the outlet extending into the chamber permits removal of media, a one-way valve as the media outlet for removing media from the chamber, and wherein the base is capable of receiving the lid to form a barrier to contaminants. In embodiments of this invention, a gas exchange port is coupled to at least a first filter, and the lid contains the media inlet, media outlet, and gas exchange port. In another embodiments, the tissue is stored in the chamber for from about 29 days to about 60 days.</p>
+<p id="p-0009" num="0008">Another aspect of the present disclosure provides a tissue preservation chamber, including a base, lid, media inlet, and media outlet, wherein the media inlet is coupled to at least a first filter for maintaining a sterile environment inside the chamber, the base is configured to contain cartilage tissue and media, the outlet extends into the chamber to permit removal of media, the media outlet is a one-way valve for exit of media from the chamber, and the base is capable of receiving the lid to form a barrier to contaminants. In other embodiments, a gas exchange port is coupled to at least a first filter, the lid contains the media inlet, media outlet and gas exchange port, and the lid is a filter than extends across the media inlet and gas exchange port. In one embodiment, the filter is a basket adapted to be received by the lid to form a recess for sterile filter paper, the recess being in fluid and gas communication with the media inlet and gas exchange port. In another embodiment, the media inlet and gas exchange port are coupled to different filters for maintaining a sterile environment within the chamber. In another embodiment, the media inlet and gas exchange port are coupled to the same filter to maintain a sterile environment within the chamber. In other embodiments, the media inlet and outlet serve as adaptors for receiving a hose. In another embodiment, the base and lid are configured to form a rim for sealing with tamper-evident tape when in contact.</p>
+<p id="p-0010" num="0009">One exemplary method of tissue storage at room temperature in a chamber with culture media before implantation includes: placing the tissue in a chamber base, the chamber base configured to maintain the tissue and tissue preservation media, and forming a tissue preservation chamber by covering the chamber base with a lid to form a barrier to contaminants, and wherein the lid contains at least one filter, a media inlet coupled to at least one filter for maintaining a sterile environment inside the chamber, and a media outlet, the media outlet including a media outlet conduit that extends into the chamber to permit removal of media and reentry of media exiting the chamber. In an embodiment, the chamber also has a gas exchange port coupled to at least one filter. In another embodiment, the lid comprises the media inlet, media outlet, and gas exchange port.</p>
+<p id="p-0011" num="0010">An aspect of the present invention provides addition of media to the chamber through the media inlet and at least one filter. One embodiment provides storage of the tissue in the chamber for from 29 days to about 70 days. Other embodiments provide removal of the media from the chamber through the media outlet. A further embodiment provides simultaneous addition of media to the chamber by forcing through the media inlet and at least one filter, along with removal of media from the chamber through the media outlet. Another embodiment of the present invention provides applying tamper evident tape to an interface between the chamber base and the lid in order to maintain sterility of the tissue.</p>
+<p id="p-0012" num="0011">The foregoing and other aspects of the invention will become more apparent from the following detailed description.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> shows a perspective view of a tissue preservation chamber according to an illustrative embodiment.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2A</figref> shows an exploded perspective view illustrating the upper surfaces of the components of the tissue preservation chamber of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 2B</figref> shows an exploded perspective view illustrating the lower surfaces of the components of the tissue preservation chamber of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 3</figref> shows a side, cross-section view of a base of an illustrative embodiment of a tissue preservation chamber, including a piece of tissue.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 4</figref> shows a side, cross-section view of an illustrative embodiment of a tissue preservation chamber, including the base of <figref idref="DRAWINGS">FIG. 3</figref> and a lid.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 5</figref> shows a side, cross-section view of an illustrative embodiment of a tissue preservation chamber, including the flow of media into the tissue preservation chamber.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 6</figref> shows a side view in partial cross-section of an illustrative embodiment of a tissue preservation chamber being used to store and preserve tissue.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 7</figref> shows a side view in partial cross-section of an illustrative embodiment of a tissue preservation chamber, including the flow of gas into and out of the chamber.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 8</figref> shows a side view in partial cross-section of an illustrative embodiment of a tissue preservation chamber, including the flow of gas into and out of the tissue preservation chamber and the flow of media out of the tissue preservation chamber.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 9</figref> shows a side, cross-section view of an illustrative embodiment of a tissue preservation chamber, including the flow of media into the chamber, the flow of gas into and out of the chamber, and the flow of media out of the tissue preservation chamber.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 10</figref> shows tissue viability at days 1, 28, and 56.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 11</figref> shows tissue proteoglycan content at days 0, 28, and 56.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 12</figref> shows tissue proteoglycan (&#x3bc;g GAG/mg tissue dry weight) and Collagen (&#x3bc;g HP/mg tissue dry weight) content at day 0 and days 63-75 for each OCA storage group.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 13</figref> shows scatter plots for each media protein biomarker (pg/ml) and the media viability additive (fluorescence level) compared to tissue viability (LC/&#x3bc;m2) at the end of storage (day 63-75).</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0027" num="0026">The following definitions and methods are provided to better define the present invention and to guide those of ordinary skill in the art in the practice of the present invention. Unless otherwise noted, terms are to be understood according to conventional usage by those of ordinary skill in the relevant art.</p>
+<p id="p-0028" num="0027">The present disclosure provides a process and apparatus for tissue preservation. The process includes, in one embodiment, removing viable tissue, such as allograft tissue, from a donor, testing of the tissue for infectious diseases and/or mechanical and/or biochemical activity for viability, placement of the viable tissue into a sterile tissue culture preservation chamber as described herein with a culture medium capable of maintaining the viability and sterility of the tissue, and storing the tissue for extended periods of time prior to implantation into a recipient. As used herein, the term &#x201c;allograft&#x201d; refers to a tissue graft from a donor of the same species as the recipient but not genetically identical. In an embodiment, at least about 90% of tissue or allografts preserved by the process described herein remain viable after 45 days of storage. In another embodiment, the tissue is lavaged in isotonic solution prior to storing. In still another embodiment, the tissue is allograft tissue.</p>
+<p id="p-0029" num="0028">Allograft tissue can be removed from a donor by techniques known in the art. For instance, general aseptic surgical methods or other physical intervention of an allograft may include but are not limited to excision, resection, amputation, transplantation, microsurgery, general surgery, laser surgery, robotic surgery, or autopsy, among others.</p>
+<p id="p-0030" num="0029">Tissue or allograft sources may be cells, tissues, or organs from all types of organisms, including, but not limited to human, porcine, ovine, bovine, canine, equine, and others. In one embodiment, the source of the tissue or allograft is human. Potential allograft sources may include, but are not limited to, tissues of the eye, brain, heart, kidney, liver, intestine, bone, cartilage, skin, lung, thyroid, stomach, ligaments, tendons, or any other tissue and/or cell source that may require transplantation. In one embodiment of the invention, the allograft may comprise bone and/or cartilage and/or meniscus tissue of the spine, scapula, humerus, radius, ulna, pelvis, femur, tibia, fibula, patella, talus, phalanges, or temporomandibular joint. In another embodiment, the allograft may be osteochondral tissue. Although the description herein may refer to allograft tissue, one of skill in the art appreciates that other tissues find use in the method.</p>
+<p id="p-0031" num="0030">Once removed from the donor, the allograft is stored within the sterile tissue culture chamber including, but not limited to, the chamber described herein, for an extended period of time. In one embodiment, the allograft is stored at room temperature in culture media. In specific embodiments, the room temperature is between about 19&#xb0; C. and 27&#xb0; C., including about 19&#xb0; C., 20&#xb0; C., 21&#xb0; C., 22&#xb0; C., 23&#xb0; C., 24&#xb0; C., 25&#xb0; C., 26&#xb0; C., or about 26&#xb0; C. In another embodiment, the allograft is stored at a temperature that is not less than about 12&#xb0; C. and not more than about 30&#xb0; C.</p>
+<p id="p-0032" num="0031">As used herein, the term &#x201c;culture media&#x201d; refers to liquid, semi-solid, or solid media used to support tissue growth and/or preservation and/or development in a non-native environment. Further, by culture media is meant a sterile solution that is capable of stabilizing and preserving the tissue in order to maintain its biological activity and sterility. Suitable tissue culture media are known to one of skill in the art, as discussed in detail subsequently. The media components can be obtained from suppliers other than those identified herein and can be optimized for use by those of skill in the art according to their requirements. Culture media components are well known to one of skill in the art and concentrations and/or components may be altered as desired or needed. In one embodiment, culture media may contain Dulbecco' s Modified Eagle Medium (DMEM), glucose, antibiotic compounds, antimycotic compounds, dexamethasome, ascorbate 2-phosphate, L-proline, sodium pyruvate, TGF-&#x3b2;3, insulin, transferrin, and selenous acid, among other chemicals or compounds. In particular, antibiotic compounds may include, but are not limited to penicillin, streptomycin, chloramphenicol, gentamycin, and the like. Antimycotic compounds may include, but are not limited to Fungizone. In an embodiment, the culture media lacks serum. The media-to-tissue ratio within the sterile tissue culture chamber may be 10-50:1 per volume.</p>
+<p id="p-0033" num="0032">An unexpected benefit of the present procedure is that tissue samples can be maintained viable and sterile for an extended period of time relative to methods of the prior art. For instance, typically in the prior art, upon removal of an allograft from a donor, the tissue was stored on ice or at around 4&#xb0; C. Tissues prepared according to this method tended to remain suitably viable for around 21-28 days. However, the procedure described herein provides for a surprising and unexpected increase in viability of allograft tissue. Tissues prepared and stored according to the procedure described herein remain viable for an extended period of time relative to storage at 4&#xb0; C. By an extended period is meant at least between about 7-100 days, at least between about 20-80 days, or at least between about 29-70, 40-70, 50-70 or 60-70 days. In one embodiment an extended period is meant up to at least around 70 days.</p>
+<p id="p-0034" num="0033">It has been found that long-term storage of tissue may be facilitated by replacement of old culture medium with fresh, sterile medium. However, prior to the present disclosure, a system that allowed for media exchange in an otherwise non-sterile environment was not available. The present disclosure provides a system and device that allows for just this. Advantageously, the present procedures and device provide for sterile media exchange in an otherwise non-sterile environment. Thus, media can be conveniently changed as necessary. In one embodiment, the media is changed at least once, twice, or three times during storage. The media may be changed without removing a lid from the storage container, or otherwise opening the container. The media may be changed, in specific embodiments, about once every other day, at least once a week, at least once every two weeks, or at least about once a month during storage. In one embodiment, media is aspirated from the sterile chamber through a media outlet, and replaced by adding fresh media through a media inlet, as described in more detail below with regard to <figref idref="DRAWINGS">FIG. 9</figref>. In one embodiment, a filter is placed between the lid and base chamber and media flows through the filter into the chamber. Therefore, the media remains sterile. In addition, the filter enables exchange of CO<sub>2 </sub>and O<sub>2 </sub>between the chamber and the surrounding air while maintaining sterility inside the chamber.</p>
+<p id="p-0035" num="0034">Prior to storage according to the present disclosure, testing of allograft tissue encompassed up to or greater than 7 days and required direct contact with the allograft. Such methods increased the likelihood of allograft contamination. The present disclosure provides a convenient and easy method of testing for viability and/or contamination, by simply extracting the culture medium from the culture chamber through the media outlet, which does not compromise sterility of the tissue. The extended storage period allows for examination or testing of the allograft and/or culture media for a number of factors, such as viability, blood type compatibility, HLA typing, genotyping, SNP detection, and/or infection with diseases. Compounds that may be detected or tested may be obtained from culture media withdrawn from the sterile tested such as, but not limited to, bacterial or virus infections, nitric oxide, prostaglandin E<sub>2</sub>, matrix metalloproteinase (MMP)-2, MMP-3, MMP-9, and MMP-13, vascular endothelial growth factor (VEGF), interleukin (IL)-2, IL-4, IL-6, IL-7, IL-8, IL-10, IL-15, and IL-18, granulocyte macrophage colony-stimulating factor (GM-CSF), Interferon gamma-induced protein (IP)-10, IFN&#x3b3;, keratinocyte chemoattractant (KC), MCP-1, and TNF&#x3b1;. Tissue may be tested using methods known in the art, such as by diagnostic PCR or with antibodies against biomarkers such as, but not limited to, those described above. The viability of the OCA may also be monitored during storage by adding a resazurin solution to the media at a final concentration of about 10 &#x3bc;g/ml and incubated at room temperature for 18-24 hours. During the incubation, resazurin is converted to resorufin by viable cells in the OCA. A 200-&#x3bc;l sample of the media is taken and the fluorescence level is determined using a fluorescence reader (540-570 nm excitation, 580-610 nm emission). Increased fluorescence is indicative of higher cell viability. Higher viability samples typically have a fluorescence reading of &#x2dc;800-1200 units using a Synergy HT set at a sensitivity of 25 on the reader.</p>
+<p id="p-0036" num="0035">In view of the above, the process provides for preservation of at least 70% of the allograft tissue chondrocytes after storage at room temperature for 45 days. In an embodiment, at least 60% or 70%, up to at least around 99%, including 60%, 65%, 70%, 75%, 80%, 85%, 90%, or 95% or greater of the tissue is preserved when stored for 45 days, 60 days, or 70 days.</p>
+<p id="p-0037" num="0036">In one embodiment, the process includes storing the tissue in a tissue preservation chamber. In another embodiment, the process further includes implanting the tissue in a subject in need thereof following said storing.</p>
+<p id="p-0038" num="0037">An illustrative embodiment of a tissue preservation chamber <b>100</b> is shown in <figref idref="DRAWINGS">FIGS. 1, 2A, and 2B</figref>. The tissue preservation chamber <b>100</b> includes a base <b>102</b> that may be formed from any suitable material for storing tissue, e.g., an allograft. The tissue preservation chamber <b>100</b> also includes a lid <b>106</b> that forms a sealed enclosure when applied to the base. To form the sealed enclosure, the base <b>102</b> may have a first sealing surface <b>140</b> and the lid <b>106</b> may include second sealing surface <b>142</b> that abut one another when the lid <b>106</b> is applied to the base <b>102</b>. In the illustrative embodiment of <figref idref="DRAWINGS">FIG. 1</figref>, the lid <b>106</b> is sized and configured to be installed to the base <b>102</b> such that the first sealing surface <b>140</b> and second sealing surface <b>142</b> are adjacent and coplanar about the periphery of the tissue preservation canister <b>100</b>. In such an embodiment, a sterile environment may be ensured by applying a tape about the common surface formed at the interface of the lid <b>106</b> and base <b>102</b>. In an embodiment, the lid <b>106</b> may be formed with a mating feature, such as a lip on the underside of the lid <b>106</b> that forms an interference fit with the interior surface of the base <b>102</b>. In the illustrative embodiment of <figref idref="DRAWINGS">FIG. 1</figref>, the lid <b>106</b> and base <b>102</b> have a rectangular shape, though it is noted that the tissue preservation chamber may be of any suitable size and shape.</p>
+<p id="p-0039" num="0038">In an illustrative embodiment, the lid <b>106</b> includes features to facilitate the controlled ingress and egress of gas and liquids to and from the tissue preservation chamber <b>100</b>. These features include a media outlet <b>110</b>, media inlet <b>114</b>, and gas exchange port <b>112</b>. In an embodiment, the lid <b>106</b> also includes a filter basket mount <b>146</b> that may be used to attach a filter basket <b>104</b>. The filter basket mount <b>146</b> of <figref idref="DRAWINGS">FIG. 2B</figref> is a molded portion of the lid <b>106</b> that includes an external surface <b>148</b> that mates with a complimentary internal surface <b>150</b> of the filter basket <b>104</b>. In an embodiment, the complimentary surfaces <b>148</b>, <b>150</b> are tapered surfaces. The filter basket <b>104</b> and base <b>102</b> may also include complementary geometrical features to locate the filter basket <b>104</b> to securely hold a filter within the assembled tissue preservation chamber <b>100</b>. In such an embodiment, the filter basket <b>104</b> may be mounted to the base <b>102</b> rather than the lid <b>106</b>. In some embodiments, an adhesive may be used to hold the filter basket in place. As shown in <figref idref="DRAWINGS">FIG. 2B</figref>, the filter basket <b>104</b> includes a grated surface to support a filter without obstructing fluid flow between the tissue preservation chamber <b>100</b> and the media inlet <b>114</b> or gas exchange port <b>112</b>. The filter basket <b>104</b> of <figref idref="DRAWINGS">FIG. 2B</figref> is shown as having a single grated surface to support a single filter. Yet in some embodiments, the tissue preservation chamber <b>100</b> may include a filter basket <b>104</b> capable of holding multiple filters, or multiple filter baskets to facilitate the use of separate filters for filtering flow through the media inlet <b>114</b> and gas exchange port <b>114</b>.</p>
+<p id="p-0040" num="0039">The top surface of the lid <b>106</b> includes protrusions that form the media inlet <b>114</b>, the gas exchange port <b>112</b>, and media outlet <b>110</b>. The media inlet <b>114</b> may also form a similar protrusion that extends from the inner surface of the lid <b>106</b>, and is located inside of the filter basket mount <b>146</b> so that fluid entering the tissue preservation chamber <b>100</b> via the media inlet <b>112</b> is routed through the filter basket <b>104</b>. The gas exchange port <b>112</b> may also form a similar protrusion that extends from the inner surface of the lid <b>106</b>, and is located inside of the filter basket mount <b>146</b> so that fluid entering the tissue preservation chamber <b>100</b> via the gas exchange port <b>112</b> is forced through the filter basket <b>104</b>. The protrusions that form the media inlet <b>114</b>, gas exchange port <b>112</b>, and media outlet <b>110</b> shown in <figref idref="DRAWINGS">FIGS. 2A and 2B</figref> comprise tapered annular members that are suitable for coupling to, e.g., a tubing adapter. Nonetheless, the media inlet <b>114</b>, gas exchange port <b>112</b>, and media outlet <b>110</b> may have any suitable size and shape to facilitate fluid flow to and from the tissue preservation chamber <b>100</b>. For example, in an embodiment, the portions of the lid <b>106</b> that protrude from the top surface of the lid <b>106</b> to form the media inlet <b>114</b> and media outlet <b>110</b> include a tapered surface to facilitate coupling to tubing adapters <b>118</b> and <b>116</b>, respectively. Similarly, in an illustrative embodiment, the media outlet <b>110</b> is fluidly coupled to a media outlet conduit <b>108</b> that extends into the tissue preservation chamber <b>100</b> to facilitate the removal of fluid from the base of the media outlet conduit <b>108</b>.</p>
+<p id="p-0041" num="0040">The tissue preservation chamber <b>100</b> illustrated in the Figures is operable to store living tissue. In the illustrative embodiments, the media outlet <b>110</b> and media inlet <b>114</b> facilitate the addition and removal of liquid, e.g., tissue culture media, to and from the tissue preservation chamber <b>100</b> while preserving a sealed, sterile environment within the tissue preservation chamber <b>100</b>. Thus, once made, the tissue preservation chamber <b>100</b> described above finds use in a method of allograft preservation in which a tissue sample or allograft is stored in the tissue preservation chamber. Such a method is described below with regard to <figref idref="DRAWINGS">FIGS. 3-9</figref>.</p>
+<p id="p-0042" num="0041">In <figref idref="DRAWINGS">FIG. 3</figref>, tissue <b>138</b>, such as an allograft, is stored in the base <b>102</b> of the tissue preservation chamber <b>100</b>, which is enclosed to form a sealed, sterile environment. After adding the tissue <b>138</b>, the lid <b>102</b> and filter basket <b>104</b> may be installed to enclose the tissue preservation chamber <b>100</b>. For example, a filter <b>120</b>, such as filter paper, may be placed in the filter basket <b>104</b> that is attached to the base <b>102</b> or filter basket mount <b>146</b> as described above. The lid <b>106</b> comprises the media outlet <b>110</b>, media inlet <b>114</b>, and gas exchange port <b>112</b>. The media outlet <b>110</b> is coupled to the media outlet conduit <b>108</b>, the base of which includes a media intake aperture <b>126</b> to facilitate the removal of media from the tissue preservation chamber. To help maintain the sterile environment within the tissue preservation chamber <b>100</b>, a one-way valve <b>124</b> is affixed to the media outlet <b>110</b> to prevent the unwanted reentry of removed liquids into the tissue preservation chamber <b>100</b>. The gas exchange port <b>112</b> comprises an open conduit <b>122</b> that is coupled to the filter <b>120</b>, which separates the sterile environment of the tissue preservation chamber <b>100</b> from the external environment. The media inlet <b>114</b> forms a conduit through which tissue preservation media may be added to the tissue preservation chamber <b>100</b> after passing through the filter <b>120</b>.</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 5</figref> shows that liquid <b>128</b>, such as tissue preservation media, may be added to the tissue preservation chamber <b>100</b> to submerge the tissue <b>138</b> in the liquid <b>128</b>. The liquid <b>128</b> may be added to the tissue preservation chamber <b>100</b> through the media inlet <b>114</b> along a fluid flow path indicated by the arrows <b>130</b>. To maintain the sterile environment within the tissue preservation chamber <b>100</b>, the liquid <b>128</b> is forced into the tissue preservation chamber <b>100</b> through the filter <b>120</b>.</p>
+<p id="p-0044" num="0043">Sealing tape <b>156</b>, which may be tamper evident tape, may be applied to the junction of the lid <b>106</b> and base <b>102</b> about the periphery of the tissue preservation chamber <b>100</b>, as shown in <figref idref="DRAWINGS">FIG. 6</figref>. The addition of sealing tape <b>156</b> helps to ensure the maintenance of a sterile environment within the tissue preservation chamber <b>100</b>. The tape may also evidence whether the seal has been compromised. As shown in <figref idref="DRAWINGS">FIG. 7</figref>, tissue <b>138</b> may be stored in the tissue preservation chamber for the periods described above. During storage, air may flow into and out of the chamber through the gas exchange port <b>112</b> and filter <b>120</b>, as indicated by the two-way arrows <b>132</b>.</p>
+<p id="p-0045" num="0044">The liquid <b>128</b>, e.g., tissue preservation media, may be evacuated from the tissue preservation chamber <b>100</b> via the media outlet, as indicated by the arrows <b>136</b> of <figref idref="DRAWINGS">FIG. 8</figref>. Further, constant pressure may be maintained within the tissue preservation chamber <b>100</b> during the evacuation of fluid <b>128</b> by allowing filtered air to enter the chamber via the gas exchange port <b>112</b> as the fluid <b>128</b> is evacuated. Fluid evacuated from the tissue preservation chamber <b>100</b> is prevented from reentering the chamber by one-way valve <b>124</b> and is removed from the system as indicated by arrows <b>134</b>.</p>
+<p id="p-0046" num="0045">As shown in <figref idref="DRAWINGS">FIG. 9</figref>, the liquid <b>128</b> may be cycled through the tissue preservation chamber <b>100</b> by adding liquid to the chamber through the media inlet <b>114</b> and filter <b>120</b>. Simultaneously or at another time, liquid may be removed from the tissue preservation chamber <b>100</b> via the media outlet <b>110</b>, as indicated by the arrows <b>134</b>.</p>
+<heading id="h-0007" level="1">EXAMPLES</heading>
+<heading id="h-0008" level="1">Example 1</heading>
+<heading id="h-0009" level="1">Analysis and Comparison of Osteochondral Allograft Metabolism Using Various Preservation Protocols</heading>
+<p id="p-0047" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0046">Tissue Harvest and Culture: Medial and lateral femoral condyles (FC) from both knees of 10 adult canine cadavers were aseptically harvested within 4 hours of euthanasia performed for reasons unrelated to this study. The volume of each FC was determined and the FCs (n=40) were processed under aseptic conditions and preserved in Media 1 (M-1) (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), non-essential amino acids (1 mM), sodium pyruvate (10 mM), and L-ascorbic acid (50 &#x3bc;g/ml)) or Media 2 (M-2) (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), dexamethasone (10 &#x3bc;M), TGF-&#x3b2;3 (2.5 ng/ml), and sodium borate (250 &#x3bc;g/ml)) at 4&#xb0; C. or 37&#xb0; C. for 28 or 56 days. The volume of media used for preservation was determined by multiplying the approximate volume of the tissue by 25-30. The media were changed every 7 days, and samples saved for subsequent analyses. In a second study, FCs were aseptically harvested from one knee of 5 adult canine cadavers euthanatized for reasons unrelated to this study. One FC per animal was processed under aseptic conditions and preserved in Media 3 (M-3) (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), L-glutamine (20 mM), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), penicillin, streptomycin, amphotericin B, and sodium borate (250 &#x3bc;g/ml)) at 37&#xb0; C. for 56 days as described above. At each time point, full-thickness cartilage was evaluated for tissue viability.</li>
+    <li id="ul0001-0002" num="0047">Media Analysis: Media were analyzed for nitric oxide (NO) by Griess assay (Promega); PGE2 by ELISA (Cayman Chemical); MMP-2, -3, -9, and -13 by Luminex multiplex assay (R&#x26;D System); and IL-2, IL-4, IL-6, IL-7, IL-8, IL-10, IL-15, IL-18, GM-CSF, IP-10, IFN&#x3b3;, KC, MCP-1, and TNF&#x3b1; by Luminex multiplex assay (Millipore).</li>
+    <li id="ul0001-0003" num="0048">Data Analysis: Data were compared by ANOVA and the Tukey posthoc test using SigmaStat.
+<br/>
+Results
+</li>
+    <li id="ul0001-0004" num="0049">Undetected Analytes: The concentration of MMP-9, IL-2, IL-4, IL-7, IL-10, IL-15, IL-18, GM-CSF, IP-10, IFN&#x3b3;, and TNF&#x3b1; were all below the detection level of the assay in all samples analyzed for this study, indicating little production of these proteins during culture of OCAs.</li>
+    <li id="ul0001-0005" num="0050">4&#xb0; C. Culture vs. 37&#xb0; C. Culture: After day 7, the 4&#xb0; C. culture groups released significantly (p&#x3c;0.05) less KC, MCP-1, IL-8, MMP-2, MMP-3, and MMP-13. After day 7, production of all of these proteins decreased significantly (p&#x3c;0.05) in the 4&#xb0; C. culture groups at all time points tested.</li>
+</ul>
+</p>
+<p id="p-0048" num="0051">The concentration of NO released to the media in the 4&#xb0; C. group was significantly (p&#x3c;0.001) lower than the M-1 and M-2 37&#xb0; C. culture groups at days 7 and 28, but not day 56. The M-3 37&#xb0; C. culture group did not release detectable levels of NO at any time point tested, and therefore release significantly lower NO to the media compared to the 4&#xb0; C. groups at all time points. The concentration of PGE2 released to the media in the 4&#xb0; C. group was significantly lower than the M-1 and M-2 37&#xb0; C. culture groups at all time points tested. The M-3 37&#xb0; C. culture group released significantly lower PGE2 to the media compared to the 4&#xb0; C. culture groups at all time points.
+<ul id="ul0002" list-style="none">
+    <li id="ul0002-0001" num="0052">M-1 vs. M-2 at 4&#xb0; C. Culture: The M-2 4&#xb0; C. culture group released significantly (p=0.008) higher NO on day 7, but not days 28 or 56, compared to the M-1 4&#xb0; C. culture group. The M-1 4&#xb0; C. group released significantly higher PGE2 on days 28 (p&#x3c;0.001) and 56 (p=0.046), but not day 7, compared to the M-2 4&#xb0; C. group. There was not a significant difference between the M-1 and M-2 4&#xb0; C. culture groups for MMP-2, MMP-3, MMP-13, KC, MCP-1, and IL-8 at any time point tested.</li>
+    <li id="ul0002-0002" num="0053">M-1 vs. M-2 vs. M-3 at 37&#xb0; C. Culture: The M-3 37&#xb0; C. culture group released significantly (p&#x3c;0.05) lower NO and PGE2 at all time points tested compared to the M-1 and M-2 37&#xb0; C. culture groups. The M-2 37&#xb0; C. group released significantly higher NO (p=0.042) and PGE2 (p=0.046) on day 28, but not (p&#x3e;0.05) days 7 and 56. At days 7 and 28, but not day 56, the M-2 37&#xb0; C. culture group released significantly (p&#x3c;0.05) lower MMP-2 compared to the M-1 and M-3 37&#xb0; C. culture groups. At day 7, but not days 28 and 56, the M-1 37&#xb0; C. group released significantly higher MMP-3 to the media compared to the M-2 and M-3 37&#xb0; C. culture groups. There was not a significant difference in the media concentration of MMP-13 between any of the 37&#xb0; C. culture groups at the time points tested. The media concentration of KC decreased significantly over time in culture for all 37&#xb0; C. groups, but there was not a significant difference between the 37&#xb0; C. culture groups at any of the time points tested. The media concentration of IL-6 was significantly (p&#x3c;0.05) lower in the M-2 37&#xb0; C. group compared to the M-1 and M-3 37&#xb0; C. groups on day 7, but after day 7 the media concentration of IL-6 was below the level of detection for almost all samples. On day 7, but not days 28 and 56, the media concentration of IL-8 was significantly (p&#x3c;0.05) lower in the M-2 37&#xb0; C. group compared to the M-1 and M-3 37&#xb0; C. groups. Further, the media concentration of IL-8 decreased significantly (p&#x3c;0.05) over time for all 37&#xb0; C. culture groups at the time points tested. At all time points tested, the media concentration of MCP-1 was significantly (p&#x3c;0.05) higher in the M-1 37&#xb0; C. group compared to the M-2 and M-3 37&#xb0; C. groups. However, the media concentration of MCP-1 decreased significantly (p&#x3c;0.05) over time for all 37&#xb0; C. culture groups at the time points tested.
+<br/>
+Discussion
+</li>
+</ul>
+</p>
+<p id="p-0049" num="0054">The media concentrations of the proteins analyzed in this study were very low for tissues cultured at 4&#xb0; C. after the first week of culture. This indicates that the tissue becomes quiescent under these non-physiologic culture conditions. Conversely, the OCAs cultured at 37&#xb0; C. maintained a relatively high level of protein production indicating that the chondrocytes remain metabolically active during preservation.</p>
+<p id="p-0050" num="0055">Of the proteins analyzed, MMP-2, MMP-3, KC, MCP-1, and IL-8 were produced most consistently. The stable release of NO and PGE2 to the media throughout the preservation period by tissues stored at 4&#xb0; C. was a surprising finding. Without being bound by theory, it is possible that the release of these two inflammatory indicators results from the progressive cell death within the tissue and requires very little metabolic activity by the tissue to be produced. The NO and PGE2 data indicate that there is a continued and stable production of these inflammatory mediators during the preservation of the OCAs at 4 and 37&#xb0; C. in M1 and M2. Importantly, the M-3 media significantly reduced the media levels of these two inflammatory mediators, indicating that M-3 may protect the tissues during culture by decreasing inflammation and potentially improving the health of the OCA.</p>
+<p id="p-0051" num="0056">A potential contributing factor to failure of OCA procedures clinically relates to the viability of the tissue at the time of implantation. Therefore, a biomarker assay that can differentiate between tissues with low and high viability by testing the preservation media prior to implantation would be of great value to tissue banks and the surgeons using them clinically. These data suggest that proteins evaluated in this study are potential markers for assessment of functional viability of OCAs. Taken together with previous work assessing cell viability and matrix composition of preserved OCAs, preservation of osteochondral tissues in Media 3 and 37&#xb0; C. is likely to allow for preserving higher quality grafts for a longer time period than currently used protocols</p>
+<heading id="h-0010" level="1">Example 2</heading>
+<heading id="h-0011" level="1">Osteochondral Allograft Preservation in a Serum-free Chemically-defined Media</heading>
+<p id="p-0052" num="0057">Osteochondral allografts (OCAs) are currently preserved at 4&#xb0; C. and used within 28 days of donor harvest. The window of opportunity for implantation is limited to 14 days due to a two week disease testing protocol, severely limiting availability to potential recipients. This study was performed to assess the effects of storage up to 56 days in a serum-free chemically defined media at 37&#xb0; C. OCAs from adult canine cadavers were aseptically harvested within four hours of euthanasia. Medial and lateral femoral condyles were stored in Media 1 or 2 at 4&#xb0; C. or 37&#xb0; C. for up to 56 days. Chondrocyte viability, proteoglycan (GAG) and collagen (HP) content, biomechanical properties, and collagen II and aggrecan content were assessed at Days 28 and 56. Five femoral condyles were stored overnight and assessed the next day to serve as controls. Storage in Media 1 at 37&#xb0; C. maintained chondrocyte viability at significantly higher levels than in any other media-temperature combination examined and at levels not significantly different from controls.</p>
+<p id="p-0053" num="0058">OCAs stored in either media at 4&#xb0; C. showed a significant decrease in chondrocyte viability throughout storage. GAG and HP content were maintained through 56 days of storage in OCAs in Media 1 at 37&#xb0; C. There were no significant differences in elastic or dynamic moduli among groups at Day 56. Qualitative immunohistochemistry demonstrated the presence of collagen II and aggrecan throughout all layers of cartilage during storage. OCA viability, matrix content and composition, and biomechanical properties were maintained at &#x201c;fresh&#x201d; levels through 56 days of storage in media 1 at 37&#xb0; C. OCAs stored at 4&#xb0; C. were unable to maintain viability or matrix integrity through 28 days of storage.
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0059">Storage Protocol: OCAs within 4 hours of death from medial and lateral femoral condyles of adult canine cadavers euthanized for reasons unrelated to this study. Allografts were stored overnight in media at 37&#xb0; C., 95% humidity, and 5% CO2. Day 0 Control OCAs (n=5) were aseptically harvested from one femoral condyle of 5 adult canine cadavers euthanized for reasons unrelated to this study. These OCAs were stored overnight in serum-free media and evaluated the following day.</li>
+</ul>
+</p>
+<p id="p-0054" num="0060">The volume of each OCA (n=40) was determined and storage media volumes used were 25-30 times OCA volume. The OCAs were stored in Media 1 (DMEM, 1X ITS (insulin, transferrin, and selenous acid), non-essential amino acids (1 mM), sodium pyruvate (10 mM), and L-ascorbic acid (50 &#x3bc;g/ml)) or Media 2 (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), dexamethasone (10 &#x3bc;M), TGF-&#x3b2;3 (2.5 ng/ml), and sodium borate (250 &#x3bc;g/ml)).</p>
+<p id="p-0055" num="0061">Once the OCAs were aseptically processed they were preserved in either Media 1 or 2 at 4&#xb0; C. or 37&#xb0; C. for 28 or 56 days. Media 1 was designed to provide basic nutrition to the tissue and Media 2 was designed to be anti-inflammatory and chondrogenic. Each stored specimen had its own contralateral control on the opposite leg. The media were changed every 7 days and media samples were saved for subsequent analyses. At each time point full-thickness cartilage was evaluated for chondrocyte viability, biochemical composition, and biomechanical properties.
+<ul id="ul0004" list-style="none">
+    <li id="ul0004-0001" num="0062">Tissue Viability Analysis: Full-thickness cartilage from each storage group was used to determine chondrocyte viability. Quantitative analysis of chondrocyte viability was determined by manually counting live and dead cells from images for the entire sample taken at 10&#xd7;magnification using an Olympus F view II camera and Micro Suite Basic Edition software. CellTracker&#x2122; Green CMFDA (5-chloromethylfluorescein diacetate, Invitrogen, Carlsbad, CA) was used to visualize live cells and ethidium homodimer-1 (EthD-1, Invitrogen, Carlsbad, CA) to visualize dead cells. Percent live cells were determined by taking the total number of live cells divided by the total amount of cells in the sample.</li>
+    <li id="ul0004-0002" num="0063">GAG Content: After PBS wash, cartilage plugs were blotted with a paper wipe and weighed on balance to obtain the wet weight. Dry weight was determined after lyophilization for 24 hours. Cartilage tissue was the then digested in 50 &#x3bc;L papain solution for 3 hours at 60&#xb0; C. Sulfated-GAG (s-GAG) concentration within the cartilage matrix was determined using aliquots of digest solution using the 1,9 dimethylmethylene blue (DMMB) dye-binding assay. S-GAG content was determined from the ratio of s-GAG to total tissue dry weight and reported at &#x3bc;ug GAG/mg dry weight.</li>
+    <li id="ul0004-0003" num="0064">HP Content: The hydroxyproline (HP) content was determined using a colorimetric assay modified to a 96-well format. HP content was used as a measure of total collagen content. A 50-&#x3bc;L aliquot of the digest solution was mixed with 50 &#x3bc;L 4N NaOH and the mixture was autoclaved for 20 minutes at 121&#xb0; C. to hydrolyze the sample. The sample was then mixed with the chloramine T reagent and incubated at 25&#xb0; C. for 25 minutes, followed by mixing with Ehrlich aldehyde reagent. The chlorophore was developed at 65&#xb0; C. for 20 minutes. The absorbance was then read at 550 nm using a Synergy HT (Bio-TEK, Highland Park, VT) and the samples were compared with an HP standard to determine the HP concentration of the sample. Results were standardized to tissue dry weight and reported as &#x3bc;g HP/mg dry weight.</li>
+    <li id="ul0004-0004" num="0065">Biomechanical Analysis: At each end point, 4-mm plugs were removed from the articular cartilage and immediately put in a &#x2212;80&#xb0; C. freezer until biomechanical testing could be done. The dynamic modulus of cartilage specimens were determined by unconfined compression with loading to 10% strain at a rate of 0.05% per second, after an initial 0.02-N tare load (elastic modulus, or Ey). Dynamic modulus (G*) was measured by superimposing 2% peak-to-peak sinusoidal strain at 0.1 Hz. Values were reported as megapascals (MPa).</li>
+    <li id="ul0004-0005" num="0066">Immunohistochemical Analysis: For immunohistochemical evaluation, 2-mm sagittal sections of OCAs were cut and fixed in 10% formalin. After fixation was complete, samples were decalcified in 10% disodium ethylenediaminetetraacetic (EDTA) acid. After decalcification and subsequent routine histologic processing, each specimen was embedded in paraffin, and sectioned 5 &#x3bc;m through the sagittal plane. For immunohistochemical analysis, unstained sections were deparaffinized in xylene and rehydrated in graded ethanol solutions. The samples were permeabilized with a 0.1% trypsin solution at 36&#xb0; C. for 60 minutes and then blocked with a 10% bovine serum albumin at 40&#xb0; C. Slides were incubated overnight at 4&#xb0; C. in predetermined dilutions of the primary antibodies: collagen type II (rabbit polyclonal antibody, Abcam, Cambridge, UK) and proteoglycan (mouse anti-human antibody, Millipore Corp., Billerica, Mass.).</li>
+</ul>
+</p>
+<p id="p-0056" num="0067">The next day, slides were rinsed in Tris-buffered saline before being incubated with the secondary antibody. Collagen type II was labeled with goat anti-rabbit fluorescein isothiocyanate (FITC, Millipore Corp., Billerica, Mass.) and proteoglycan was labeled with goat anti-mouse rhodamine (Millipore Corp., Billerica, Mass.). Samples were coverslipped and reviewed using fluorescent light microscopy. Negative controls were used as comparison in which the primary (but not secondary antibody) was omitted from the slides to see if any stain was due to fluorescence aside from the target region. Immunohistochemical images were subjectively assessed.
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0068">Statistical Analyses: Statistical analyses were done using the SigmaStat&#xae; computer software program (San Rafael, Calif.). Data were pooled for each endpoint, Day 28 and Day 56, and comparisons were made among the four storage media and Day 0 controls. A one way ANOVA using Tukey post-hoc comparisons was used for statistical analysis with significance set at p&#x3c;0.05.</li>
+    <li id="ul0005-0002" num="0069">Results: Chondrocyte viability of femoral condyle OCAs stored in Media 1 at 37&#xb0; C. was significantly higher than Media 1 and 2 at 4&#xb0; C. (p=0.016, p=0.01) at Day 28. At Day 56, Media 1 at 37&#xb0; C. had significantly higher cell viability than Media 1 at 4&#xb0; C. (p=0.008) and Media 2 at 4&#xb0; C. and 37&#xb0; C. (p=0.015, p=0.023). When comparing stored OCAs to Day 0 controls, controls had significantly higher viability than OCAs in Media 1 and 2 at 4&#xb0; C. (p=0.007, p=0.01) at Day 28. OCAs stored in Media 1 at 37&#xb0; C. were the only group able to maintain viability at levels not significantly different that controls through Day 56. Chondrocyte viability in control OCAs was significantly higher than OCAs in Media 1 at 4&#xb0; C. (p=0.032) and Media 2 at 4&#xb0; C. (p&#x3c;0.001) and 37&#xb0; C. (p=0.002) at Day 56.</li>
+</ul>
+</p>
+<p id="p-0057" num="0070">Analysis of tissue GAG content of femoral condyle OCAs showed no significant differences among storage groups at Day 28. At Day 56, OCAs stored in Media 2 at 37&#xb0; C. had significantly less tissue GAG content than Media 1 at 4&#xb0; C. (p=0.027) and 37&#xb0; C. (p=0.033). At Day 28, there were no significant differences in tissue GAG compared to controls. However, at Day 56, controls had significantly more tissue GAG content than OCAs stored in Media 2 at 37&#xb0; C. (p=0.003).</p>
+<p id="p-0058" num="0071">There were no significant differences among femoral condyle OCA storage groups with respect to HP content at Days 28 or 56. Also, there were no significant differences at any time point compared to controls. Biomechanical analyses of femoral condyle OCAs showed elastic modulus of controls to be significantly higher than OCAs in Media 1 at 37&#xb0; C. (p=0.017) and Media 2 at 4&#xb0; C. (p=0.016) at Day 28. Dynamic modulus was significantly higher in controls than OCAs in Media 1 at 4&#xb0; C. (p=0.032) and 37&#xb0; C. (p=0.022) as well as Media 2 at 4&#xb0; C. (p=0.041) at Day 28. There were no significant differences noted for Day 56 analyses.</p>
+<heading id="h-0012" level="1">Example 3</heading>
+<heading id="h-0013" level="1">Assessment of Potential Biomarkers for Evaluating Viability of Osteochondral Allograft Tissue During Preservation</heading>
+<p id="p-0059" num="0072">Osteochondral allografts (OCA) allow transplantation of viable, functional tissue for treatment of cartilage defects without the need for immunosuppression. OCAs are reported to be successful in &#x3e;75% of cases when used for treatment of focal femoral condyle lesions. The present study was designed to evaluate the ability of biomarkers to differentiate OCAs with low viability during culture using various tissue preservation protocols.
+<ul id="ul0006" list-style="none">
+    <li id="ul0006-0001" num="0073">Tissue Harvest and Culture: Medial and lateral femoral condyles (FC) from both knees of 10 adult canine cadavers were aseptically harvested within 4 hours of euthanasia performed for reasons unrelated to this study. The volume of each FC was determined and the FCs (OCAs, n=40) were processed under aseptic conditions and preserved in Media 1 (M-1) or Media 2 (M-2) at 4&#xb0; C. or 37&#xb0; C. for 28 or 56 days. The volume of media used for preservation was determined by multiplying the approximate volume of the tissue by 25-30. The media were changed every 7 days, and collected for analysis of biomarker production. In a second study, the FCs were aseptically harvested from one knee of 4 adult canine cadavers euthanatized for reason unrelated to this study.</li>
+</ul>
+</p>
+<p id="p-0060" num="0074">One FC per animal was processed under aseptic conditions and preserved in Media 3 (M-3) (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), L-glutamine (20 mM), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), penicillin, streptomycin, amphotericin B, and sodium borate (250 &#x3bc;g/ml at 37&#xb0; C. for 56 days as described above. At each time point, full-thickness cartilage was evaluated for tissue viability.
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0075">Tissue Viability Analysis: Cartilage tissue was analyzed for cell viability using a fluorescent live/dead assay (Invitrogen) and fluorescent microscopy. Images were taken at 10&#xd7; magnification using an Olympus F-View II camera and MicroSuite Basic Edition software. For the M-1 and M-2 samples, two tissue sections were used for evaluation of tissue viability. For the M-3 samples at least three tissue sections were taken for evaluation of tissue viability. Green-staining live cells were manually counted and the area of the tissue analyzed was determined using MicroSuite Basic Edition. Because % cell viability does not take into account total loss of cells, the area of the tissue section analyzed was measured, and the ratio of live cells (LC)/area (mm2) was determined.</li>
+    <li id="ul0007-0002" num="0076">Media Analysis: Media were analyzed for MMP-2, -3, and -13 (R&#x26;D System) and IL-8, KC, and MCP-1 (Millipore) using two Luminex multiplex assay.</li>
+    <li id="ul0007-0003" num="0077">Data Analysis: Data were compared by Pearson product-moment correlation using SigmaStat.</li>
+    <li id="ul0007-0004" num="0078">Tissue Viability (Table 1): The mean tissue viability represented the viability of each group well, but each group had one outlier. Further, the viabilities of M-2-37 and M-3-37 were significantly higher than all other groups. Because the response of the OCAs to each preservation protocol was unique, the media protein data were analyzed to determine if the outliers could be identified in each group.</li>
+    <li id="ul0007-0005" num="0079">All 4&#xb0; C. Culture Groups: After day 14, the only analytes tested that were consistently detected were MMP-3 and KC, and the concentrations of these proteins were significantly lower than the day 7 values at all time points. Further, a difference in the media concentration could not be determined between the OCAs with the lowest tissue viability (0.23 LC/mm2 M-1, 0.093 LC/MM2 M-2) and the highest tissue viability (1.14 LC/MM2 M-1, 0.747 LC/MM2 M-2).</li>
+    <li id="ul0007-0006" num="0080">M-1 37&#xb0; C. Culture Groups: The variability in the tissue viability of the M-1 group was relatively low, and the viability of the tissues was relatively high. Therefore, there was not a distinct difference in the biomarker values of the samples with low viability (&#x2dc;0.7 LC/mm2) and high viability (&#x2265;1.0 LC/mm2). Interestingly, there was a negative weak to moderate correlation between cell viability and all the biomarkers analyzed in this study.</li>
+    <li id="ul0007-0007" num="0081">M-2 37&#xb0; C. Culture Groups: The tissue viability of this group was significantly lower than the other 37&#xb0; C. groups. After day 7 the concentration of KC and IL-8 had moderate-strong positive correlations (0.569-0.995) with tissue viability depending on the day analyzed. MCP-1 had weak-moderate (0.339-0.613) positive correlations with tissue viability throughout the culture period. MMP-2, MMP-3, and MMP-13 all had a moderate-strong (0.651-0.927) positive correlations on days 7 and 28, and a weak-moderate (0.337-0.6) positive correlations on day 56. The two samples with the lowest tissue viability (&#x3c;0.1 LC/mm2) had little to no detectable KC, IL-8, MCP-1, MMP-2, MMP-3, and MMP-13 after day 7.</li>
+    <li id="ul0007-0008" num="0082">M-3 37&#xb0; C. Culture Groups: The M-3 group had the largest disparity between the samples with the highest (&#x3e;1.0 LC/mm2) viability (n=3) and lowest (0.00 LC/mm2) viability (n=1). After day 14, little to no MCP-1, IL-8, and KC detectable in the media of the low viability sample. Early in culture, KC and MCP-1 had strong (0.815-0.972) positive correlations to tissue viability, and at later time points in culture each had moderate (0.5-0.78) positive correlations to tissue viability. At all time points, IL-8 had moderate (0.566-0.751) positive correlations to cell viability. MMP-2 had strong (0.811-0.907) positive correlations through day 21; MMP-3 had strong (0.889-0.968) positive correlations after day 7; and MMP-13 had weak (0.3-0.461) positive correlations to tissue viability at all time points. The sample with the lowest tissue viability (0.00 LC/mm2) had little to no detectable KC, IL-8, and MCP- 1 after day 7, but MMP-2, MMP-3, and MMP-13 could be detected at all time points.</li>
+</ul>
+</p>
+<p id="p-0061" num="0083">These data indicate that proteins in the preservation media have the potential to act as biomarkers for distinguishing OCAs that have very low cell viability and therefore are not considered suitable for clinical use. If implemented, tissue banks could readily and repeatedly assess the usefulness of the tissue during the preservation period without the need for sectioning the grafts. This would essentially allow tissue banks to cull samples as soon as they are no longer acceptable for clinical use, saving time and expense. It would also allow surgeons to have more confidence in the quality of the grafts that they are implanting into patients. KC, MCP-1, and MMP-3 are the strongest candidate biomarkers to identify OCAs with low tissue viability during culture.</p>
+<p id="p-0062" num="0084">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Tissue viability for each tissue preseravtion protocol</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="77pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Tissue Viability</entry>
+</row>
+<row>
+<entry/>
+<entry>Storage Temp</entry>
+<entry>Days In</entry>
+<entry>(LC/mm2)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Media</entry>
+<entry>(C.)</entry>
+<entry>Storage</entry>
+<entry>Mean</entry>
+<entry>Range</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="char" char="."/>
+<colspec colname="5" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>M-1</entry>
+<entry>4</entry>
+<entry>28</entry>
+<entry>0.57</entry>
+<entry>0.245-1.088</entry>
+</row>
+<row>
+<entry>M-1</entry>
+<entry>4</entry>
+<entry>56</entry>
+<entry>0.41</entry>
+<entry>0.112-1.143</entry>
+</row>
+<row>
+<entry>M-1</entry>
+<entry>37</entry>
+<entry>28</entry>
+<entry>1.05</entry>
+<entry>0.819-1.24&#x2002;</entry>
+</row>
+<row>
+<entry>M-1</entry>
+<entry>37</entry>
+<entry>56</entry>
+<entry>1.03</entry>
+<entry>0.736-1.32&#x2002;</entry>
+</row>
+<row>
+<entry>M-2</entry>
+<entry>4</entry>
+<entry>28</entry>
+<entry>0.5</entry>
+<entry>0.033-0.892</entry>
+</row>
+<row>
+<entry>M-2</entry>
+<entry>4</entry>
+<entry>56</entry>
+<entry>0.37</entry>
+<entry>0.093-0.747</entry>
+</row>
+<row>
+<entry>M-2</entry>
+<entry>37</entry>
+<entry>28</entry>
+<entry>0.6</entry>
+<entry>0.110-0.882</entry>
+</row>
+<row>
+<entry>M-2</entry>
+<entry>37</entry>
+<entry>56</entry>
+<entry>0.36</entry>
+<entry>0.009-0.628</entry>
+</row>
+<row>
+<entry>M-3</entry>
+<entry>37</entry>
+<entry>56</entry>
+<entry>1.32</entry>
+<entry>0.00-1.44</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0014" level="1">Example 4</heading>
+<heading id="h-0015" level="1">Optimization of Osteochondral Allograft Preservation to Extend the Usable Life Span of Harvested Tissue</heading>
+<p id="p-0063" num="0085">The present study was designed to evaluate the effectiveness of culturing OCAs at 37&#xb0; C. using different media compositions for extending the pre-implantation life span of harvested tissue based on tissue viability and matrix composition.</p>
+<p id="h-0016" num="0000">Methods</p>
+<p id="p-0064" num="0000">
+<ul id="ul0008" list-style="none">
+    <li id="ul0008-0001" num="0086">Tissue Harvest and culture: Medial and lateral femoral condyles (FC) from both knees of 10 adult canine cadavers were aseptically harvested within 4 hours of euthanasia performed for reasons unrelated to this study. The volume of each FC was determined and the FCs (OCAs, n=40) were processed under aseptic conditions and preserved in Media 1 (M-1) or Media 2 (M-2) at 4&#xb0; C. or 37&#xb0; C. for 28 or 56 days. The volume of media used for preservation was determined by multiplying the approximate volume of the tissue by 25-30. The media were changed every 7 days, and saved for subsequent analyses. In a second study, FCs were aseptically harvested from one knee of 5 adult canine cadavers euthanatized for reason unrelated to this study. One FC per animal was used as a freshly harvested day 0 control (n=5), and the other was processed under aseptic conditions and preserved in Media 3 (M-3) (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), L-glutamine (20 mM), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), penicillin, streptomycin, amphotericin B, and sodium borate (250 &#x3bc;g/ml)) at 37&#xb0; C. for 56 days as described above. At each time point, full-thickness cartilage was evaluated for tissue viability, proteoglycan (GAG) content, and collagen (HP) content.</li>
+    <li id="ul0008-0002" num="0087">Viability Analysis: Cartilage tissue was analyzed for cell viability using a fluorescent live/dead assay (Invitrogen) and fluorescent microscopy. For the M-1, M-2, and Day 0 control tissues full thickness cartilage was excised from the bone; two 4 mm cartilage plugs were created from the tissue using a dermal punch; a &#x2dc;0.5 mm thick slice was taken from the middle of the plug, and the slice was stained for 30 minutes at 37&#xb0; C. For the M-3 tissues a diamond saw was used to make a 0.5 mm section from the center of the FC and this section was then stained for 30 minutes at 37&#xb0; C. Images were taken at 10&#xd7; magnification using an Olympus F view II camera and MicroSuite Basic Edition software. For the M-1, M-2, and Day 0 samples one image from each slice (n=2 images) was used for evaluation of tissue viability. For the M-3 samples, at least 3 images from different areas of the slice were used for evaluation of tissue viability. Greenstaining live cells were manually counted and the area of the tissue analyzed was determined using MicroSuite Basic Edition. Because % cell viability does not take into account total loss of cells, the area of the tissue section analyzed was measured, and the ratio of live cells (LC)/area (mm2) was determined.</li>
+    <li id="ul0008-0003" num="0088">Biochemical Analyses: Tissue GAG content was determined using the dimethylmethylene blue assay. Tissue HP content was determined using the hydroxyproline assay. Tissue GAG and HP content was standardized to tissue dry weight.</li>
+    <li id="ul0008-0004" num="0089">Data Analysis: Data were compared by ANOVA and the Tukey post-hoc test using SigmaStat.
+<br/>
+Results
+</li>
+    <li id="ul0008-0005" num="0090">Tissue culture: One sample in the M-2-37-56 group and M-3-37-56 group was lost to processing problems. Therefore, these groups only had 4 samples for analysis.</li>
+    <li id="ul0008-0006" num="0091">Tissue viability (<figref idref="DRAWINGS">FIG. 10</figref>): The mean tissue viability of the day 0 controls was 1.13 LC/mm2 (1.03-1.25 LC/mm2). The tissue viability of the M-1- 37 group was not significantly different than day 0 group at day 28 or 56. There was not a significant difference between the M-3-37-56 group and the day 0 control for tissue viability. The M-1-4, M-2-4, and M-2-37 groups all had significantly lower tissue viability compared to the day 0 control (p&#x3c;0.005-0.008), the M-1-37 group (p&#x3c;0.016-0.025), and M-3-37 group (p&#x3c;0.004-0.006) at all time points. There was not a significant difference between the M-1-37 and M-3-37 groups.</li>
+    <li id="ul0008-0007" num="0092">Tissue Matrix Composition: On day 56 the M-2-37 group had significantly (p&#x3c;0.003-0.027) lower tissue GAG content compared to the day 0, both M-1 groups, and the M-3-37 group (<figref idref="DRAWINGS">FIG. 11</figref>). Further, the M-2- 4 group had significantly (p&#x3c;0.01) lower tissue GAG content compared to the M-3-37-56 group. There were no other significant differences for tissue GAG content. There was not a significant difference in the collagen content of the tissues between any groups at any time point based on HP analysis.</li>
+</ul>
+</p>
+<heading id="h-0017" level="1">Example 5</heading>
+<heading id="h-0018" level="1">Analysis of Osteochondral Allograft Metabolism Using Various Preservation Protocols at 25&#xb0; C.</heading>
+<p id="p-0065" num="0093">Osteochondral allografts (OCA) allow transplantation of viable, functional tissue for treatment of cartilage defects without the need for immunosuppression. Currently, tissue banks store OCAs at 4&#xb0; C. and recommend implantation within 28 days of harvest. The present study was designed to evaluate the effects of various tissue preservation protocols on the metabolism of OCAs based on the release of degradative enzymes, cytokines, and chemokines to the media at 25&#xb0; C. previously shown to be released during 37&#xb0; C. storage.</p>
+<p id="h-0019" num="0000">Methods</p>
+<p id="p-0066" num="0000">
+<ul id="ul0009" list-style="none">
+    <li id="ul0009-0001" num="0094">Tissue Harvest and Culture: During the course of two studies, medial and lateral femoral condyles (FC) from both knees of 14 adult canine cadavers were aseptically harvested within 4 hours of euthanasia performed for reasons unrelated to this study. The FCs were separated into one of 5 test groups based on different media composition (M-1 (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), L-glutamine (20 mM), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), penicillin, streptomycin, and amphotericin B), M-2 (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), L-glutamine (20 mM), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), penicillin, streptomycin, amphotericin B, and sodium borate (250 &#x3bc;g/ml), M-3 (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), L-glutamine (20 mM), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), penicillin, streptomycin, amphotericin B, and dexamethasone (0.01 &#x3bc;M))) and container condition (C-1, C-2, C-3) such that each FC from a single animal was placed in a distinct group. The following media and container condition groupings were assessed for this study M-1/C-1, M-1/C-2, M-1/C-3, M-2/C-1, and M-3/C-3, resulting in the 5 different OCA storage groups. Tissues were stored at 25&#xb0; C. without CO2 supplementation in 60m1s of media for at least 63 days and up to 75 days. The media were changed every 7 days and saved for biomarker analyses.</li>
+    <li id="ul0009-0002" num="0095">Media Analysis: Media were analyzed for VEGF, matrix metalloproteinase (MMP)-2, -3, -9, and -13 by Luminex multiplex assay (R&#x26;D System); and IL-6, IL-8, KC, and MCP-1 by Luminex multiplex assay (Millipore).</li>
+    <li id="ul0009-0003" num="0096">Data Analysis: Data from days 7, 28, and 56 of storage were compared by ANOVA and the Tukey post-hoc test using SigmaStat.
+<br/>
+Results
+</li>
+    <li id="ul0009-0004" num="0097">MMP-2: The release of MMP-2 to the media increased in all groups after day 7, and remained stable from day 14 to the end of storage in the M-1/C-2 and M-1/C-3 groups of study 1 and the M-1/C-1, M-1/C-3, and M-3/C-3 of study 2. The M-1/C-1 and M-2/C-1 groups in study 1 had decreasing levels of MMP-2 released to the media over time in culture after day 21, and on days 28 and 56 the M-1/C-3 had significantly higher media MMP-2 levels compared to the M-1/C-1, M-1/C-2, and M-2/C-1 groups. In study 2 the M-3/C-3 group had significantly lower MMP-2 compared to the M-1/C-3 group on days 28 and 56, and the M-1/C-1 group on day 28.</li>
+    <li id="ul0009-0005" num="0098">MMP-3: After day 7 all groups in study 1 and the M-1/C-1 group in study 2 released decreasing levels of MMP-3 to the media. However, the level of MMP-3 in the M-1/C-3 group of study 1 remained stable after day 14 and throughout culture for the M-1/C-3 and M-3/C-2 group in study 2. On day 28 of study 1, the M-2/C-1 group had significantly lower media MMP-3 levels compared to the M-1/C-1 and M-1/C-3 group, and on day 56 of study 1 the M-1/C-3 group had significantly higher media MMP-3 levels compared to all other groups. In study 2 the level of MMP-3 was not significantly different between any groups at the time points analyzed.</li>
+    <li id="ul0009-0006" num="0099">MMP-9: MMP-9 was not detected at any time point tested in both study 1 and study 2.</li>
+    <li id="ul0009-0007" num="0100">MMP-13: In study 1 the level of MMP-13 in the media increased quickly after day 7 in the M-1/C-1 and M-1/C-2 groups, and more slowly in the M-1/C-3 and M-2/C-1 groups. On day 28 the M-1/C-3 group had significantly lower media MMP-13 compared to the M-1/C-1 and M-1/C-2 groups. In study 2 the M-3/C-3 group had significantly lower media MMP-13 levels compared to the M-1/C-1 and M-1/C-3 groups on day 7 and 28, and the M-1/C-1 group on day 56.</li>
+    <li id="ul0009-0008" num="0101">KC: In study 1 the level of KC in the media was stable in the M-1/C-3, but decreased significantly in all other groups over time in storage. In study 2 the level of KC decreased significantly after day 7 in all groups over time. In study 1, the media level of KC in the M-2/C-1 group was significantly lower than the M-1/C-2 and M-1/C-3 groups on day 7, all groups on days 28 and 56. In study 2, the media level of KC was significantly lower than in the M-3/C-3 group compared to the M-1/C-3 group on days 28 and 56.</li>
+    <li id="ul0009-0009" num="0102">IL-6: In study 1 and study 2 the media level of IL-6 spiked at day 7 and decreased significantly and rapidly in all samples on subsequent days. In study 1 the M-2/C-1 group had significantly lower media IL-6 on day 7 compared to all other groups, and the M-1/C-3 group had significantly higher IL-6 on day 56 than all other groups. In study 2 the M-3/C-3 group had significantly lower media IL-6 compared to the M-1/C-1 and M-1/C-3 group on day 28 and 56.</li>
+    <li id="ul0009-0010" num="0103">IL-8: In study 1 the media level of IL-8 was relatively stable over time in all groups but the M-2/C-1 group, which had decreasing medial IL-8 levels over time in storage. In study 2 the level of IL-8 decreased over time in culture in all groups. In study 1 the M-2/C-1 group had significantly lower media IL-8 levels compared to all groups at all time points analyzed. Further, the M-1/C-3 group had significantly higher media IL-8 levels compared to all other groups on day 56. In study 2 the M-3/C-3 group had significantly lower media IL-8 levels compared to the M-1/C-3 group at all time points and the M-1/C-1 group on days 28 and 56.</li>
+    <li id="ul0009-0011" num="0104">MCP-1: In study 1 the media level of MCP-1 decreased after day 14 and stabilized in all groups but the M-2/C-1 group, which had low MCP-1 media levels from day 7 through day 56 of culture. In study 2 the media level of MCP-1 decreased after day 28 in culture in all groups. In study 1 the media concentration of MCP-1 in the M-2/C-3 group was significantly lower than all other groups on days 28 and 56. Further, the M-1/C-3 group had significantly higher media MCP-1 compared to the M-1/C-1 group on days 28 and 56. In study 2 the media concentration of MCP-1 in the M-3/C-3 group was significantly lower than the M-1/C-3 group on day 56 of storage.</li>
+    <li id="ul0009-0012" num="0105">VEGF: In study 1 the media level of VEGF was stable over time in the M-1/C-3 group, but decreased over time in all other groups. In study 2 the level of VEGF was stable in all groups over time in culture. In study 1 the M-2/C-1 group had significantly lower media VEGF concentrations compared to all groups on day 7 and the M-1/C-2 and M-1/C-3 groups on day 56. In study 2 the M-3/C-3 group had significantly lower media VEGF concentrations compared to the M-1/C-3 group at all time points and the M-1/C-1 group on days 7 and 28.
+<br/>
+Discussion
+</li>
+</ul>
+</p>
+<p id="p-0067" num="0106">These data indicate that OCA tissues are metabolically active during 25&#xb0; C. storage, and that the same proteins detected in previous studies at 37&#xb0; C. storage are also detected at 25&#xb0; C. storage. Further, the pattern of production of these biomarkers at 25&#xb0; C. is similar to that observed at 37&#xb0; C.</p>
+<heading id="h-0020" level="1">Example 6</heading>
+<heading id="h-0021" level="1">Optimization of Long-term Osteochondral Allograft Storage at 25&#xb0; C.</heading>
+<p id="p-0068" num="0107">Osteoarthritis (OA) affects &#x2dc;90% of people older than 65, and associated costs top $100 billion annually in the U.S. One treatment available for focal lesions is osteochondral allografts (OCA) transplantation. OCAs are reported to be successful in &#x3e;75% of cases when used for treatment of focal femoral condyle lesions. Currently, tissue banks store OCAs at 4&#xb0; C., and implantation is recommended within 28 days after harvest due to significant loss in tissue viability by this time point. Because mandatory disease screening protocols typically take 14 days to complete, the window for surgical implantation is narrow (&#x2dc;14 days), which severely limits clinical use. Therefore, this study was designed to evaluate the effectiveness of culturing OCAs at 25&#xb0; C. using novel media compositions and container conditions for extending the pre-implantation life span of harvested tissue based on tissue viability and matrix composition.</p>
+<p id="h-0022" num="0000">Methods:</p>
+<p id="p-0069" num="0000">
+<ul id="ul0010" list-style="none">
+    <li id="ul0010-0001" num="0108">Tissue harvest and culture: During the course of two studies, medial and lateral femoral condyles (FC) from both knees of 14 adult canine cadavers were aseptically harvested within 4 hours of euthanasia performed for reasons unrelated to this study. The FCs were either used as day 0 controls (n=7) or separated into one of 5 test groups based on different media composition (M-1 (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), L-glutamine (20 mM), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), penicillin, streptomycin, and amphotericin B), M-2 (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), L-glutamine (20 mM), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), penicillin, streptomycin, amphotericin B, and sodium borate (250 &#x3bc;g/ml)), M-3 (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), L-glutamine (20 mM), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), penicillin, streptomycin, amphotericin B, and dexamethasone (0.01 &#x3bc;M))) and container condition (C-1, C-2, C-3) such that each FC from a single animal was placed in distinct group. The following media and container condition groupings were assessed for this study M-1/C-1, M-1/C-2, M-1/C-3, M-2/C-1, and M-3/C-3, resulting in the 5 different OCA storage groups. Tissues were stored at 25&#xb0; C. without CO2 supplementation in 60m1s of media for at least 63 days and up to 75 days. The media were changed every 7 days and saved for biomarker analyses. At the end of storage, osteochondral plugs were evaluated for tissue viability and matrix composition.</li>
+    <li id="ul0010-0002" num="0109">Viability Analysis: Cartilage tissue was analyzed for cell viability using a fluorescent live/dead assay (Invitrogen) and fluorescent microscopy. Osteochondral tissues were incubated in stain for 25 minutes at 25&#xb0; C. Images were taken at either 4&#xd7; (study 1) or 10&#xd7; (study 2) magnification. Green-staining live cells were manually counted, and the area of the tissue analyzed was determined. The viability of the tissue is expressed as the ratio of live cells (LC)/area (&#x3bc;m<sup>2</sup>). Because the focal depth of 4&#xd7; images was significantly different than the focal depth of 10&#xd7; images, the viability could not be compared between the 4&#xd7; and 10&#xd7; images, and analysis was only performed between samples that were taken at the same magnification.</li>
+    <li id="ul0010-0003" num="0110">Matrix composition: Cartilage tissue was lyophilized and weighed, digested with papain, and analyzed for proteoglycan content using the DMMB assay and collagen content using a hydroxyproline assay. GAG and collagen content was normalized to tissue dry weight.</li>
+    <li id="ul0010-0004" num="0111">Data Analysis: Data were compared by ANOVA and the Tukey post-hoc test using SigmaStat.</li>
+    <li id="ul0010-0005" num="0112">RESULTS: Day 0 and day 63-75 tissue viability (Table 2): The mean tissue viability and range are listed for each group at day 63 for each magnification. For the samples analyzed at 4&#xd7; magnification, day 0 and the M-3/C-3 group had significantly higher tissue viability (LC/mm2) compared to the M-1/C-1 and M-2/C-1 groups at day 63, and the M-1/C- 3 group had significantly higher tissue viability compared to the M-2/C-1 group at day 63. The M-3/C-3 group had the highest mean viability and the lowest variability of all the storage groups tested. The sample size was smaller for the 10&#xd7; magnification groups, and there was not a significant difference between the groups as seen in the first set of samples analyzed at 4&#xd7; magnification. However, in agreement with the 4&#xd7; data, the M-3/C-3 group had the highest viability with the lowest variability and was closest to day 0 viability values.</li>
+    <li id="ul0010-0006" num="0113">Day 0 and day 63-75 cell distribution: The day 0 and M-3/C-3 groups had good cell numbers distributed through the thickness of the tissue. The M-1/C-1 and M-1/C-2 groups typically had very low cell numbers in the superficial-middle zones of the tissue and higher cell numbers in the deep-middle zones of the tissue. The M-2/C-1 group had very few detectable viable cells in any region of the tissue.</li>
+    <li id="ul0010-0007" num="0114">Matrix composition (<figref idref="DRAWINGS">FIG. 12</figref>): The proteoglycan content of the M-3/C-3 group was significantly lower than the day 0 and all other storage groups. The GAG content of the tissues was not a significantly different between any other groups in this study. The HP content of the first set of tissues stored could not analyzed for HP content, so there is no HP data for the M-1/C-2 and M-2/C-1 groups tissues. Of the samples tested, there was not a significant difference between the groups tested.</li>
+    <li id="ul0010-0008" num="0115">DISCUSSION: These data indicate that femoral condyle OCA tissue stored at 25&#xb0; C. without CO2 supplementation can maintain day 0 tissue viability up to 75 days in storage. This is a significant improvement over current protocols at 4&#xb0; C., which shows significant loss of tissue viability by day 28 of storage.</li>
+</ul>
+</p>
+<p id="p-0070" num="0116">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Tissue viability for each tissue protocol</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="70pt" align="center"/>
+<colspec colname="4" colwidth="70pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>4x Tissue</entry>
+<entry>10x Tissue</entry>
+</row>
+<row>
+<entry/>
+<entry>Container</entry>
+<entry>Viability (LC/&#x3bc;m2)</entry>
+<entry>Viability (LC/&#x3bc;m2)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Media</entry>
+<entry>Condition</entry>
+<entry>Mean</entry>
+<entry>Range</entry>
+<entry>Mean</entry>
+<entry>Range</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>M-1</entry>
+<entry>C-1</entry>
+<entry>0.916</entry>
+<entry>0.038-3.24&#x2002;</entry>
+<entry>0.623</entry>
+<entry>&#x2002;0.0-1.38</entry>
+</row>
+<row>
+<entry>M-1</entry>
+<entry>C-2</entry>
+<entry>2.115</entry>
+<entry>1.29-2.62</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>M-1</entry>
+<entry>C-3</entry>
+<entry>2.217</entry>
+<entry>&#x2002;0.1-3.49</entry>
+<entry>0.804</entry>
+<entry>0.213-1.36&#x2002;</entry>
+</row>
+<row>
+<entry>M-2</entry>
+<entry>C-1</entry>
+<entry>0.0423</entry>
+<entry>&#x2003;0.0-0.117</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>M-3</entry>
+<entry>C-3</entry>
+<entry>3.195</entry>
+<entry>2.99-3.31</entry>
+<entry>1.137</entry>
+<entry>0.97-1.29</entry>
+</row>
+<row>
+<entry>Day 0</entry>
+<entry/>
+<entry>2.901</entry>
+<entry>&#x2002;0.5-5.35</entry>
+<entry>1.13&#x2002;</entry>
+<entry>1.02-1.25</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0023" level="1">Example 7</heading>
+<heading id="h-0024" level="1">Evaluation of Osteochondral Allograft Viability During Preservation at 25&#xb0; C.</heading>
+<p id="p-0071" num="0117">Osteochondral allografts (OCA) allow transplantation of viable, functional tissue for treatment of cartilage defects without the need for immunosuppression. OCAs are reported to be successful in &#x3e;75% of cases when used for treatment of focal femoral condyle lesions. This study was designed to evaluate the ability of biomarkers and the media additive to differentiate OCAs with low viability during culture using various tissue preservation protocols at 25&#xb0; C.</p>
+<p id="h-0025" num="0000">Methods</p>
+<p id="p-0072" num="0000">
+<ul id="ul0011" list-style="none">
+    <li id="ul0011-0001" num="0118">Tissue Harvest and Culture: During the course of two studies, medial and lateral femoral condyles (FC) from both knees of 14 adult canine cadavers were aseptically harvested within 4 hours of euthanasia performed for reasons unrelated to this study. The FCs were separated into one of 5 test groups based on different media composition (M-1 (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), L-glutamine (20 mM), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), penicillin, streptomycin, and amphotericin B), M-2 (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), L-glutamine (20 mM), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), penicillin, streptomycin, amphotericin B, and sodium borate (250 &#x3bc;g/ml)), M-3 (DMEM, 1&#xd7; ITS (insulin, transferrin, and selenous acid), L-glutamine (20 mM), non-essential amino acids (1 mM), sodium pyruvate (10 mM), L-ascorbic acid (50 &#x3bc;g/ml), penicillin, streptomycin, amphotericin B, and dexamethasone (0.01 &#x3bc;M))) and container condition (C-1, C-2, C-3) such that each FC from a single animal was placed in a distinct group. The following five media and container condition groupings were assessed for this study: M-1/C-1, M-1/C-2, M-1/C-3, M-2/C-1, and M-3/C-3. Tissues were stored at 25&#xb0; C. without CO2 supplementation in 60m1s of media for at least 63 days and up to 75 days. The media were changed every 7 days and saved for biomarker analyses. On the next to last day of storage, 6 mls of the cell viability media additive as added to each sample and incubated for 24 hours. After 24 hours, a media sample was analyzed for level of fluorescence at a standard sensitivity. Increased fluorescence in the media is indicative of cell metabolism and viability.</li>
+    <li id="ul0011-0002" num="0119">Media Analysis: Media were analyzed for VEGF, matrix metalloproteinase (MMP)-2, -3, -9, and -13 (R&#x26;D System); and IL-6, IL-8, KC, and MCP-1 by Luminex multiplex assay (Millipore).</li>
+    <li id="ul0011-0003" num="0120">Tissue Viability Analysis: Cartilage tissue was analyzed for cell viability using a fluorescent live/dead assay (Invitrogen) and fluorescent microscopy. Images were taken at 4&#xd7; magnification using an Olympus F-View II camera and MicroSuite Basic Edition software. Greenstaining live cells were manually counted, and the area of the tissue analyzed was determined using MicroSuite Basic Edition. The area of the tissue section analyzed was measured, and the ratio of live cells (LC)/area (&#x3bc;m2) was determined.</li>
+    <li id="ul0011-0004" num="0121">Data Analysis: Data from the last day of storage were compared by Pearson product-moment correlation using SigmaStat. Since the M-3 media was designed to decrease tissue inflammation, the cytokines and chemokines analyzed in this study were significantly lower in this group compared to all others during the course of storage. Therefore, the M-3 media cytokine data could not be analyzed with the other media compositions used in this study, but the MMP and media supplement data were used for analysis.
+<br/>
+Results
+</li>
+    <li id="ul0011-0005" num="0122">Tissue Viability: The mean tissue viability represented the viability of each group well, but each group had one outlier except the M-2/C-1 group and the M-3/C-3 group. Further, the viabilities of M-1/C-3 and M-3/C-3 groups were significantly higher than all other groups.</li>
+    <li id="ul0011-0006" num="0123">Correlation Analysis (<figref idref="DRAWINGS">FIG. 13</figref>): A significantly (p&#x3c;0.001) moderate to strong positive correlation to tissue viability was found for the media viability additive (r=0.724), IL-8 (r=0.598), VEGF (r=0.655), KC (r=0.738), MCP-1 (r=0.822), MMP-2 (r=0.699), and MMP-3 (r=0.682). There was not a significant correlation to tissue viability for IL-6 (r=0.385, p=0.0694) and MMP-13 (r=0.203, p&#x3c;0.319).
+<br/>
+Discussion
+</li>
+</ul>
+</p>
+<p id="p-0073" num="0124">These data indicate that similar to OCAs stored at 37C, the concentration of proteins in the preservation media at 25&#xb0; C. have the potential to act as biomarkers for identifying OCAs that have very low cell viability and therefore are not considered suitable for clinical use.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A process for meniscus tissue preservation comprising storing the meniscus tissue at room temperature in a container comprising a serum-free culture medium comprising dexamethasone for from about 7 days to about 70 days prior to implantation, wherein at least 70% of the cells of said meniscus tissue remain viable after said storing compared to the viability of the cells of the meniscus tissue at day 0, wherein the meniscus tissue comprises a section of spine, scapula, humerus, radius, ulna, pelvis, femur, tibia, patella, talus, phalanges or temporomandibular joint tissue.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising testing the tissue for viability at least once prior to implantation in a patient.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The process of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein testing for viability comprises assaying culture medium withdrawn from said container.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The process of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein testing for viability comprises adding a resazurin solution to the culture medium and determining a fluorescence level, wherein increased fluorescence indicates higher cell viability.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, comprising storing the tissue for from 29 to about 70 days.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising changing said serum-free culture medium at least once during the storing.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising changing said serum-free culture medium about once every two weeks during the storing.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the serum-free culture medium comprises Dulbecco's Modified Eagle Medium (DMEM), high or low concentrations of glucose, antibiotic compounds, antimycotic compounds, ascorbate 2-phosphate, L-proline, sodium pyruvate, Transforming growth factor-&#x3b2;3 (TGF-&#x3b2;3), insulin, transferrin, and selenous acid.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the meniscus tissue comprises an allograft, the process comprising storing the meniscus tissue in a tissue preservation chamber comprising a base, lid, media inlet, and media outlet; wherein the media inlet is coupled to at least a first filter for maintaining a sterile environment inside the chamber; wherein the base is configured to contain the meniscus tissue and the culture medium; the outlet extending into the chamber to permit removal of the culture medium; the media outlet comprising a one-way valve for exit of the culture medium from the chamber; wherein the base is capable of receiving the lid to form a barrier to contaminants.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The process of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the chamber comprises a gas exchange port coupled to at least a first filter.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The process of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the media inlet, media outlet and gas exchange port are comprised within the lid.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The process of <claim-ref idref="CLM-00009">claim 9</claim-ref>, comprising storing the tissue in the chamber for from about 29 days to about 60 days.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the meniscus tissue comprises an allograft, the process further comprising lavaging of the meniscus tissue in an isotonic solution prior to said storing.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising implanting the meniscus tissue in a subject in need thereof following said storing.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A method for preserving meniscus tissue at room temperature in a chamber comprising a serum-free culture medium comprising dexamethasone prior to implantation, the method comprising: placing the meniscus tissue in a chamber base with said serum-free culture medium, the chamber base configured to maintain the tissue and said serum-free culture medium; forming a tissue preservation chamber by covering the chamber base with a lid to form a barrier to contaminants, the chamber comprising at least one filter, a media inlet coupled to at least one filter for maintaining a sterile environment inside the chamber, and a media outlet, the media outlet including a media outlet conduit that extends into the chamber to permit removal of media; wherein the media outlet comprises a one-way valve to prevent reentry of culture medium exiting the chamber; and storing the meniscus tissue at room temperature for from about 7 days to about 70 days prior to implantation, wherein at least 70% of the cells of said meniscus tissue remain viable after said storing compared to the viability of the cells of the meniscus tissue at day 0, wherein the meniscus tissue comprises a section of spine, scapula, humerus, radius, ulna, pelvis, femur, tibia, patella, talus, phalanges or temporomandibular joint tissue.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The method of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the chamber further comprises a gas exchange port coupled to at least one filter.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the lid comprises the media inlet, media outlet, and gas exchange port.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method of <claim-ref idref="CLM-00015">claim 15</claim-ref>, comprising adding said serum-free culture medium to the chamber by forcing through the media inlet and at least one filter.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The method of <claim-ref idref="CLM-00018">claim 18</claim-ref>, further comprising storing the tissue in the chamber for from 29 days to about 70 days.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The method of <claim-ref idref="CLM-00019">claim 19</claim-ref>, further comprising removing the culture medium from the chamber through the media outlet.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The method of <claim-ref idref="CLM-00019">claim 19</claim-ref>, further comprising simultaneously adding the serum-free culture medium to the chamber by forcing through the media inlet and at least one filter and removing the culture medium from the chamber through the media outlet.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The method of <claim-ref idref="CLM-00019">claim 19</claim-ref>, further comprising applying tamper evident tape to an interface between the chamber base and the lid.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

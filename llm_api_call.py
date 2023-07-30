@@ -23,7 +23,7 @@ openai.api_type = api_type
 openai.api_version = api_version
 
 # Define the patent number to be analyzed
-patent_number = 796
+patent_number = 710
 
 # Define the input filename to be analyzed and output JSON filename to save results
 input_filename = f"patent_{patent_number}.txt"

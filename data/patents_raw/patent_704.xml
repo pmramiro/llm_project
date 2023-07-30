@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USPP032720-20210105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20201221" date-publ="20210105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>PP032720</doc-number>
+<kind>P2</kind>
+<date>20210105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="plant">
+<document-id>
+<country>US</country>
+<doc-number>16873543</doc-number>
+<date>20200430</date>
+</document-id>
+</application-reference>
+<us-application-series-code>16</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20180101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>6</main-group>
+<subgroup>74</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20180101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>H</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>PLT161</main-classification>
+</classification-national>
+<invention-title id="d2e43">Apple tree named &#x2018;HOT84A1&#x2019;</invention-title>
+<us-botanic>
+<latin-name>Malus domestica</latin-name>
+<variety>HOT84A1</variety>
+</us-botanic>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>PLT161</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>3</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>The New Zealand Institute for Plant and Food Research Limited</orgname>
+<address>
+<city>Auckland</city>
+<country>NZ</country>
+</address>
+</addressbook>
+<residence>
+<country>NZ</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="002" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Institut De Recerca I Tecnologia Agroalimentaries (IRTA)</orgname>
+<address>
+<city>Barcelona</city>
+<country>ES</country>
+</address>
+</addressbook>
+<residence>
+<country>ES</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="003" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>FruitFutur A.I.E.</orgname>
+<address>
+<city>Lleida</city>
+<country>ES</country>
+</address>
+</addressbook>
+<residence>
+<country>ES</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Bonany</last-name>
+<first-name>Joan</first-name>
+<address>
+<city>Lleida</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Volz</last-name>
+<first-name>Richard</first-name>
+<address>
+<city>Havelock North</city>
+<country>NZ</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Leydig, Voit &#x26; Mayer, Ltd.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>The New Zealand Institute for Plant and Food Research Limited</orgname>
+<role>03</role>
+<address>
+<city>Auckland</city>
+<country>NZ</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>Institut De Recerca I Tecnologia Agroalimentaries (IRTA)</orgname>
+<role>03</role>
+<address>
+<city>Barcelona</city>
+<country>ES</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>FruitFutur A.I.E.</orgname>
+<role>03</role>
+<address>
+<city>Lieida</city>
+<country>ES</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Para</last-name>
+<first-name>Annette H</first-name>
+<department>1661</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A new and distinct apple variety of <i>Malus domestica </i>named &#x2018;HOT84A1&#x2019; and characterized by its attractive appearance, its dark red color, and is notable for its long storage life. The variety results from crossing the apple varieties &#x2018;Scired&#x2019; (not patented) and &#x2018;Scilate&#x2019; (U.S. Plant Pat. No. 20,477) in Havelock North, New Zealand.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="209.63mm" wi="133.94mm" file="USPP032720-20210105-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="209.80mm" wi="122.00mm" file="USPP032720-20210105-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0002" num="0001">Genus and species plant named: <i>Malus domestica. </i></p>
+<p id="p-0003" num="0002">Variety denomination: &#x2018;HOT84A1&#x2019;.</p>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">The new plant variety described herein resulted from a selection from a population of seedlings derived from the controlled crossing of the apple varieties &#x2018;Scired&#x2019; (not patented) (seed parent) and &#x2018;Scilate&#x2019; (U.S. Plant Pat. No. 20,477) (pollen parent). The planned cross was made in 2002 on trees located in Havelock North, Hawke's Bay, New Zealand and the seed transported and sown in plots in Gimenells near Lleida, Catalonia, Spain. &#x2018;HOT84A1&#x2019; was selected in 2007 as a single plant from among a population of seedlings and was selected for its attractive appearance, good flavor, texture and storage. It was asexually propagated first in Lleida, Spain by budding onto M9 rootstock. The variety has since been observed over three asexually propagated generations and found to remain true to type.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0005" num="0004">&#x2018;HOT84A1&#x2019; is characterized by its attractive fruit with good texture and flavor, harvesting in early October in Spain. Under growing conditions in Spain &#x2018;HOT84A1&#x2019; is distinguished from other apple varieties due to the following unique characteristics: Compared to &#x2018;Fuji&#x2019;, &#x2018;HOT84A1&#x2019; has an earlier harvest season by approximately 2 weeks, and a significantly higher proportion of the skin surface is covered by over color, 70-90%, compared to &#x2018;Fuji&#x2019;, 40-50%.</p>
+<p id="p-0006" num="0005">Under the growing conditions in Spain the new variety was able to be distinguished from its parents &#x2018;Scired&#x2019; and &#x2018;Scilate&#x2019;, by the following characteristics:</p>
+<p id="p-0007" num="0006">&#x2018;Scilate&#x2019;: The time of eating maturity is later than &#x2018;HOT84A1&#x2019;.</p>
+<p id="p-0008" num="0007">&#x2018;Scired&#x2019;: &#x2018;HOT84A1&#x2019; fruit is larger than &#x2018;Scired&#x2019; apples. In addition &#x2018;HOT84A1&#x2019; has a fruit skin overcolor pattern of a solid flush with weakly defined stripes; compared to &#x2018;Scired&#x2019; which has a solid flush overcolor pattern.</p>
+<p id="p-0009" num="0008">Asexual reproduction of this new variety by budding and grafting shows that the aforementioned characteristics are true to form and are established and transmitted through succeeding propagation. This is true of buds grafted onto M9 rootstocks.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF PHOTOGRAPHS</heading>
+<p id="p-0010" num="0009">The accompanying photographs show typical specimens of the tree, foliage and fruit of the new variety as depicted in colors as nearly true as is reasonably possible to make the same in a color illustration of this character.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 1</figref> shows a 3 year old tree of &#x2018;HOT84A1&#x2019; scion on M9 rootstock in the field.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 2</figref> shows whole &#x2018;HOT84A1&#x2019; fruit.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 3</figref> shows &#x2018;HOT84A1&#x2019; flower</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0014" num="0013">The following is a description of the new variety with color terminology in accordance with The Royal Horticultural Society Color Charts (R.H.S.C.C.) fifth edition.</p>
+<p id="p-0015" num="0014">The specimens described were grown at Lleida, Catalonia, Spain. The observations were made over several seasons from 2014-2018 season on 5-9 year old trees.
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0015">Tree: Ramified growth habit, approximately 2.7 m tall and 1.4 m wide; spreading habit; bearing on spurs and long shoots; medium vigor on M9 rootstock, managed under standard orchard practice.</li>
+    <li id="ul0001-0002" num="0016">Trunk: Measurements were taken 20 cm from the graft union. Trunk circumference approximately 19.5 cm; color near dark grey 197C; bark texture both smooth and rough texture.</li>
+    <li id="ul0001-0003" num="0017">One year old shoot: Approximately 24 cm long, medium thickness with straight growth; color on the sunny side near dark brown 166A; average internode length 3.2 cm; number of lenticels were sparse, round in shape and near grey brown 199D and approximately 0.95 mm in diameter</li>
+    <li id="ul0001-0004" num="0018">Leaves: Average length 8.5 cm; average width 5 cm at the widest point; upper side of the blade near dark brown green N137D; underside near brown green 138B with medium pubescence; basal shape cordate; apex shape right angled; margin of the leaves serrate; the attitude in relation to the shoot upwards. Vegetative bud burst early March.</li>
+    <li id="ul0001-0005" num="0019">Petiole: Average length 32.6 mm; average width 2.2 mm.</li>
+    <li id="ul0001-0006" num="0020">Stipule: Average length 6.7 mm; average width 1.1 mm; shape small and elongated; color near brown green 137C on the upper side; under side color of the stipules near brown green 138B.</li>
+    <li id="ul0001-0007" num="0021">Flowers: Color at balloon stage near dark pink, near 63A; diameter of the open flower approximately 17.9 mm; petals were not touching, and there were five flowers per cluster; time of beginning of flowering early April, followed by full bloom on the approximately 8th April.</li>
+    <li id="ul0001-0008" num="0022">Petals: Five petals per flower with a circular shape; average length 18.7 mm; average width 16.4 mm; with a rounded base; lower surface coloration near white NN155B with near purple veins 71C.</li>
+    <li id="ul0001-0009" num="0023">Stamen: Average of 20 per flower. Filaments near white 155C and average length 11.4 mm. Anthers average length of 2.8 mm; average width 1.7 mm; color near light yellow 11B. Pollen color near yellow 3A. Anther position above stigma.</li>
+    <li id="ul0001-0010" num="0024">Carpel: Average length 12.1 mm; exterior color near light green 149C.</li>
+    <li id="ul0001-0011" num="0025">Pedicel: Average length 26.5 mm; average diameter 1.4 mm; color near green 144A.</li>
+    <li id="ul0001-0012" num="0026">Sepals: Five sepals per flower; overall shape of an acute and curved triangle; smooth margin; average length 7.1 mm; average width 4.7 mm; color near green 144A.</li>
+    <li id="ul0001-0013" num="0027">Fruit size: Large to very large; average width 75 mm; average height 87.5 mm; average weight 298 g.</li>
+    <li id="ul0001-0014" num="0028">Shape: Oblong; position of maximum diameter middle; crowning at calyx end absent to weak. Eye basin average depth 18.4 mm; average width 36.9 mm.</li>
+    <li id="ul0001-0015" num="0029">Skin: Medium hard texture; ribbing absent or weak; bloom of skin absent or weak; greasiness of skin absent or weak; background color near yellow 8B; number of lenticels many; size of lenticels large.</li>
+    <li id="ul0001-0016" num="0030">Over color: Approximately 70% of skin surface; near dark purple red 46A; pattern of overcolor solid flush with weakly defined stripes; width of stripes medium; large amount of russet around stalk cavity; amount of russet on cheeks medium; area of russet around eye basin medium;</li>
+    <li id="ul0001-0017" num="0031">Stalk: Average length 21.9 mm; average width 3 mm; curvature absent or very weak. Average depth of stalk cavity 17.7 mm; average width 35.1 mm.</li>
+    <li id="ul0001-0018" num="0032">Flesh: Firm, average fruit firmness 8.8 kgf; very juicy; near light yellow 5D.</li>
+    <li id="ul0001-0019" num="0033">Flavor: Sweet wine; aroma sweet apple; soluble solids 17%.</li>
+    <li id="ul0001-0020" num="0034">Seeds: Five locules; medium seed size; average length 7.8 mm; average width 5 mm; color near dark brown 177A.</li>
+    <li id="ul0001-0021" num="0035">Harvest: Late September-early October.</li>
+    <li id="ul0001-0022" num="0036">Use: Dessert. Adapted to hot climate growing conditions. Less sensitive to sunburn and cracking than &#x2018;Fuji&#x2019;.</li>
+    <li id="ul0001-0023" num="0037">Keeping quality: Excellent, up to 8 months at 0.5&#xb0; C.+1 week shelf life.</li>
+</ul>
+</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A new and distinct apple tree substantially as illustrated and described herein.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

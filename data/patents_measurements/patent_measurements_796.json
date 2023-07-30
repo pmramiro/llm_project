@@ -1,0 +1,26 @@
+{
+    "Measurement ID 1": {
+        "Object": "Table top",
+        "Variable": "Length",
+        "Value": "6 cm to 8 cm",
+        "Units": "cm"
+    },
+    "Measurement ID 2": {
+        "Object": "Table top",
+        "Variable": "Width",
+        "Value": "20 cm to 22 cm",
+        "Units": "cm"
+    },
+    "Measurement ID 3": {
+        "Object": "Table legs",
+        "Variable": "Diameter",
+        "Value": "150 mm to 250 mm",
+        "Units": "mm"
+    },
+    "Measurement ID 4": {
+        "Object": "Table legs",
+        "Variable": "Height",
+        "Value": "0.7 m to 0.9 m",
+        "Units": "m"
+    }
+}

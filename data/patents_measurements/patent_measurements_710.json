@@ -1,56 +1,68 @@
 {
     "Measurement ID 1": {
-        "Object": "Poinsettia Plant",
+        "Object": "Poinsettia plant",
         "Variable": "Height",
         "Value": "19 cm to 21 cm",
         "Units": "cm"
     },
     "Measurement ID 2": {
-        "Object": "Bract",
-        "Variable": "Shape",
-        "Value": "Ovate",
-        "Units": "NA"
+        "Object": "Bracts",
+        "Variable": "Length",
+        "Value": "5 cm to 11 cm",
+        "Units": "cm"
     },
     "Measurement ID 3": {
-        "Object": "Bract",
-        "Variable": "Size",
-        "Value": "Height: 5 cm to 11 cm, Width: 4 cm to 7 cm",
-        "Units": "NA"
+        "Object": "Bracts",
+        "Variable": "Width",
+        "Value": "4 cm to 7 cm",
+        "Units": "cm"
     },
     "Measurement ID 4": {
-        "Object": "Inflorescence",
-        "Variable": "Diameter",
-        "Value": "16 cm to 18 cm",
-        "Units": "cm"
-    },
-    "Measurement ID 5": {
-        "Object": "Inflorescence",
-        "Variable": "Height",
-        "Value": "2 cm to 3 cm",
-        "Units": "cm"
-    },
-    "Measurement ID 6": {
         "Object": "Leaves",
         "Variable": "Length",
         "Value": "6 cm to 8 cm",
         "Units": "cm"
     },
-    "Measurement ID 7": {
+    "Measurement ID 5": {
         "Object": "Leaves",
         "Variable": "Width",
         "Value": "6 cm to 8 cm",
         "Units": "cm"
     },
+    "Measurement ID 6": {
+        "Object": "Lateral branches",
+        "Variable": "Length",
+        "Value": "16 cm to 20 cm",
+        "Units": "cm"
+    },
+    "Measurement ID 7": {
+        "Object": "Lateral branches",
+        "Variable": "Diameter",
+        "Value": "0.4 cm to 0.6 cm",
+        "Units": "cm"
+    },
     "Measurement ID 8": {
-        "Object": "Cyathium",
-        "Variable": "Shape",
-        "Value": "Ovate",
-        "Units": "NA"
+        "Object": "Bract petiole",
+        "Variable": "Length",
+        "Value": "0.5 cm to 1.5 cm",
+        "Units": "cm"
     },
     "Measurement ID 9": {
-        "Object": "Cyathium",
-        "Variable": "Diameter",
-        "Value": "0.2 cm to 0.5 cm",
-        "Units": "cm"
+        "Object": "Cyathia number",
+        "Variable": "Number",
+        "Value": "5 to 7",
+        "Units": "unitless"
+    },
+    "Measurement ID 10": {
+        "Object": "Stamen quantity",
+        "Variable": "Quantity",
+        "Value": "5 to 10",
+        "Units": "unitless"
+    },
+    "Measurement ID 11": {
+        "Object": "Pollen quantity",
+        "Variable": "Quantity",
+        "Value": "Moderate to abundant",
+        "Units": "unitless"
     }
 }

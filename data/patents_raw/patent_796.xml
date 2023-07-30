@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="US10881099-20210105.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20201221" date-publ="20210105">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>10881099</doc-number>
+<kind>B2</kind>
+<date>20210105</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>16316637</doc-number>
+<date>20170706</date>
+</document-id>
+</application-reference>
+<us-application-series-code>16</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EP</country>
+<doc-number>16184178</doc-number>
+<date>20160815</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>43</main-group>
+<subgroup>90</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>25</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>43</main-group>
+<subgroup>90</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210105</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">Process to improve crop yield</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>7727966</doc-number>
+<kind>B2</kind>
+<name>De Haan et al.</name>
+<date>20100600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>8420609</doc-number>
+<kind>B2</kind>
+<name>De Haan et al.</name>
+<date>20130400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>9096633</doc-number>
+<kind>B2</kind>
+<name>De Haan et al.</name>
+<date>20150800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>9295190</doc-number>
+<kind>B2</kind>
+<name>Schreurs et al.</name>
+<date>20160300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>9615581</doc-number>
+<kind>B2</kind>
+<name>De Haan et al.</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2008/0139487</doc-number>
+<kind>A1</kind>
+<name>Haan</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A23G 9/366</classification-cpc-text>
+<classification-national><country>US</country><main-classification>514 28</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2014/0148336</doc-number>
+<kind>A1</kind>
+<name>Guilhabert-Goya</name>
+<date>20140500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01N 43/04</classification-cpc-text>
+<classification-national><country>US</country><main-classification>504100</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2015/0157021</doc-number>
+<kind>A1</kind>
+<name>Stark</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01N 43/90</classification-cpc-text>
+<classification-national><country>US</country><main-classification>514 31</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2016/0100586</doc-number>
+<kind>A1</kind>
+<name>Donners et al.</name>
+<date>20160400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2016/0128336</doc-number>
+<kind>A1</kind>
+<name>Donners et al.</name>
+<date>20160500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>CN</country>
+<doc-number>103833476</doc-number>
+<kind>A</kind>
+<date>20140600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>CN</country>
+<doc-number>104130059</doc-number>
+<kind>A</kind>
+<date>20141100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>CN</country>
+<doc-number>104273131</doc-number>
+<kind>A</kind>
+<date>20150100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>CN</country>
+<doc-number>104718849</doc-number>
+<kind>A</kind>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>CN</country>
+<doc-number>104829395</doc-number>
+<kind>A</kind>
+<date>20150800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>WO</country>
+<doc-number>2006/045831</doc-number>
+<kind>A1</kind>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>WO</country>
+<doc-number>2013/092995</doc-number>
+<kind>A1</kind>
+<date>20130600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>WO</country>
+<doc-number>2014/085565</doc-number>
+<kind>A1</kind>
+<date>20140600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>WO</country>
+<doc-number>2014/191449</doc-number>
+<kind>A1</kind>
+<date>20141200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>WO</country>
+<doc-number>2014/191450</doc-number>
+<kind>A1</kind>
+<date>20141200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>WO</country>
+<doc-number>2015/034359</doc-number>
+<kind>A2</kind>
+<date>20150300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00022">
+<othercit>PCT International Search Report for PCT/EP2017/066906, dated Aug. 18, 2017.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>8</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-cpc-text>A01N 25/02</classification-cpc-text>
+<classification-cpc-text>A01N 43/90</classification-cpc-text>
+</us-field-of-classification-search>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62361606</doc-number>
+<date>20160713</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20190307119</doc-number>
+<kind>A1</kind>
+<date>20191010</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>DSM IP Assets B.V.</orgname>
+<address>
+<city>Heerlen</city>
+<country>NL</country>
+</address>
+</addressbook>
+<residence>
+<country>NL</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Kumar</last-name>
+<first-name>Manoj</first-name>
+<address>
+<city>Echt</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>McBee Moore &#x26; Vanik IP, LLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>DSM IP ASSETS B.V.</orgname>
+<role>03</role>
+<address>
+<city>Heerlen</city>
+<country>NL</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Fay</last-name>
+<first-name>Zohreh A</first-name>
+<department>1617</department>
+</primary-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2017/066906</doc-number>
+<kind>00</kind>
+<date>20170706</date>
+</document-id>
+<us-371c12-date>
+<date>20190110</date>
+</us-371c12-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2018/011046</doc-number>
+<kind>A </kind>
+<date>20180118</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates to a process to improve the yield of strawberry crops, the process comprising the step of applying a polyene antifungal agent, especially natamycin, to the roots of a strawberry plant prior to planting said plant and/or to the medium to which the plant is to be planted. The claimed process results in an increased number of crop, an increase in the weight of individual crop, and an increase in the total weight of the crop, and may allow for an earlier harvest.</p>
+</abstract>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a National Stage entry of International Application No. PCT/EP2017/066906, filed Jul. 6, 2017, which claims priority to U.S. Provisional Patent Application No. 62/361,606, filed Jul. 13, 2016, and European Patent Application No. 16184178.8, filed Aug. 15, 2016.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<heading id="h-0003" level="1">Field</heading>
+<heading id="h-0004" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to a process to improve the yield of strawberry crops.</p>
+<heading id="h-0005" level="1">Description of Related Art</heading>
+<p id="p-0004" num="0003">In agriculture crops of many varieties such as legumes, fruits, lettuce, wheat, barley, corn, and rice are produced. Many of these crops are susceptible to damage by plant pathogens including fungi, bacteria, viruses, and nematodes and are vulnerable to insects, birds, rodents, and other organisms that rely on them as a food source. Fungi are one of the most economically important groups of plant pathogens and are responsible for huge annual losses of marketable food, fiber, and feed.</p>
+<p id="p-0005" num="0004">Traditionally, crop yield is increased by pruning or using fertilizers. Also, the state of the art discloses genetically modified plants that have higher fruit yield, such as tomato (WO 2015/1360650). In addition, treatment with agents is disclosed. CN 104130059(A) describes a plant-growth regulating agent Huaguoling capable of promoting yield increase of melon and fruit. CN 104718849(A) describes a process for improving the yield of tsaoko amomum fruit by spraying a sucrose solution, such that pollinating insects are attracted. CN 104273131(A) describes the use of tetrahydropyrimidine and hydroxy tetrahydropyrimidine to promote production of melons and other fruits.</p>
+<p id="p-0006" num="0005">Strawberries are a widely-grown fruit belonging to the genus <i>Fragaria</i>. It is grown on most continents and is appreciated for its distinctive fragrance, bright red color, and sweetness. It can be consumed fresh, as jam, ice creams, milkshakes, and in many other products. The yield of strawberry varies widely, depending on the cultivar, season of growth, and latitude, and numbers of 12,000 to 25,000 lbs./acre are reported. CN 104829395 discloses using a fertilizer based on decomposed chicken dung, plant ash, canal mud older than 3 years, rape seed cake, urea, <i>Gentiana scabra </i>Bge, mint, <i>capsicum</i>, Chinese honey locust, and a water-retaining agent, which can increase strawberry yield. CN 103833476 discloses a fertilizer comprising microbial flora, a humic acid, a nitrogen fertilizer, a phosphatic fertilizer, a potash fertilizer, a boric acid, an insecticide, and water-soluble parting agent which increases the yield of strawberries.</p>
+<p id="p-0007" num="0006">Anthracnose is a strawberry disease affecting all parts of the plant including fruit, crowns, leaves, petioles, and runners. Three related species, <i>Colletotrichum acutatum, Colletotrichum gloeosporioides</i>, and <i>Colletotrichum fragariae </i>are associated with anthracnose worldwide. All strawberry cultivars can be affected but some such as cv. Albion, cv. Camarosa, cv. Chandler, and cv. Portola are especially susceptible to anthracnose. The disease can increase during wet years or with over-irrigation. If plants are infected in the nursery, the disease can reach epidemic proportions during the establishment of commercial grower fields for fruit production when foliar sprinklers are used in addition to drip tape irrigation under plastic mulch. The pathogen can survive in infected plants and plant tissues in soil for at least nine months in the absence of host plants. In addition to strawberry, several weeds are known to host the pathogen including chickweed, fiddleneck, and vetch. If strawberries pre-plant nursery stocks are planted in infested soil, they become infected when they come in contact with soil containing fungal spores. Conidia are not airborne but are splashed onto crowns, stems, or fruit by rain or irrigation water. In fields that have been fumigated, the disease usually originates on infected nursery stock or from volunteer strawberry plants in adjacent fields. In addition, inoculum can come from contaminated soil on field equipment. The disease will develop quickly following periods of warm, rainy weather. Under unfavorable conditions, early infections may become quiescent and be activated once conditions are conducive (i.e., warm, humid weather, rain, or sprinkler irrigation). Crown rots can develop in young plants soon after planting or when warm temperatures occur. When crowns are infected, the entire plant may wilt and die.</p>
+<p id="p-0008" num="0007">Management of anthracnose is difficult when environmental conditions are favorable for disease development and inoculum is present. Soil fumigation (e.g. using methyl bromide) destroys most residual inoculum of the pathogen in the soil but is no longer permitted. In warm, inland fields soil solarization can be effective in destroying soil inoculum. Using drip irrigation and clean planting stock are important components of managing anthracnose. Field equipment should be cleaned before and after use to ensure that contaminated soil and plant parts are not transported into a field or from an infested part of the field to a non-infested section. Crop rotation with a non-host crop can also help in reducing levels of this pathogen in the soil. Also important is good weed management in and around the field to destroy any weeds that may harbor the pathogen. Water or fungicide treatments can be used on transplants before planting in production fields. Running water treatments can wash off most of the soil and may remove inoculum from transplants.</p>
+<p id="p-0009" num="0008">For fungicide treatment, azoxystrobin and a combination of cyprodinil and fludioxonil are presently amongst the treatments of choice. These compounds however have major drawbacks. In the first place they are non-natural, i.e. from a synthetic origin, potentially phytotoxic, and secondly it has been observed that pathogen populations that are resistant to these fungicides unfortunately are present (i.e. in US states of California and Florida). Moreover, the use of synthetic agrochemicals to control plant pathogens has increased costs to farmers and has caused harmful effects on the ecosystem. Consumers and government regulators alike are becoming increasingly concerned with the environmental hazards associated with the production and use of synthetic agrochemicals for protecting nursery stocks and seeds from pathogens. Furthermore, applying agrochemicals is fraught with problems such as bonding of the agrochemicals to the soil and the need for expensive and complex chemical application equipment and worker's safety. In addition, plants can be adversely affected by agrochemicals, as these chemicals can be toxic to seeds and plants that sprout from the seeds. Such toxicity limits the amount of these agrochemicals that can safely be applied.</p>
+<p id="p-0010" num="0009">There is a need to develop improved methods for combatting anthracnose that not only perform at least as well as prior art methods but are in addition safe, environmentally friendly, and free from development of resistance and/or phytotoxicity.</p>
+<heading id="h-0006" level="1">SUMMARY</heading>
+<p id="p-0011" num="0010">The invention relates to a process for increasing the yield of strawberry crops, the process comprising the step of applying of a polyene antifungal agent to the roots of a crop-bearing strawberry plant prior to planting said plant and/or to the medium to which the plant is to be planted. The polyene antifungal agent (or polyene fungicide) is preferably part of a composition, preferably a liquid composition, such as an aqueous composition which preferably comprises at least one additional compound selected from the group consisting of surfactants, sticking agents, carriers, adjuvants, solvents, dispersants, emulsifiers, wetting agents, stabilizers, antifoaming agents, buffering agents, and antioxidants. Such liquid composition may comprise between 1-10,000 ppm of the polyene antifungal agent. The polyene antifungal agent may be applied to the roots by dipping the roots in a liquid composition comprising said polyene antifungal agent. The polyene antifungal agent is preferably natamycin, preferably comprising needle shaped crystals having an average length of between 0.1 and 20 &#x3bc;m. The natamycin may comprise at least 90% w/w needle shaped crystals having an average length of between 0.1 and 20 &#x3bc;m. The invention further provides a crop-bearing strawberry plant of which the roots have been treated with a polyene antifungal agent. The invention also provides the use of natamycin to prevent or reduce anthracnose in a strawberry plant.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION OF A PREFERRED EMBODIMENT</heading>
+<p id="p-0012" num="0011">Natamycin is registered as a postharvest fungicide of fruit crops (e.g. citrus, stone fruit, pome fruit) in the United States. The compound is classified by the EPA as a bio-fungicide. This classification includes biological organisms, pesticidal compounds that organisms or plants produce from genetic material added to them, or naturally occurring substances that are non-toxic or less toxic than conventional pesticides. Natamycin is a biofungicide because it is a natural fermentation product of the bacterium <i>Streptomyces natalensis </i>and other species of <i>Streptomyces</i>. It is part of the reduced risk pesticide classification of the Food Quality Protection Act of 1995. These pesticides are generally safer than other conventional pesticides and help broaden IPM practices and reduce exposure risks to humans, show less toxicity to non-target organisms, and have less environmental impact. Compounds classified as bio-pesticides by the US-EPA are exempt from tolerance in the US, Canada, and Mexico. Natamycin is a broad-spectrum biofungicide that is effective against many fungi within the <i>Ascomycota </i>(e.g. <i>Botrytis </i>and <i>Colletotrichum </i>spp.) and <i>Zygomycota </i>(e.g. <i>Rhizopus stolonifer</i>) genera that are pathogens of strawberry and has a minimum inhibitory concentration of &#x3c;10 ppm for most of these organisms.</p>
+<p id="p-0013" num="0012">Interestingly, natamycin has been used in the food industry as a preservative of dairy products (e.g. cheese) and dried meats for over 30 years. During this time, no resistance in target organisms including <i>Penicillium </i>spp. has ever been reported. This has rendered natamycin as low risk for resistance development. Natamycin can, amongst others, exist as stable needle-shaped crystals having an average length of 0.1-20 &#x3bc;m, which have the advantage over conventional natamycin suspensions of avoiding problems caused by settling as disclosed in WO 2006/045831.</p>
+<p id="p-0014" num="0013">Following an outbreak of anthracnose in the 2016 and the urgency to evaluate new fungicides a pre-plant dip study for the management of anthracnose of strawberry was conducted. Although the use of natamycin in connection with use in plant pathology methods is known, the application for combatting anthracnose was never mentioned or suggested. WO 2014/085565 discloses a method for controlling fungal pathogens, notably pathogens that cause sudden death syndrome like <i>Fusarium </i>spp., by application of a composition comprising a polyene fungicide to the soil in which a plant or seed is to be planted or to plant roots. The polyene fungicide may be applied by soil drenching or direct application to plant roots via immersion/root dipping. Sudden death syndrome and root rot, the problems to be dealt with in this document, are quite different from the typical strawberry disease anthracnose, for which up until to date only chemical fungicides are successfully used. The use of natamycin is also reported in WO 2013/092995 however for a different application, namely to improve and accelerate the germination of seeds, whereby the natamycin can be applied to the seed or to the medium in which the seed is to be planted, e.g. soil in-furrow. WO 2014/191449 and WO 2014/191450 disclose methods for enhancing plant growth and crop yield by application of a natamycin producing bacterial strain to seed, or to the medium in which the seed is to be planted (WO 2014/191449), or to a plant (WO 2014/191450), but again not in relation to anthracnose. WO 2015/034359 discloses an antifungal soil treatment composition for preventing crop losses comprising an antimicrobial compound, especially the polyene fungicide natamycin, and a polyelectrolyte complex. The polyelectrolyte complex dramatically increases the antifungal activity of the natamycin.</p>
+<p id="p-0015" num="0014">The present invention discloses results on strawberry cultivars, such as for example cv. Florida Radiance, cv. Portola and cv. Fronteras. Surprisingly, the natural fermentation product natamycin appeared to be a highly effective pre-plant dip, similar in efficacy to azoxystrobin and a combination of cyprodinil and fludioxonil. Natamycin decreases the incidence and severity of disease, decreases plant mortality, and increases yield as compared to the controls of inoculated and non-inoculated plants, as well as that of several other fungicides evaluated. Additionally, natamycin is very effective when plants are inoculated with azoxystrobin-resistant isolates of the pathogen. Additionally, no phytotoxicity is observed on two plant cultivars when dipped in the fungicide and planted the next day.</p>
+<p id="p-0016" num="0015">In a first aspect, the present invention provides a process for increasing the yield of a strawberry crop, the process comprising the step of applying a polyene antifungal agent to the roots of a crop-bearing strawberry plant prior to planting said strawberry plant. Preferably, the strawberry plant is crop-bearing. In one embodiment, the polyene antifungal is applied the medium to which the plant is to be planted.</p>
+<p id="p-0017" num="0016">In the context of the invention a &#x201c;crop&#x201d; is understood to be a cultivated plant that is harvested for food. Examples include sugarcane, pumpkin, maize (corn), wheat, rice, cassava, soybeans, hay, potatoes, eggplants, zucchini, peppers, and cotton.</p>
+<p id="p-0018" num="0017">In an embodiment, the crop-bearing plant is a fruit-bearing plant. In the context of the invention a &#x201c;fruit&#x201d; is understood to be the fleshy seed-associated structure of a plant. Fruits usually surround seeds, but are not seeds themselves. Fruits includes apple, apricot, avocado, banana, bilberry, blackberry, blackcurrant, blueberry, boysenberry, currant, cherry, cherimoya, cloudberry, coconut, cranberry, damson, date, dragon fruit, durian, elderberry, feijoa, fig, goji berry, gooseberry, grape raisin, grapefruit, guava, huckleberry, jabuticaba, jackfruit, jambul, jujube, juniper berry, kiwifruit, kumquat, lemon, lime, loquat, longan, lychee, mango, marionberry, melon, cantaloupe, honeydew, watermelon, miracle fruit, mulberry, nectarine, nance, olive, orange, blood orange, clementine, mandarin, tangerine, papaya, passionfruit, peach, pear, persimmon, physalis, plantain, plum, prune (dried plum), pineapple, pomegranate, pomelo, purple mangosteen, quince, raspberry, salmonberry, rambutan, redcurrant, salal berry, salak, satsuma, star fruit, strawberry, tamarillo, tamarind, tomato, and ugli fruit. In an embodiment, the crop-bearing plant is a strawberry plant and the fruit is a strawberry.</p>
+<p id="p-0019" num="0018">In an embodiment, the polyene antifungal agent is part of a composition, preferably a liquid composition, such as an aqueous composition, e.g. an aqueous suspension. Such composition may include concentrated stock suspensions/solutions and concentrated dry products such as e.g. powders, granulates and tablets. In an embodiment, such composition is an aqueous suspension of crystalline natamycin, which crystals are preferably needle-shaped, having a mean length of between 0.1 and 20 &#x3bc;m.</p>
+<p id="p-0020" num="0019">A liquid composition comprising a polyene antifungal agent which is suitable in the process of the invention, e.g. which liquid composition is suitable for applying a polyene antifungal agent to the roots of a crop-bearing plant e.g. by dipping, may comprise between 1 and 200, more preferably between 5 and 50, more preferably between 10 and 30 oz. of a 10% w/v aqueous natamycin suspension per 150 gallons of liquid composition. Preferably, the concentration of the polyene antifungal agent in the liquid composition is from 1-10,000 ppm, more preferably from 10-8,000 ppm, most preferably from 50-5,000 ppm.</p>
+<p id="p-0021" num="0020">In an embodiment, the polyene antifungal agent comprises natamycin, preferably natamycin comprising needle shaped crystals having an average length of between 0.1 and 20 &#x3bc;m, more preferably comprising natamycin comprising at least 90% w/w needle shaped crystals having an average length of between 0.1 and 20 &#x3bc;m. Preferably, the crystals having a needle shaped form have a length of more than 2 &#x3bc;m, more preferably have a length of more than 4 &#x3bc;m, most preferably have a length of more than 6 &#x3bc;m. Preferably, the mean diameter of the needle shaped crystals is between 0.1 and 2 &#x3bc;m, more preferably less than 1.5 &#x3bc;m and most preferably a length of less than 1.0 &#x3bc;m. By &#x201c;length&#x201d; and &#x201c;diameter&#x201d; is meant the length and diameter as measured with an (Olympus) microscope (type BH-2) with a total used magnification of 1000 times, whereby the length is the largest length size of the crystal and the diameter is the size of the thickness of the crystal measured in the middle of the length and perpendicular to the length direction. The mean length and the mean diameter are both determined by measuring at least 100 crystals.</p>
+<p id="p-0022" num="0021">A composition comprising a polyene antifungal suitable in the process of the invention may also contain at least one other antifungal compounds such as e.g. imazalil (Janssen Pharmaceutica N.V., Belgium), thiabendazole (e.g. the commercial product TECTO&#xae; Flowable SC of Syngenta, USA), benomyl, captan (nonsystemic phthalimide fungicide), prochloraz (N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl] imidazole-1-carboxamide) and formalin and commercial products known under the name Topsin&#xae; M (Cerexagri Inc, active ingredient thiophanate-methyl), Jet-5&#xae; (Certis Europe BV, The Netherlands, active ingredients peracetic acid and hydrogen peroxide) and Shirlan&#xae; (Syngenta, Switzerland, active ingredient fluazinam). Further suitable antifungal compounds can be found in Gewasbeschermingsgids 2006, Gids voor gewasbescherming in de land-en tuinbouw en het openbaar en particulier groen, Plantenziektenkundige Dienst, 2006, 560 pages, Paperback, Gewasbeschermingsgids&#x2014;ISSN 1571-201X, Volume 18.</p>
+<p id="p-0023" num="0022">A composition comprising a polyene antifungal agent suitable in the process of the invention may advantageously comprise at least one sticking agent, which improves the sticking of the antifungal compound to the roots of the plant. Examples of such sticking agents are latex based products like Prolong&#xae; (Holland Fyto B.V., The Netherlands) and Bond&#xae; (Loveland Industries Ltd), pilonene/terpene based products like Nu-film&#xae; (Hygrotech Saad) and Spray-Fast&#xae; (Mandops) and long chain polysaccharides like xanthan gum, gellan gum and guar gum. Alternatively, the sticking agent may be a polymer or co-polymer from a type of polymer such as polyacrylate and polyethylene e.g. Neocryl&#xae; (DSM, The Netherlands). The composition of the invention may also comprise two or more different sticking agents.</p>
+<p id="p-0024" num="0023">A composition comprising a polyene antifungal suitable in the process of the invention may advantageously comprise at least one surfactant. The optional addition of said compounds to such compositions is therefore also included in this invention. Examples of useful surfactants are anionic tensides such as sodium lauryl sulphate or polyethylene alkyl ethers or polyoxyethylethers, e.g. Tween&#xae; 60, 61 or 65. Other examples of useful surfactants are organo silicones, sulfosuccinates, alcohol ethoxylates, fatty acid ethoxylates, fatty acid propoxylates and the commercial product Zipper&#xae; (Asepta B.V., The Netherlands).</p>
+<p id="p-0025" num="0024">In an embodiment, the composition comprising a polyene antifungal agent suitable in the process of the invention comprises at least one additional compound selected from the group consisting of surfactants, sticking agents, carriers, adjuvants, solvents, dispersants, emulsifiers, wetting agents, stabilizers, antifoaming agents, buffering agents, and antioxidants.</p>
+<p id="p-0026" num="0025">Unexpectedly, the present inventors have found that applying a polyene antifungal agent to the roots of a fruit-bearing plant prior to planting said plant or to the medium to which the plant is to be planted increases the yield of the crop of that plant.</p>
+<p id="p-0027" num="0026">An increase in crop yield may comprise an increase in the number of crop, i.e. an increase in the number of melons, tomatoes, strawberries etc. at the time when the crop is ready to harvest. An increase in crop yield may comprise an increase in the weight of individual crop (e.g. the (average) weight of individual strawberry), for example an increase in the average weight of the total crop, such as the increase in the average weight of the total harvest of strawberries. An increase in crop yield may comprise an increase in the total weight of the (harvested) crop. An increase in crop yield may result in faster development (growth, weight gain) of the crop, such that the crop can be harvested earlier, saving precious time. A combination of these effects is also possible.</p>
+<p id="p-0028" num="0027">For all these treatments, processes and equipment well-known to a person skilled in the art can be used. A main advantage of the brush process, plaster-like compositions and spraying resins on the surface is that the fungicide is directly applied on the roots of the crop-bearing plant. On the other hand, aqueous dipping, drenching, or spraying applications using automatic systems reduce the labor costs and are more cost-effective.</p>
+<p id="p-0029" num="0028">The polyene antifungal agent is preferably applied to the roots of a crop-bearing plant prior to planting said plant and/or to the medium to which the plant is to be planted in an effective amount, that is, in an amount such that the yield of the crop is increased relative to a treatment in which the polyene antifungal agent is not applied to the roots of a crop-bearing plant prior to planting said plant and/or to the medium to which the plant is to be planted, under otherwise identical conditions.</p>
+<p id="p-0030" num="0029">In an embodiment, the polyene antifungal agent is applied to the roots by dipping the roots in a liquid composition comprising said polyene antifungal agent.</p>
+<p id="p-0031" num="0030">In another embodiment, the polyene antifungal agent is applied to the medium to which the plant is planted, typically soil, but synthetic growth substrate is also possible.</p>
+<p id="p-0032" num="0031">A combination of the two is also possible. Thus, the process also encompasses applying the polyene antifungal agent to the roots of the crop-bearing plant and to the medium to which the plant is to be planted.</p>
+<p id="p-0033" num="0032">The polyene antifungal agent can be applied to the roots of the crop-bearing plant by spraying, brushing, fogging, and other suitable processes. Preferred application is by dipping, drenching the roots, e.g. in a liquid composition comprising the polyene antifungal agent.</p>
+<p id="p-0034" num="0033">Applying the polyene antifungal agent to the roots of a crop-bearing plant can be done by holding the plant, either manually or by a dedicated machine by its stems and dipping the roots in the polyene antifungal agent which is preferably in the form of a liquid composition. For example, the plants can be lowered in a liquid composition comprising the polyene antifungal agent. Once the roots have been dipped in the polyene antifungal agent, the plant can be planted in the medium such as soil or synthetic substrate.</p>
+<p id="p-0035" num="0034">Application of the polyene antifungal agent to the medium to which the plant is planted can be done by sprinkling, dripping, fogging etc. This can be done prior to planting the plants, but can also be done after the plants have been planted.</p>
+<p id="p-0036" num="0035">The polyene antifungal agent can be applied in dry form, e.g. as powder, or as a liquid.</p>
+<p id="p-0037" num="0036">The polyene antifungal agent is preferably applied before harvesting the crop. However, the invention also includes applying the polyene antifungal agent to the medium to which the plant is to be planted after the crop has been harvested, and before a further harvest, i.e. in between harvests, or after part of the crop has been harvested.</p>
+<p id="p-0038" num="0037">After treatment with polyene antifungal agent the crop can be harvested and may be packed in plastic.</p>
+<p id="p-0039" num="0038">Treatment of the roots is done for a period sufficient to result in an increase of yield of crop. For example, such treatment may be done for 1 second up to 1 day, more preferably between 1 second and 1 hour, more preferably between 1 second and 2 minutes, even more preferably between 1 and 30 seconds. It is preferred to minimize the time of treatment for economic reasons. In an embodiment, baby plants are treated by the process of the invention.</p>
+<p id="p-0040" num="0039">In another embodiment, the polyene antifungal is applied to the roots of the strawberry plant in the absence of sunlight. It was surprisingly established that such method, i.e. application indoors or by any other means whereby prolonged contact to sunlight and/or UV light is avoided, resulted in a further and significantly higher reduction in disease incidence. Suitably the method is carried in indoor places such as a barn, a warehouse, a greenhouse, or any other building comprising a roof blocking direct sunlight from the plant during or after application of the polyene antifungal to the roots of the strawberry plant.</p>
+<p id="p-0041" num="0040">In a second aspect, the invention provides a crop-bearing plant of which the roots have been treated with a polyene antifungal agent. In an embodiment, the treated roots comprise from 0.01 to 20 mg/dm<sup>2</sup>, preferably from 0.1 to 10 mg/dm<sup>2</sup>, of a polyene antifungal agent on their surface. In another embodiment, the treated roots comprise from 0.1 ppm/kg to 10,000 ppm/kg of a polyene antifungal agent on their surface.</p>
+<p id="p-0042" num="0041">In one embodiment, the crop-bearing plant is a strawberry plant and said polyene antifungal agent is natamycin. For example, said strawberry plant is cv. Florida Radiance, cv. Portola or cv. Fronteras.</p>
+<p id="p-0043" num="0042">In a third aspect, the invention provides the use of natamycin to prevent or reduce anthracnose in a strawberry plant. In one embodiment, natamycin is applied to the roots of the strawberry plant and the strawberry plant is cv. Florida Radiance, cv. Portola or cv. Fronteras.</p>
+<heading id="h-0008" level="1">EXAMPLES</heading>
+<heading id="h-0009" level="1">Example 1</heading>
+<heading id="h-0010" level="1">Treatment of Cv. Portola Plants with Natamycin</heading>
+<p id="p-0044" num="0043">Baby strawberry plants of cv. Portola were either inoculated or non-inoculated (naturally infected). Inoculation was done by dipping plants for 4 minutes in conidial suspensions of <i>Colletotrichum acutatum</i>, and then drip-dried. Plants were then stored for 8 h at 20&#xb0; C., or 3 days at 5&#xb0; C. Plants were then treated with natamycin by dipping them for 10 seconds in a liquid which was obtained either by adding 13.3 oz of a 10% w/v natamycin suspension to 150 gallon of water or which was obtained by adding 26.6 oz of a 10% w/v natamycin suspension to 150 gallon of water. The plants were then planted in different rows for each treatment, one feet apart and the yield was evaluated for fruit yield after 6 weeks. See below Table 1 for results.</p>
+<p id="p-0045" num="0044">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Treatment of cv. Portola plants with natamycin</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="119pt" align="left"/>
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Average weight</entry>
+</row>
+<row>
+<entry/>
+<entry>Yield per</entry>
+<entry>per individual</entry>
+</row>
+<row>
+<entry/>
+<entry>treated plot</entry>
+<entry>strawberry</entry>
+</row>
+<row>
+<entry/>
+<entry>(kg/m<sup>2</sup>)</entry>
+<entry>(g)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="left"/>
+<colspec colname="3" colwidth="49pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>No water control</entry>
+<entry/>
+<entry>585.1</entry>
+<entry>7.9</entry>
+</row>
+<row>
+<entry>Water control</entry>
+<entry/>
+<entry>406.4</entry>
+<entry>7.3</entry>
+</row>
+<row>
+<entry>Natamycin</entry>
+<entry>13.3 oz./150 gallon</entry>
+<entry>714.4</entry>
+<entry>8.7</entry>
+</row>
+<row>
+<entry>Natamycin</entry>
+<entry>26.6 oz./150 gallon</entry>
+<entry>742.5</entry>
+<entry>8.7</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0011" level="1">Example 2</heading>
+<heading id="h-0012" level="1">Treatment of cv. Portola and cv. Fronteras Plants with Various Antifungals</heading>
+<p id="p-0046" num="0045">Rooted plugs of strawberry cv. Portola and cv. Fronteras plants obtained from two commercial nurseries were dipped for 4 min into conidial suspensions (10<sup>6 </sup>conidia/ml) of azoxystrobin (QoI)-sensitive (S) or -resistant (R) strains of <i>Colletotrichum acutatum</i>. Plants were stored at 20&#xb0; C. for 8 h to allow the pathogen to germinate and infect, and then up to 3 days at 5&#xb0; C. until treatment. Naturally infected plants from one nursery were also used. Dip treatments for 4 min of inoculated and non-inoculated plants included water without (i.e., control) and with the following fungicides:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0046">Actinovate, a commercially available biological antifungal preparation containing <i>Streptomyces lydicus </i>was applied at 24 oz./150 gal.</li>
+        <li id="ul0002-0002" num="0047">Azoxystrobin, a commercially available synthetic strobilurin fungicide was applied at 8 fl. oz./150 gal.</li>
+        <li id="ul0002-0003" num="0048">Bravo&#xae;, a synthetic fungicide comprising chlorothalonil available from Syngenta, was applied at 24 fl. oz./150 gal.</li>
+        <li id="ul0002-0004" num="0049">Switch&#xae;, a synthetic fungicide comprising cyprodinil and fludioxonil available from Syngenta, was applied at 8 oz./150 gal.</li>
+        <li id="ul0002-0005" num="0050">The amounts mentioned for natamycin are per 150 gal.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0047" num="0051">Plants were allowed to drip-dry and were stored overnight at 5&#xb0; C. Plants were planted one foot apart in double-row beds in a randomized complete block design with each bed representing a single block (replication) and a total of four blocks. There were 10 plants each of cv. Portola and cv. Fronteras in each replication in the inoculated plant portion of the field, and there were 20 plants per replication for the non-inoculated cv. Portola plants. Overhead irrigation was applied daily for 30 min for the first week, and then twice a week for the remaining time (one month total), similar to commercial practices.</p>
+<p id="p-0048" num="0052">Re-Isolation and Treatment Evaluation:</p>
+<p id="p-0049" num="0053">Plants were evaluated periodically for disease and phytotoxicity over the course of the trial. As plants develop disease symptoms, fungal isolations were done from diseased tissue to validate the symptoms as anthracnose. For this, pieces of crown and leaf tissues from the margins between diseased and healthy tissue were surface-sterilized with sodium hypochlorite and rinsed with sterile, distilled water. A small sample of this plant tissue was removed, cut into pieces, and plated onto 10-cm potato dextrose agar media plates amended with ampicillin and rifampicin to inhibit bacterial growth. Plates were incubated for 5-6 days at 25&#xb0; C., and fungal colonies were identified using morphological characteristics. A subset of fungal colonies was confirmed by PCR using species-specific primers for <i>Colletotrichum acutatum </i>(F&#xf6;rster and Adaskaveg, <i>Phytopathology </i>(1999) 89 1056-1065).</p>
+<p id="p-0050" num="0054">In Vitro Toxicity Assays:</p>
+<p id="p-0051" num="0055">Diseased plants were collected and isolates of <i>Colletotrichum acutatum </i>were obtained by culturing the pathogen onto PDA media as described above. The toxicity of natamycin to <i>Colletotrichum acutatum </i>was determined using the spiral gradient dilution assay. For this, an aqueous suspension of conidia was prepared and conidia for each isolate were spread in a radial pattern across a log-dilution of the fungicide on a 150 mm-PDA plate. Plates were incubated 3 to 4 days at 20&#xb0; C. The growth response of the fungus was recorded and EC50 values determined based on the chemical concentration where 50% of the growth was inhibited.</p>
+<p id="p-0052" num="0056">Statistical Analysis of Data:</p>
+<p id="p-0053" num="0057">Categorical disease ratings were averaged to obtain a severity rating for each replication. Mean values for treatments (4 replications per treatment) provided an overall severity rating. Average percent mortality per replicate was determined and then arcsine-transformed. Yield data were summarized for each replicate and averaged for each treatment and log 10-transformed. Data were analyzed as a split plot for the QoI-S and -R inoculated plants and then by variety using a one-way ANOVA or a general linear model with treatment as the single factor. Multiple comparisons were conducted using Fisher's Least Significant Difference test. All statistical procedures were done using SAS version 9.4 with a significance value of &#x3b1;=0.05. In vitro toxicity data were subjected to Scott's distribution analysis. Mean values and range of sensitivity were determined for the isolates collected. This information was used to develop the baseline sensitivity for natamycin to <i>Colletotrichum acutatum</i>. Plant growth evaluation was after four weeks, fruit yield evaluation after six weeks. For evaluation, plants were visually rated for disease severity based on their appearance using a scale from 0 (healthy, vigorous plant) to 4 (dead plant). Data were summarized based on average severity for each treatment and percent plant mortality. For determining crop yield, all marketable fruit were harvested separately from each treatment plot, counted, and weighed. Data were summarized based on average total weight per plot and on weight per fruit. For results see below Table 2 (plant growth) and Table 3 (yield and fruit size).</p>
+<p id="p-0054" num="0058">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="280pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Treatment of strawberry plants with various antifungals; effect on plant growth</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="49pt" align="left"/>
+<colspec colname="1" colwidth="84pt" align="center"/>
+<colspec colname="2" colwidth="84pt" align="center"/>
+<colspec colname="3" colwidth="63pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Inoculated:</entry>
+<entry>Inoculated:</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Azoxystrobin-</entry>
+<entry>Azoxystrobin-</entry>
+</row>
+<row>
+<entry/>
+<entry>sensitive</entry>
+<entry>resistant</entry>
+</row>
+<row>
+<entry/>
+<entry>isolate (Nursery 1)</entry>
+<entry>isolate (Nursery 1)</entry>
+<entry>Naturally infected</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="offset" colwidth="49pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="63pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>cv.</entry>
+<entry/>
+<entry>cv.</entry>
+<entry>(Nursery 2)</entry>
+</row>
+<row>
+<entry/>
+<entry>cv. Portola</entry>
+<entry>Fronteras</entry>
+<entry>cv. Portola</entry>
+<entry>Fronteras</entry>
+<entry>cv. Portola</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="12">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="14pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="14pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="14pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="center"/>
+<colspec colname="8" colwidth="14pt" align="center"/>
+<colspec colname="9" colwidth="28pt" align="center"/>
+<colspec colname="10" colwidth="14pt" align="center"/>
+<colspec colname="11" colwidth="28pt" align="center"/>
+<colspec colname="12" colwidth="21pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>DS</entry>
+<entry>DI (%)</entry>
+<entry>DS</entry>
+<entry>DI (%)</entry>
+<entry>DS</entry>
+<entry>DI (%)</entry>
+<entry>DS</entry>
+<entry>DI (%)</entry>
+<entry>DS</entry>
+<entry>DI (%)</entry>
+<entry>LSI</entry>
+</row>
+<row>
+<entry namest="1" nameend="12" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="12">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="14pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="14pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<colspec colname="6" colwidth="14pt" align="char" char="."/>
+<colspec colname="7" colwidth="28pt" align="char" char="."/>
+<colspec colname="8" colwidth="14pt" align="char" char="."/>
+<colspec colname="9" colwidth="28pt" align="char" char="."/>
+<colspec colname="10" colwidth="14pt" align="char" char="."/>
+<colspec colname="11" colwidth="28pt" align="char" char="."/>
+<colspec colname="12" colwidth="21pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>No water</entry>
+<entry>3.5</entry>
+<entry>95.0</entry>
+<entry>1.9</entry>
+<entry>84.7</entry>
+<entry>4.0</entry>
+<entry>100.0</entry>
+<entry>2.4</entry>
+<entry>87.5</entry>
+<entry>1.1</entry>
+<entry>64.6</entry>
+<entry>1.2</entry>
+</row>
+<row>
+<entry>control</entry>
+</row>
+<row>
+<entry>Water</entry>
+<entry>3.4</entry>
+<entry>100.0</entry>
+<entry>1.5</entry>
+<entry>71.7</entry>
+<entry>4.0</entry>
+<entry>100.0</entry>
+<entry>2.6</entry>
+<entry>90.0</entry>
+<entry>2.0</entry>
+<entry>86.7</entry>
+<entry>1.3</entry>
+</row>
+<row>
+<entry>control</entry>
+</row>
+<row>
+<entry>Actinovate</entry>
+<entry>3.2</entry>
+<entry>97.5</entry>
+<entry>1.9</entry>
+<entry>70.0</entry>
+<entry>3.9</entry>
+<entry>100.0</entry>
+<entry>2.9</entry>
+<entry>97.5</entry>
+<entry>1.5</entry>
+<entry>74.9</entry>
+<entry>1.0</entry>
+</row>
+<row>
+<entry>Azoxystrobin</entry>
+<entry>0.8</entry>
+<entry>33.1</entry>
+<entry>0.2</entry>
+<entry>7.5</entry>
+<entry>4.0</entry>
+<entry>100.0</entry>
+<entry>2.9</entry>
+<entry>100.0</entry>
+<entry>0.5</entry>
+<entry>41.7</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>Bravo&#x2009;&#xae;</entry>
+<entry>2.7</entry>
+<entry>90.0</entry>
+<entry>1.1</entry>
+<entry>52.5</entry>
+<entry>2.9</entry>
+<entry>87.5</entry>
+<entry>1.6</entry>
+<entry>67.5</entry>
+<entry>1.2</entry>
+<entry>69.4</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>Switch&#x2009;&#xae;</entry>
+<entry>0.4</entry>
+<entry>41.7</entry>
+<entry>0.4</entry>
+<entry>37.5</entry>
+<entry>0.5</entry>
+<entry>40.0</entry>
+<entry>0.3</entry>
+<entry>23.6</entry>
+<entry>0.8</entry>
+<entry>53.1</entry>
+<entry>0.8</entry>
+</row>
+<row>
+<entry>Natamycin</entry>
+<entry>0.8</entry>
+<entry>32.5</entry>
+<entry>0.8</entry>
+<entry>37.5</entry>
+<entry>2.2</entry>
+<entry>82.5</entry>
+<entry>0.8</entry>
+<entry>37.5</entry>
+<entry>0.9</entry>
+<entry>57.5</entry>
+<entry>0.6</entry>
+</row>
+<row>
+<entry>13.3 oz.</entry>
+</row>
+<row>
+<entry>Natamycin</entry>
+<entry>0.4</entry>
+<entry>27.5</entry>
+<entry>0.6</entry>
+<entry>32.5</entry>
+<entry>0.4</entry>
+<entry>29.4</entry>
+<entry>1.3</entry>
+<entry>54.2</entry>
+<entry>0.7</entry>
+<entry>53.7</entry>
+<entry>0.4</entry>
+</row>
+<row>
+<entry>26.6 oz.</entry>
+</row>
+<row>
+<entry namest="1" nameend="12" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="12" align="left" id="FOO-00001">DS: Disease severity, by ranking (average): 4 (dead); 3 (severely stunted); 2 (poor growth); 1 (off color); 0 (no reduction, good plant)</entry>
+</row>
+<row>
+<entry namest="1" nameend="12" align="left" id="FOO-00002">DI: Disease incidence, in % (average)</entry>
+</row>
+<row>
+<entry namest="1" nameend="12" align="left" id="FOO-00003">LSI: Leaf spot incidence, in number of spots (average)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0055" num="0059">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="259pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Treatment of strawberry plants with various antifungals; effect on yield and fruit size</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="63pt" align="left"/>
+<colspec colname="1" colwidth="77pt" align="center"/>
+<colspec colname="2" colwidth="77pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Inoculated:</entry>
+<entry>Inoculated:</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Azoxystrobin-</entry>
+<entry>Azoxystrobin-</entry>
+</row>
+<row>
+<entry/>
+<entry>sensitive</entry>
+<entry>resistant</entry>
+<entry>Naturally</entry>
+</row>
+<row>
+<entry/>
+<entry>isolate (Nursery 1)</entry>
+<entry>isolate (Nursery 1)</entry>
+<entry>infected</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="offset" colwidth="63pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>cv.</entry>
+<entry>cv.</entry>
+<entry>cv.</entry>
+<entry>cv.</entry>
+<entry>(Nursery 2)</entry>
+</row>
+<row>
+<entry/>
+<entry>Portola</entry>
+<entry>Fronteras</entry>
+<entry>Portola</entry>
+<entry>Fronteras</entry>
+<entry>cv. Portola</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="offset" colwidth="63pt" align="left"/>
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="14pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="14pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="28pt" align="center"/>
+<colspec colname="10" colwidth="14pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Y</entry>
+<entry>W</entry>
+<entry>Y</entry>
+<entry>W</entry>
+<entry>Y</entry>
+<entry>W</entry>
+<entry>Y</entry>
+<entry>W</entry>
+<entry>Y</entry>
+<entry>W</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="char" char="."/>
+<colspec colname="3" colwidth="14pt" align="char" char="."/>
+<colspec colname="4" colwidth="21pt" align="char" char="."/>
+<colspec colname="5" colwidth="21pt" align="char" char="."/>
+<colspec colname="6" colwidth="21pt" align="char" char="."/>
+<colspec colname="7" colwidth="14pt" align="char" char="."/>
+<colspec colname="8" colwidth="21pt" align="char" char="."/>
+<colspec colname="9" colwidth="21pt" align="char" char="."/>
+<colspec colname="10" colwidth="28pt" align="char" char="."/>
+<colspec colname="11" colwidth="14pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>No water control</entry>
+<entry>11.6</entry>
+<entry>5.8</entry>
+<entry>23.9</entry>
+<entry>7.56</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>81.2</entry>
+<entry>8.7</entry>
+<entry>585.1</entry>
+<entry>7.9</entry>
+</row>
+<row>
+<entry>Water control</entry>
+<entry>6.2</entry>
+<entry>8.0</entry>
+<entry>125.0</entry>
+<entry>8.34</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>101.8</entry>
+<entry>9.8</entry>
+<entry>406.4</entry>
+<entry>7.3</entry>
+</row>
+<row>
+<entry>Actinovate</entry>
+<entry>13.9</entry>
+<entry>3.6</entry>
+<entry>75.4</entry>
+<entry>6.92</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>29.0</entry>
+<entry>5.1</entry>
+<entry>454.4</entry>
+<entry>7.6</entry>
+</row>
+<row>
+<entry>Azoxystrobin</entry>
+<entry>157.7</entry>
+<entry>6.4</entry>
+<entry>378.1</entry>
+<entry>10.68</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>16.4</entry>
+<entry>7.9</entry>
+<entry>1114.8</entry>
+<entry>9.8</entry>
+</row>
+<row>
+<entry>Bravo&#x2009;&#xae;</entry>
+<entry>21.2</entry>
+<entry>4.8</entry>
+<entry>102.4</entry>
+<entry>8.74</entry>
+<entry>23.7</entry>
+<entry>8.7</entry>
+<entry>116.7</entry>
+<entry>8.6</entry>
+<entry>689.6</entry>
+<entry>9.1</entry>
+</row>
+<row>
+<entry>Switch&#x2009;&#xae;</entry>
+<entry>151.9</entry>
+<entry>6.6</entry>
+<entry>190.2</entry>
+<entry>8.33</entry>
+<entry>149.7</entry>
+<entry>5.8</entry>
+<entry>254.9</entry>
+<entry>10.0</entry>
+<entry>792.2</entry>
+<entry>9.3</entry>
+</row>
+<row>
+<entry>Natamycin 13.3 oz.</entry>
+<entry>224.1</entry>
+<entry>7.9</entry>
+<entry>161.8</entry>
+<entry>8.14</entry>
+<entry>112.4</entry>
+<entry>7.9</entry>
+<entry>261.7</entry>
+<entry>8.9</entry>
+<entry>714.4</entry>
+<entry>8.7</entry>
+</row>
+<row>
+<entry>Natamycin 26.6 oz.</entry>
+<entry>188.4</entry>
+<entry>7.0</entry>
+<entry>161.1</entry>
+<entry>8.31</entry>
+<entry>235.0</entry>
+<entry>8.6</entry>
+<entry>145.2</entry>
+<entry>9.3</entry>
+<entry>742.5</entry>
+<entry>8.7</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="11" align="left" id="FOO-00004">Y: Yield (average), in g per treated plot</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="left" id="FOO-00005">W: Weight (average), in g per fruit</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0013" level="1">Example 3</heading>
+<heading id="h-0014" level="1">Evaluation of Dip Treatments on Florida Radiance Transplants with Various Antifungals for Control of <i>Colletotrichum acutatum </i></heading>
+<p id="p-0056" num="0060">Product effectiveness in managing root necrosis caused by <i>Colletotrichum acutatum </i>was evaluated by inoculating bare-root transplants of <i>Fragaria&#xd7;ananassa </i>cv. Florida Radiance with a mixture of four <i>Colletotrichum acutatum </i>isolates, two sensitive and two resistant to Quinone-outside inhibitor (QoI) fungicides. Plants were inoculated by spraying a suspension of 106 conidia/ml onto plant roots using 300 ml per 100 plants. After inoculation, plants were kept at room temperature overnight and were transplanted into plastic-mulched raised beds. Beds were 28 in. wide on 4-ft. centers and contained two staggered rows of plants spaced 12 in apart within and 15 in. between rows. Fifteen treatments were arranged in a randomized complete block design with four blocks in neighboring beds. Plots were 10.5-ft. long with 20 plants each, separated by a 3-ft. gap without plants. Treatments consisted of submerging (dipping) four bundles of 20 plants each in a 4 gal. solution or suspension of fungicide for 5 min. All treatments were dipped in the field just prior to planting in single marked plots in each replication, except one treatment of natamycin which was dipped indoors to avoid degradation by sunlight. Controls were dipped in water for 5 min before planting. To aid establishment, plants were overhead irrigated for 10 days. Further irrigation and fertilization were done via drip tapes until the end of the evaluations. K-phite&#xae;, Prophyt&#xae;, Prophyt&#xae;+Abound&#xae;, and Phostrol&#xae; treatments received an additional foliar spray application 21 days after planting (DAP). Plant diameters of 10 staggered plants in each plot were measured 35 DAP using a ruler attached to a clear plastic sheet to push leaves down near the bed. Two perpendicular measurements were made, the first along the longest axis of the canopy. The 10% trimmed average was used to avoid outliers and estimate plant diameter per plot. Percentage of diseased plants (dead+wilted) was evaluated 42 DAP. Seven harvests were performed. Yield was determined by counting and weighing marketable fruit, and expressed in lb/A. Plant diameter, plant mortality, and yield were analyzed by fitting a generalized linear mixed model in SAS. Means were separated by Fisher's Protected LSD test (&#x3b1;=0.05). For results see Table 4.</p>
+<p id="p-0057" num="0061">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="301pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Treatment of strawberry plants with various antifungals against <i>Colletotrichum acutatum</i></entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="161pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="56pt" align="left"/>
+<colspec colname="4" colwidth="35pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Plant diameter</entry>
+<entry>Disease incidence</entry>
+<entry>Yield</entry>
+</row>
+<row>
+<entry>Treatment (rates/100 gal.)</entry>
+<entry>(in)<sup>1</sup></entry>
+<entry>(%)<sup>1</sup></entry>
+<entry>(lb./A)<sup>1</sup></entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Switch&#x2009;&#xae; (cyprodinil and fludioxonil), 8 oz.</entry>
+<entry>6.8 a</entry>
+<entry>&#x2002;1.2 e</entry>
+<entry>3887 a</entry>
+</row>
+<row>
+<entry>Topsin&#x2009;&#xae; (thiophanate-methyl), 20 fl. oz.</entry>
+<entry>6.5 ab</entry>
+<entry>&#x2002;1.2 de</entry>
+<entry>3202 ab</entry>
+</row>
+<row>
+<entry>Natamycin, 26.6 fl. oz. (dipped in the field)</entry>
+<entry>5.7 bcd</entry>
+<entry>&#x2002;2.5 de</entry>
+<entry>2924 abc</entry>
+</row>
+<row>
+<entry>Captan Gold&#x2009;&#xae; (N-trichloromethylthio-4-</entry>
+<entry>6.5 ab</entry>
+<entry>&#x2002;5.0 cde</entry>
+<entry>2705 bcd</entry>
+</row>
+<row>
+<entry>cyclohexene-1,2-dicarboximide), 2 qt.</entry>
+</row>
+<row>
+<entry>Natamycin, 26.6 fl. oz. (dipped indoors to avoid</entry>
+<entry>5.9 abc</entry>
+<entry>&#x2002;0.0 e</entry>
+<entry>2547 bcde</entry>
+</row>
+<row>
+<entry>sunlight)</entry>
+</row>
+<row>
+<entry>Omega&#x2009;&#xae; (fluazinam), 1.25 pt.</entry>
+<entry>4.6 cde</entry>
+<entry>17.5 abc</entry>
+<entry>2186 bcde</entry>
+</row>
+<row>
+<entry>Kphite&#x2009;&#xae; (mono- and di-potassium salts of</entry>
+<entry>5.1 bcd</entry>
+<entry>12.5 abcd</entry>
+<entry>2145 bcde</entry>
+</row>
+<row>
+<entry>phosphorous acid), 2 pt. dip f.b. 4 pt. spray, 21</entry>
+</row>
+<row>
+<entry>DAP</entry>
+</row>
+<row>
+<entry>ProPhyt&#x2009;&#xae; (potassium phosphite), 4 pt. dip f.b. 4 pt.</entry>
+<entry>4.4 de</entry>
+<entry>11.2 bcde</entry>
+<entry>2031 cde</entry>
+</row>
+<row>
+<entry>spray, 21 DAP</entry>
+</row>
+<row>
+<entry>ProPhyt&#x2009;&#xae; (potassium phosphite), 2 pt. dip f.b. 4 pt.</entry>
+<entry>4.3 de</entry>
+<entry>18.7 ab</entry>
+<entry>1897 cde</entry>
+</row>
+<row>
+<entry>spray, 21 DAP</entry>
+</row>
+<row>
+<entry>ProPhyt&#x2009;&#xae; (potassium phosphite), 2 pt. + Abound&#x2009;&#xae;</entry>
+<entry>4.2 de</entry>
+<entry>16.2 ab</entry>
+<entry>1891 cde</entry>
+</row>
+<row>
+<entry>(azoxystrobin), 8 fl. oz. dip f.b. ProPhyt&#x2009;&#xae;, 2 pt. +</entry>
+</row>
+<row>
+<entry>Abound&#x2009;&#xae;, 8 fl. oz. spray 21 DAP</entry>
+</row>
+<row>
+<entry>Phostrol&#x2009;&#xae; (phosphorous acid salts), 2 pt. dip f.b. 4</entry>
+<entry>5.0 cd</entry>
+<entry>13.7 abc</entry>
+<entry>1802 de</entry>
+</row>
+<row>
+<entry>pt. spray, 21 DAP</entry>
+</row>
+<row>
+<entry>Abound&#x2009;&#xae; (azoxystrobin), 8 fl. oz.</entry>
+<entry>4.5 de</entry>
+<entry>13.7 abc</entry>
+<entry>1644 de</entry>
+</row>
+<row>
+<entry>Actinovate (<i>Streptomyces lydicus</i>), 24 oz.</entry>
+<entry>4.4 de</entry>
+<entry>13.7 abcd</entry>
+<entry>1516 e</entry>
+</row>
+<row>
+<entry>Actinovate (<i>Streptomyces lydicus</i>), 12 oz.</entry>
+<entry>3.5 e</entry>
+<entry>28.7 a</entry>
+<entry>1488 e</entry>
+</row>
+<row>
+<entry>Non-treated control</entry>
+<entry>4.2 de</entry>
+<entry>16.2 abc</entry>
+<entry>1690 de</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="4" align="left" id="FOO-00006"><sup>1</sup>Means in a column followed by the same letter are not significantly different by Fisher's Protected Least Significant Difference test (&#x3b1; = 0.05)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0058" num="0062">Diseased plants ranged from 0.0 (natamycin 26.6 fl. oz. indoor treatment) to 28.7% (Actinovate 12 oz.), demonstrating the remarkable positive effect when natamycin treatment was carried out in the absence of direct sunlight. Switch&#xae;, Topsin&#xae;, and both rates of natamycin were the only treatments that reduced disease incidence compared to the non-treated control. With the exception of natamycin (dipped in the field), these same treatments as well as Captan Gold&#xae; significantly increased plant diameter when evaluated 35 DAP. Switch&#xae;, Topsin&#xae;, and natamycin (dipped in the field), were the only treatments producing higher yields than the non-treated control. The only QoI fungicide tested (Abound&#xae;) did not differ from the non-treated control for any of the evaluated parameters suggesting that this group of fungicides is no longer effective when resistant isolates are present.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A process for increasing the yield of a strawberry crop, the process comprising applying natamycin to the roots of a strawberry plant prior to planting said strawberry plant, wherein said strawberry plant is infected with, or susceptible to infection with <i>Colletotrichum </i>spp, and wherein the yield is increased compared to strawberry plants infected with, or susceptible to infection with <i>Colletotrichum </i>spp., to which natamycin was not applied.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the natamycin is part of a liquid composition.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref> comprising at least one additional compound selected from the group consisting of surfactants, sticking agents, carriers, adjuvants, solvents, dispersants, emulsifiers, wetting agents, stabilizers, antifoaming agents, buffering agents, and antioxidants.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The process according to <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein the concentration of the natamycin in the liquid composition is from 1-10,000 ppm.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the natamycin comprises needle shaped crystals having an average length of between 0.1 and 20 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The process according to <claim-ref idref="CLM-00005">claim 5</claim-ref> wherein the natamycin comprises at least 90% w/w needle shaped crystals having an average length of between 0.1 and 20 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The process according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said natamycin is applied to the roots of said strawberry plant in the absence of sunlight.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the <i>Colletotrichum </i>spp. is <i>Colletotrichum acutatum. </i></claim-text>
+</claim>
+</claims>
+</us-patent-grant>
